@@ -1,0 +1,309 @@
+- abbreviation: 3DO
+  id: 50
+  name: 3DO Interactive Multiplayer
+- abbreviation: Amiga
+  id: 16
+  name: Amiga
+- abbreviation: ACPC
+  id: 25
+  name: Amstrad CPC
+- abbreviation: analogueelectronics
+  id: 100
+  name: Analogue electronics
+- abbreviation: Android
+  id: 34
+  name: Android
+- abbreviation: Apple][
+  id: 75
+  name: Apple II
+- abbreviation: Arcade
+  id: 52
+  name: Arcade
+- abbreviation: Atari2600
+  id: 59
+  name: Atari 2600
+- abbreviation: Atari5200
+  id: 66
+  name: Atari 5200
+- abbreviation: Atari7800
+  id: 60
+  name: Atari 7800
+- abbreviation: Atari8bit
+  id: 65
+  name: Atari 8-bit
+- abbreviation: Jaguar
+  id: 62
+  name: Atari Jaguar
+- abbreviation: Lynx
+  id: 61
+  name: Atari Lynx
+- abbreviation: Atari-ST
+  id: 63
+  name: Atari ST/STE
+- abbreviation: astrocade
+  id: 91
+  name: Bally Astrocade
+- abbreviation: bbcmicro
+  id: 69
+  name: BBC Microcomputer System
+- abbreviation: blackberry
+  id: 73
+  name: BlackBerry OS
+- abbreviation: call-a-computer
+  id: 107
+  name: Call-A-Computer time-shared mainframe computer system
+- abbreviation: cdccyber70
+  id: 109
+  name: CDC Cyber 70
+- abbreviation: colecovision
+  id: 68
+  name: ColecoVision
+- abbreviation: C16
+  id: 93
+  name: Commodore 16
+- abbreviation: C64
+  id: 15
+  name: Commodore C64/128
+- abbreviation: cpet
+  id: 90
+  name: Commodore PET
+- abbreviation: C+4
+  id: 94
+  name: Commodore Plus/4
+- abbreviation: vic-20
+  id: 71
+  name: Commodore VIC-20
+- abbreviation: gt40
+  id: 98
+  name: DEC GT40
+- abbreviation: donner30
+  id: 85
+  name: Donner Model 30
+- abbreviation: DC
+  id: 23
+  name: Dreamcast
+- abbreviation: edsac
+  id: 102
+  name: EDSAC
+- abbreviation: fds
+  id: 51
+  name: Family Computer Disk System
+- abbreviation: famicom
+  id: 99
+  name: Family Computer (FAMICOM)
+- abbreviation: nimrod
+  id: 101
+  name: Ferranti Nimrod Computer
+- abbreviation: Game Boy
+  id: 33
+  name: Game Boy
+- abbreviation: GBA
+  id: 24
+  name: Game Boy Advance
+- abbreviation: GBC
+  id: 22
+  name: Game Boy Color
+- abbreviation: hp2100
+  id: 104
+  name: HP 2100
+- abbreviation: hp3000
+  id: 105
+  name: HP 3000
+- abbreviation: imlac-pds1
+  id: 111
+  name: Imlac PDS-1
+- abbreviation: intellivision
+  id: 67
+  name: Intellivision
+- abbreviation: iOS
+  id: 39
+  name: iOS
+- abbreviation: Linux
+  id: 3
+  name: Linux
+- abbreviation: Mac
+  id: 14
+  name: Mac
+- abbreviation: microcomputer
+  id: 112
+  name: Microcomputer
+- abbreviation: microvision
+  id: 89
+  name: Microvision
+- abbreviation: Mobile
+  id: 55
+  name: Mobile
+- abbreviation: MSX
+  id: 27
+  name: MSX
+- abbreviation: MSX2
+  id: 53
+  name: MSX2
+- abbreviation: neogeoaes
+  id: 80
+  name: Neo Geo AES
+- abbreviation: neogeomvs
+  id: 79
+  name: Neo Geo MVS
+- abbreviation: NGage
+  id: 42
+  name: N-Gage
+- abbreviation: 3DS
+  id: 37
+  name: Nintendo 3DS
+- abbreviation: N64
+  id: 4
+  name: Nintendo 64
+- abbreviation: NDS
+  id: 20
+  name: Nintendo DS
+- abbreviation: NES
+  id: 18
+  name: Nintendo Entertainment System (NES)
+- abbreviation: NGC
+  id: 21
+  name: Nintendo GameCube
+- abbreviation: switch
+  id: 130
+  name: Nintendo Switch
+- abbreviation: odyssey
+  id: 88
+  name: Odyssey
+- abbreviation: Ouya
+  id: 72
+  name: Ouya
+- abbreviation: DOS
+  id: 13
+  name: PC DOS
+- abbreviation: supergrafx
+  id: 128
+  name: PC Engine SuperGrafx
+- abbreviation: PC
+  id: 6
+  name: PC (Microsoft Windows)
+- abbreviation: pdp1
+  id: 95
+  name: PDP-1
+- abbreviation: pdp10
+  id: 96
+  name: PDP-10
+- abbreviation: pdp11
+  id: 108
+  name: PDP-11
+- abbreviation: pdp-7
+  id: 103
+  name: PDP-7
+- abbreviation: pdp-8
+  id: 97
+  name: PDP-8
+- abbreviation: plato
+  id: 110
+  name: PLATO
+- abbreviation: PS1
+  id: 7
+  name: PlayStation
+- abbreviation: PS2
+  id: 8
+  name: PlayStation 2
+- abbreviation: PS3
+  id: 9
+  name: PlayStation 3
+- abbreviation: PS4
+  id: 48
+  name: PlayStation 4
+- abbreviation: psn
+  id: 45
+  name: PlayStation Network
+- abbreviation: PSP
+  id: 38
+  name: PlayStation Portable
+- abbreviation: Vita
+  id: 46
+  name: PlayStation Vita
+- abbreviation: sdssigma7
+  id: 106
+  name: SDS Sigma 7
+- abbreviation: Sega32
+  id: 30
+  name: Sega 32X
+- abbreviation: segacd
+  id: 78
+  name: Sega CD
+- abbreviation: Game Gear
+  id: 35
+  name: Sega Game Gear
+- abbreviation: SMS
+  id: 64
+  name: Sega Master System
+- abbreviation: Genesis
+  id: 29
+  name: Sega Mega Drive/Genesis
+- abbreviation: Saturn
+  id: 32
+  name: Sega Saturn
+- abbreviation: sg1000
+  id: 84
+  name: SG-1000
+- abbreviation: x1
+  id: 77
+  name: Sharp X1
+- abbreviation: steam
+  id: 92
+  name: SteamOS
+- abbreviation: SFAM
+  id: 58
+  name: Super Famicom
+- abbreviation: SNES
+  id: 19
+  name: Super Nintendo Entertainment System (SNES)
+- abbreviation: zod
+  id: 44
+  name: Tapwave Zodiac
+- abbreviation: ti-99
+  id: 129
+  name: Texas Instruments TI-99
+- abbreviation: turbografx16
+  id: 86
+  name: TurboGrafx-16/PC Engine
+- abbreviation: vectrex
+  id: 70
+  name: Vectrex
+- abbreviation: virtualboy
+  id: 87
+  name: Virtual Boy
+- abbreviation: VC
+  id: 47
+  name: Virtual Console (Nintendo)
+- abbreviation: browser
+  id: 82
+  name: Web browser
+- abbreviation: Wii
+  id: 5
+  name: Wii
+- abbreviation: WiiU
+  id: 41
+  name: Wii U
+- abbreviation: WiiWare
+  id: 56
+  name: WiiWare
+- abbreviation: Win Phone
+  id: 74
+  name: Windows Phone
+- abbreviation: WonderSwan
+  id: 57
+  name: WonderSwan
+- abbreviation: XBOX
+  id: 11
+  name: Xbox
+- abbreviation: X360
+  id: 12
+  name: Xbox 360
+- abbreviation: xla
+  id: 36
+  name: Xbox Live Arcade
+- abbreviation: XONE
+  id: 49
+  name: Xbox One
+- abbreviation: ZXS
+  id: 26
+  name: ZX Spectrum
