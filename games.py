@@ -1,6 +1,7 @@
 import api_data
 import yaml
 
+
 class Games():
     
     def __init__(self, platform_id):

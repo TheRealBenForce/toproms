@@ -3,7 +3,7 @@ import csv
 import games
 import roms
 from console_args import CONSOLE_ARGS
-from fuzzywuzzy import process
+from fuzzywuzzy import fuzz
 
 class Processor():
     def __init__(self):
@@ -23,38 +23,48 @@ class Processor():
 
     def make_top_list(self):
         """ Makes a new list of rom files based on most popular and what you have. """
+        total = 0
         for i in self.config_data:
             g = games.Games(i['platformID'])
             top_list = sorted(g.get_top_game_list())
             r = roms.Roms(i['platformID'])
             current_list = sorted(r.get_rom_file_list())
-            trimmed_list = []
-            for r in current_list:
-                trimmed_list.append(self.trim_filename(r))
             best_list = []
             print("PROCESSING: " + g.get_console_name())
             for t in top_list:
                 try:
-                    highest = process.extractOne(t['name'],trimmed_list)
-                    if highest[1] > 85:
-                        print(t['name'] + " <|> " + highest[0] + " <|> " + str(highest[1]))
+                    file, short_name, score = self.find_highest(t, current_list)
+                    if score > 80:
+                        #print(t['name'] + " <|> " + short_name + " <|> " + str(score))
+                        best_list.append(file)
+                        total += 1
                     else:
-                        print("SKIPPING: " + t['name'] + " <|> " + highest[0] + " <|> " + str(highest[1]))
+                        pass
+                        #print("SKIPPING: " + t['name'] + " <|> " + short_name + " <|> " + str(score))
                 except Exception as e:
                     print(str(e))
                     pass
+            r.make_new_rom_set(best_list)
         return
-    
+
+
     def trim_filename(self, filename):
         """ Attempts to trim extension and things in parans and brackets """
         no_ext = filename[:-4]
         result = re.sub("[\(\[].*?[\)\]]", "", no_ext)
         return result.strip()
-        
-    #def match_top_game(self, top_game, game_list):
-    #    """ takes a top game and finds the best match against a list"""
-    #    best_match = None
-    #    top_score = 0
-    #    for g in game_list:
-    #        pass
-    #    return best_match
+
+
+    def find_highest(self, game, file_list):
+        """ returns the filename, simple name, and score from a list that best matches a search game """
+        top_score = 0
+        top_short_name = None
+        top_file = None
+        for f in file_list:
+            short_name = self.trim_filename(f)
+            score = fuzz.token_set_ratio(game, short_name)
+            if score > top_score:
+                top_score = score
+                top_file = f
+                top_short_name = short_name
+        return top_file, top_short_name, top_score
