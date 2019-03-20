@@ -1,0 +1,180 @@
+- id: 924
+  name: Wing Commander
+  popularity: 2.339613659251121
+  rating: 90.0235871480059
+  total_rating: 90.0235871480059
+  total_rating_count: 11
+- id: 5404
+  name: 'Mickey Mania: The Timeless Adventures of Mickey Mouse'
+  popularity: 1.448342565995395
+  rating: 86.3551574366589
+  total_rating: 86.3551574366589
+  total_rating_count: 9
+- id: 5346
+  name: The Adventures of Batman & Robin
+  popularity: 2.352582165401321
+  rating: 85.4420717397491
+  total_rating: 85.4420717397491
+  total_rating_count: 9
+- id: 5334
+  name: 'Lunar: The Silver Star'
+  popularity: 1.0
+  rating: 84.86720523048209
+  total_rating: 84.86720523048209
+  total_rating_count: 7
+- id: 60
+  name: The Secret of Monkey Island
+  popularity: 7.323236988524222
+  rating: 87.28757303579829
+  total_rating: 83.64378651789914
+  total_rating_count: 250
+- id: 2472
+  name: Prince of Persia
+  popularity: 3.679858967633316
+  rating: 82.3811379976901
+  total_rating: 82.3811379976901
+  total_rating_count: 108
+- id: 5384
+  name: Eye of the Beholder
+  popularity: 1.0
+  rating: 81.68936906287851
+  total_rating: 81.68936906287851
+  total_rating_count: 15
+- id: 5451
+  name: Snatcher
+  popularity: 1.449491346118362
+  rating: 81.4437760355716
+  total_rating: 81.4437760355716
+  total_rating_count: 6
+- id: 5357
+  name: The Amazing Spider-Man vs. The Kingpin
+  popularity: 1.0
+  rating: 79.8014434504614
+  total_rating: 79.8014434504614
+  total_rating_count: 6
+- id: 5452
+  name: Sonic the Hedgehog CD
+  popularity: 1.446882171220089
+  rating: 72.86665784592459
+  total_rating: 79.09999558962895
+  total_rating_count: 50
+- id: 49
+  name: Syndicate
+  popularity: 4.161618494262111
+  rating: 82.0114508550278
+  total_rating: 75.38072542751391
+  total_rating_count: 22
+- id: 5454
+  name: Space Ace
+  popularity: 1.0
+  rating: 75.0475301659112
+  total_rating: 75.0475301659112
+  total_rating_count: 5
+- id: 8995
+  name: NBA Jam
+  popularity: 2.578012526301542
+  rating: 80.9670194974999
+  total_rating: 74.98350974874995
+  total_rating_count: 25
+- id: 1618
+  name: Mortal Kombat
+  popularity: 3.953529092740374
+  rating: 66.4775838697647
+  total_rating: 74.905458601549
+  total_rating_count: 101
+- id: 283
+  name: Theme Park
+  popularity: 2.116344716042601
+  rating: 70.3333900644455
+  total_rating: 74.66669503222275
+  total_rating_count: 34
+- id: 4379
+  name: Batman Returns
+  popularity: 2.352582165401321
+  rating: 74.3642857230241
+  total_rating: 74.3642857230241
+  total_rating_count: 23
+- id: 161
+  name: 'Star Wars: Rebel Assault'
+  popularity: 1.0
+  rating: 72.6651611862209
+  total_rating: 72.6651611862209
+  total_rating_count: 9
+- id: 85
+  name: Dune
+  popularity: 2.116607903180548
+  rating: 72.1949247928904
+  total_rating: 72.1949247928904
+  total_rating_count: 23
+- id: 5385
+  name: Fatal Fury Special
+  popularity: 1.449491346118362
+  rating: 71.0667328996438
+  total_rating: 70.5333664498219
+  total_rating_count: 6
+- id: 2486
+  name: Night Trap
+  popularity: 1.676291082700661
+  rating: 69.7760413137906
+  total_rating: 69.7760413137906
+  total_rating_count: 5
+- id: 5379
+  name: 'Ecco: The Tides of Time'
+  popularity: 1.0
+  rating: 69.7123487245284
+  total_rating: 69.7123487245284
+  total_rating_count: 8
+- id: 3249
+  name: Road Rash
+  popularity: 2.572691852950005
+  rating: 73.8967451594201
+  total_rating: 69.44837257971005
+  total_rating_count: 22
+- id: 8083
+  name: The Smurfs
+  popularity: 1.0
+  rating: 64.1205032382164
+  total_rating: 64.1205032382164
+  total_rating_count: 5
+- id: 4372
+  name: The Terminator
+  popularity: 1.671480243915138
+  rating: 63.1573067902887
+  total_rating: 63.1573067902887
+  total_rating_count: 5
+- id: 4260
+  name: Samurai Shodown
+  popularity: 1.0
+  rating: 81.69539159307331
+  total_rating: 62.34769579653666
+  total_rating_count: 16
+- id: 5410
+  name: 'Pitfall: The Mayan Adventure'
+  popularity: 1.673462458475826
+  rating: 71.9200672169129
+  total_rating: 60.96003360845645
+  total_rating_count: 8
+- id: 4516
+  name: Chuck Rock
+  popularity: 1.0
+  rating: 60.6742035571078
+  total_rating: 60.6742035571078
+  total_rating_count: 7
+- id: 4275
+  name: Flashback
+  popularity: 3.696043176485723
+  rating: 79.9296994811576
+  total_rating: 57.4648497405788
+  total_rating_count: 34
+- id: 4248
+  name: Dragon's Lair
+  popularity: 1.669964741908329
+  rating: 61.9338062115426
+  total_rating: 55.9669031057713
+  total_rating_count: 16
+- id: 5378
+  name: Ecco the Dolphin
+  popularity: 1.0
+  rating: 72.4791430423083
+  total_rating: 51.23957152115415
+  total_rating_count: 29

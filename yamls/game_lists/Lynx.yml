@@ -1,0 +1,108 @@
+- id: 7452
+  name: Ms. Pac-Man
+  popularity: 2.57141240311026
+  rating: 83.224952221169
+  total_rating: 83.61247611058451
+  total_rating_count: 28
+- id: 6798
+  name: 'Desert Strike: Return to the Gulf'
+  popularity: 1.669806829625561
+  rating: 83.14278736274859
+  total_rating: 83.14278736274859
+  total_rating_count: 17
+- id: 6856
+  name: Rygar
+  popularity: 1.674010794121431
+  rating: 79.8745686312744
+  total_rating: 79.8745686312744
+  total_rating_count: 5
+- id: 6841
+  name: Raiden
+  popularity: 1.669806829625561
+  rating: 79.76554911041559
+  total_rating: 79.76554911041559
+  total_rating_count: 9
+- id: 12228
+  name: Toki
+  popularity: 1.0
+  rating: 79.6336123903357
+  total_rating: 79.6336123903357
+  total_rating_count: 8
+- id: 3055
+  name: Rampage
+  popularity: 1.897949944634434
+  rating: 74.5067325526472
+  total_rating: 74.5067325526472
+  total_rating_count: 13
+- id: 4379
+  name: Batman Returns
+  popularity: 2.352582165401321
+  rating: 74.3642857230241
+  total_rating: 74.3642857230241
+  total_rating_count: 23
+- id: 4239
+  name: Lemmings
+  popularity: 2.562882602459641
+  rating: 77.0386174515578
+  total_rating: 72.3193087257789
+  total_rating_count: 62
+- id: 11984
+  name: California Games
+  popularity: 1.669806829625561
+  rating: 52.8222653247701
+  total_rating: 71.41113266238506
+  total_rating_count: 9
+- id: 12735
+  name: Ivan ''Ironman'' Stewart's Super Off Road
+  popularity: 1.673618070370666
+  rating: 70.3691379761151
+  total_rating: 70.3691379761151
+  total_rating_count: 7
+- id: 3592
+  name: 'Robotron: 2084'
+  popularity: 1.619909489351017
+  rating: 70.3804928531999
+  total_rating: 70.19024642659994
+  total_rating_count: 6
+- id: 6822
+  name: Pac-Land
+  popularity: 2.94367655490673
+  rating: 69.8830956498044
+  total_rating: 69.8830956498044
+  total_rating_count: 6
+- id: 3659
+  name: Joust
+  popularity: 1.0
+  rating: 58.44736546858169
+  total_rating: 69.22368273429085
+  total_rating_count: 13
+- id: 5434
+  name: Shadow of the Beast
+  popularity: 1.451305696802551
+  rating: 74.2301691021336
+  total_rating: 68.3650845510668
+  total_rating_count: 10
+- id: 11762
+  name: Paperboy
+  popularity: 1.897949944634434
+  rating: 54.2191850744199
+  total_rating: 65.4429258705433
+  total_rating_count: 29
+- id: 12001
+  name: Chip's Challenge
+  popularity: 1.0
+  rating: 60.0
+  total_rating: 60.0
+  total_rating_count: 5
+- id: 6787
+  name: Double Dragon
+  popularity: 3.469362347744694
+  rating: 75.3010085886055
+  total_rating: 57.15050429430275
+  total_rating_count: 61
+- id: 6824
+  name: Pit Fighter
+  popularity: 1.0
+  rating: 50.2032682643338
+  total_rating: 50.2032682643338
+  total_rating_count: 8

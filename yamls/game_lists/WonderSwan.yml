@@ -1,0 +1,30 @@
+- id: 8197
+  name: Tetris
+  popularity: 7.728685958616477
+  rating: 89.5624936505163
+  total_rating: 89.5624936505163
+  total_rating_count: 472
+- id: 18718
+  name: Clock Tower
+  popularity: 2.353917090407653
+  rating: 79.8876933951151
+  total_rating: 79.8876933951151
+  total_rating_count: 7
+- id: 3601
+  name: Space Invaders
+  popularity: 4.613278279156699
+  rating: 79.05489964076051
+  total_rating: 79.05489964076051
+  total_rating_count: 51
+- id: 4603
+  name: Lode Runner
+  popularity: 1.0
+  rating: 75.3978422412887
+  total_rating: 77.69892112064434
+  total_rating_count: 18
+- id: 4611
+  name: Crazy Climber
+  popularity: 1.0
+  rating: 52.8606648789639
+  total_rating: 52.8606648789639
+  total_rating_count: 5

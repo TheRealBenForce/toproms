@@ -1,0 +1,53 @@
+- id: 7425
+  name: The Witness
+  popularity: 1.0
+  total_rating: 96.2857142857143
+  total_rating_count: 8
+- id: 8170
+  name: Jet Set Willy
+  popularity: 1.0
+  rating: 84.4155874362074
+  total_rating: 87.2077937181037
+  total_rating_count: 5
+- id: 5668
+  name: Commando
+  popularity: 2.116344716042601
+  rating: 73.7949607912886
+  total_rating: 76.8974803956443
+  total_rating_count: 23
+- id: 6100
+  name: Bomb Jack
+  popularity: 1.0
+  rating: 64.3350657728551
+  total_rating: 72.16753288642755
+  total_rating_count: 6
+- id: 10161
+  name: Manic Miner
+  popularity: 1.446643161272219
+  rating: 61.1430707473384
+  total_rating: 70.5715353736692
+  total_rating_count: 6
+- id: 11762
+  name: Paperboy
+  popularity: 1.897949944634434
+  rating: 54.2191850744199
+  total_rating: 65.4429258705433
+  total_rating_count: 29
+- id: 9166
+  name: Spy vs Spy
+  popularity: 1.449227794472634
+  rating: 58.9771513671005
+  total_rating: 59.48857568355025
+  total_rating_count: 12
+- id: 1945
+  name: Zork II
+  popularity: 1.0
+  rating: 44.8284001434797
+  total_rating: 44.8284001434797
+  total_rating_count: 6
+- id: 1944
+  name: Zork I
+  popularity: 1.671480243915138
+  rating: 44.0651731437908
+  total_rating: 44.0651731437908
+  total_rating_count: 9

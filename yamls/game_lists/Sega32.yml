@@ -1,0 +1,48 @@
+- id: 673
+  name: Doom
+  popularity: 5.49781204417587
+  rating: 85.988728983394
+  total_rating: 82.994364491697
+  total_rating_count: 479
+- id: 452
+  name: Blackthorne
+  popularity: 1.676291082700661
+  rating: 76.837150725484
+  total_rating: 76.837150725484
+  total_rating_count: 13
+- id: 704
+  name: FIFA Soccer 96
+  popularity: 2.116344716042601
+  rating: 83.3356063660701
+  total_rating: 76.66780318303505
+  total_rating_count: 14
+- id: 1619
+  name: Mortal Kombat II
+  popularity: 4.349034148127803
+  rating: 75.7509485980247
+  total_rating: 75.7509485980247
+  total_rating_count: 103
+- id: 12857
+  name: Space Harrier
+  popularity: 1.451305696802551
+  rating: 69.8569045094507
+  total_rating: 69.8569045094507
+  total_rating_count: 6
+- id: 2486
+  name: Night Trap
+  popularity: 1.676291082700661
+  rating: 69.7760413137906
+  total_rating: 69.7760413137906
+  total_rating_count: 5
+- id: 4271
+  name: Primal Rage
+  popularity: 1.0
+  rating: 75.0870467315533
+  total_rating: 62.54352336577665
+  total_rating_count: 14
+- id: 5410
+  name: 'Pitfall: The Mayan Adventure'
+  popularity: 1.673462458475826
+  rating: 71.9200672169129
+  total_rating: 60.96003360845645
+  total_rating_count: 8

@@ -1,0 +1,66 @@
+- id: 3601
+  name: Space Invaders
+  popularity: 4.613278279156699
+  rating: 79.05489964076051
+  total_rating: 79.05489964076051
+  total_rating_count: 51
+- id: 4603
+  name: Lode Runner
+  popularity: 1.0
+  rating: 75.3978422412887
+  total_rating: 77.69892112064434
+  total_rating_count: 18
+- id: 11763
+  name: Sokoban
+  popularity: 5.938724695489388
+  rating: 75.7410739387782
+  total_rating: 75.7410739387782
+  total_rating_count: 7
+- id: 4599
+  name: Elevator Action
+  popularity: 1.0
+  rating: 68.48333096755469
+  total_rating: 74.24166548377735
+  total_rating_count: 18
+- id: 2751
+  name: Galaga
+  popularity: 3.246702647071436
+  rating: 75.8724211929391
+  total_rating: 72.93621059646955
+  total_rating_count: 41
+- id: 6112
+  name: H.E.R.O.
+  popularity: 1.0
+  rating: 79.9072959983448
+  total_rating: 72.4536479991724
+  total_rating_count: 8
+- id: 6100
+  name: Bomb Jack
+  popularity: 1.0
+  rating: 64.3350657728551
+  total_rating: 72.16753288642755
+  total_rating_count: 6
+- id: 5560
+  name: Wonder Boy
+  popularity: 1.447653495943425
+  rating: 70.037584519723
+  total_rating: 70.037584519723
+  total_rating_count: 9
+- id: 6094
+  name: Choplifter
+  popularity: 1.400696464853957
+  rating: 68.0131636897259
+  total_rating: 68.0131636897259
+  total_rating_count: 6
+- id: 1980
+  name: Q*bert
+  popularity: 1.0
+  rating: 63.49585449082461
+  total_rating: 63.7479272454123
+  total_rating_count: 19
+- id: 6105
+  name: Flicky
+  popularity: 1.449340529414287
+  rating: 50.0480332897766
+  total_rating: 50.0480332897766
+  total_rating_count: 5

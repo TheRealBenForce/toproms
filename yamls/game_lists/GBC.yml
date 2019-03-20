@@ -1,0 +1,552 @@
+- id: 24413
+  name: Micro Machines V3
+  popularity: 1.0
+  rating: 89.9490558638176
+  total_rating: 89.9490558638176
+  total_rating_count: 5
+- id: 1027
+  name: 'The Legend of Zelda: Link''s Awakening DX'
+  popularity: 3.930594691702863
+  rating: 89.7557729049127
+  total_rating: 89.7557729049127
+  total_rating_count: 62
+- id: 8197
+  name: Tetris
+  popularity: 7.728685958616477
+  rating: 89.5624936505163
+  total_rating: 89.5624936505163
+  total_rating_count: 472
+- id: 1041
+  name: 'The Legend of Zelda: Oracle of Ages'
+  popularity: 2.123351323535718
+  rating: 82.354053026803
+  total_rating: 88.84369318006816
+  total_rating_count: 46
+- id: 8032
+  name: Tom and Jerry in House Trap
+  popularity: 1.0
+  rating: 88.68865872453769
+  total_rating: 88.68865872453769
+  total_rating_count: 5
+- id: 1641
+  name: The World Is Not Enough
+  popularity: 1.675119693879437
+  rating: 87.7663872859189
+  total_rating: 87.7663872859189
+  total_rating_count: 14
+- id: 1032
+  name: 'The Legend of Zelda: Oracle of Seasons'
+  popularity: 2.786151545668162
+  rating: 82.04489625701599
+  total_rating: 87.52244812850799
+  total_rating_count: 51
+- id: 1558
+  name: "Pok\xE9mon Gold"
+  popularity: 3.469362347744694
+  rating: 85.5094713441364
+  total_rating: 86.5047356720682
+  total_rating_count: 136
+- id: 1514
+  name: "Pok\xE9mon Crystal"
+  popularity: 6.387699667806606
+  rating: 87.35835467335949
+  total_rating: 86.17917733667974
+  total_rating_count: 114
+- id: 1513
+  name: "Pok\xE9mon Silver"
+  popularity: 5.265262237013562
+  rating: 87.1984606577618
+  total_rating: 86.0992303288809
+  total_rating_count: 135
+- id: 5600
+  name: 'Metal Gear Solid: Ghost Babel'
+  popularity: 1.458139630299415
+  rating: 85.76660771448101
+  total_rating: 85.76660771448101
+  total_rating_count: 8
+- id: 913
+  name: Tony Hawk's Pro Skater 2
+  popularity: 2.57141240311026
+  rating: 84.42183886234011
+  total_rating: 85.5442527645034
+  total_rating_count: 128
+- id: 3487
+  name: F-1 World Grand Prix
+  popularity: 1.673462458475826
+  rating: 90.0
+  total_rating: 85.0
+  total_rating_count: 5
+- id: 675
+  name: Driver
+  popularity: 2.57141240311026
+  rating: 74.9249247384902
+  total_rating: 84.9624623692451
+  total_rating_count: 68
+- id: 843
+  name: 'Rayman 2: The Great Escape'
+  popularity: 4.349823709541644
+  rating: 79.5464067415798
+  total_rating: 84.7732033707899
+  total_rating_count: 76
+- id: 5519
+  name: Cannon Fodder
+  popularity: 2.121447659769413
+  rating: 84.7524486141904
+  total_rating: 84.7524486141904
+  total_rating_count: 21
+- id: 358
+  name: Super Mario Bros.
+  popularity: 14.46924916951651
+  rating: 84.6999768968948
+  total_rating: 84.6999768968948
+  total_rating_count: 527
+- id: 1814
+  name: Dragon Quest III
+  popularity: 1.674010794121431
+  rating: 84.42016828171819
+  total_rating: 84.42016828171819
+  total_rating_count: 7
+- id: 7758
+  name: Asteroids
+  popularity: 2.817556364763307
+  rating: 77.8194638280022
+  total_rating: 83.9097319140011
+  total_rating_count: 25
+- id: 914
+  name: Tony Hawk's Pro Skater 3
+  popularity: 2.340646513660267
+  rating: 79.1404610336462
+  total_rating: 83.8202305168231
+  total_rating_count: 94
+- id: 188
+  name: Indiana Jones and the Infernal Machine
+  popularity: 1.0
+  rating: 77.2753787243502
+  total_rating: 83.63768936217511
+  total_rating_count: 10
+- id: 1090
+  name: Donkey Kong Country
+  popularity: 5.489749723172172
+  rating: 86.06318061364719
+  total_rating: 82.86492364015695
+  total_rating_count: 178
+- id: 2472
+  name: Prince of Persia
+  popularity: 3.679858967633316
+  rating: 82.3811379976901
+  total_rating: 82.3811379976901
+  total_rating_count: 108
+- id: 1000
+  name: 'Oddworld: Abe''s Exoddus'
+  popularity: 2.122437430793043
+  rating: 84.4387517493797
+  total_rating: 82.21937587468986
+  total_rating_count: 40
+- id: 1512
+  name: "Pok\xE9mon Yellow"
+  popularity: 7.959112070916865
+  rating: 84.0881978366885
+  total_rating: 82.04409891834425
+  total_rating_count: 166
+- id: 948
+  name: Worms Armageddon
+  popularity: 3.232689432085202
+  rating: 81.74793495754949
+  total_rating: 81.74793495754949
+  total_rating_count: 116
+- id: 3401
+  name: Mario Golf
+  popularity: 1.446643161272219
+  rating: 70.3352115203032
+  total_rating: 81.6676057601516
+  total_rating_count: 17
+- id: 26012
+  name: Dave Mirra Freestyle BMX
+  popularity: 1.0
+  rating: 81.5866321806177
+  total_rating: 81.5866321806177
+  total_rating_count: 5
+- id: 8118
+  name: Disney's Aladdin
+  popularity: 3.254303609002203
+  rating: 83.0967673362056
+  total_rating: 81.5483836681028
+  total_rating_count: 58
+- id: 1842
+  name: Tom Clancy's Rainbow Six
+  popularity: 3.469362347744694
+  rating: 80.3558549646674
+  total_rating: 80.3558549646674
+  total_rating_count: 27
+- id: 6807
+  name: Ghosts 'n Goblins
+  popularity: 1.448974972317217
+  rating: 70.2181936544159
+  total_rating: 80.10909682720795
+  total_rating_count: 29
+- id: 1960
+  name: 'Alone in the Dark: The New Nightmare'
+  popularity: 2.349343613252761
+  rating: 79.94373932682299
+  total_rating: 79.9718696634115
+  total_rating_count: 18
+- id: 4405
+  name: Rainbow Islands
+  popularity: 1.673841691708951
+  rating: 79.8523578440175
+  total_rating: 79.8523578440175
+  total_rating_count: 9
+- id: 1963
+  name: Rayman
+  popularity: 4.142824806220521
+  rating: 81.16872160921449
+  total_rating: 79.4176941379406
+  total_rating_count: 79
+- id: 3643
+  name: WWF Attitude
+  popularity: 1.0
+  rating: 79.3378723309276
+  total_rating: 79.3378723309276
+  total_rating_count: 11
+- id: 2246
+  name: Marble Madness
+  popularity: 1.674010794121431
+  rating: 79.2888709842907
+  total_rating: 79.2888709842907
+  total_rating_count: 15
+- id: 3441
+  name: 'Army Men: Sarge''s Heroes 2'
+  popularity: 1.0
+  rating: 78.5984899237324
+  total_rating: 78.5984899237324
+  total_rating_count: 6
+- id: 4429
+  name: Road Rash II
+  popularity: 1.0
+  rating: 78.46182467873861
+  total_rating: 78.46182467873861
+  total_rating_count: 12
+- id: 1698
+  name: Wario Land 3
+  popularity: 1.895306991886851
+  rating: 78.42825120868591
+  total_rating: 78.42825120868591
+  total_rating_count: 11
+- id: 1697
+  name: Wario Land II
+  popularity: 1.450860721800441
+  rating: 77.6293446473616
+  total_rating: 77.6293446473616
+  total_rating_count: 9
+- id: 980
+  name: Grand Theft Auto
+  popularity: 7.280106894708712
+  rating: 75.24327788014921
+  total_rating: 77.6216389400746
+  total_rating_count: 198
+- id: 6692
+  name: Tony Hawk's Pro Skater
+  popularity: 2.795899889268869
+  rating: 82.8698037204887
+  total_rating: 76.43490186024435
+  total_rating_count: 66
+- id: 4567
+  name: "Pok\xE9mon Trading Card Game"
+  popularity: 1.0
+  rating: 76.0252111589054
+  total_rating: 76.0252111589054
+  total_rating_count: 41
+- id: 2317
+  name: Toki Tori
+  popularity: 1.0
+  rating: 71.5638872379805
+  total_rating: 75.78194361899025
+  total_rating_count: 11
+- id: 819
+  name: Grand Theft Auto 2
+  popularity: 4.588632511262121
+  rating: 80.7748496441185
+  total_rating: 75.38742482205924
+  total_rating_count: 250
+- id: 154
+  name: 'Star Wars: Episode I - Racer'
+  popularity: 2.817556364763307
+  rating: 74.20694496640121
+  total_rating: 74.6034724832006
+  total_rating_count: 68
+- id: 18288
+  name: Frogger
+  popularity: 1.673462458475826
+  rating: 78.8745718207034
+  total_rating: 74.4372859103517
+  total_rating_count: 13
+- id: 3941
+  name: Harry Potter and the Chamber of Secrets
+  popularity: 4.796466870813864
+  rating: 74.116766422306
+  total_rating: 74.116766422306
+  total_rating_count: 89
+- id: 3505
+  name: 'Gex 3: Deep Cover Gecko'
+  popularity: 1.0
+  rating: 80.00158200283539
+  total_rating: 73.5007910014177
+  total_rating_count: 8
+- id: 3506
+  name: 'Gex: Enter the Gecko'
+  popularity: 1.669806829625561
+  rating: 72.950798103584
+  total_rating: 72.950798103584
+  total_rating_count: 8
+- id: 1123
+  name: 'Castlevania II: Belmont''s Revenge'
+  popularity: 1.448974972317217
+  rating: 72.7590051325698
+  total_rating: 72.7590051325698
+  total_rating_count: 10
+- id: 6075
+  name: '1942'
+  popularity: 2.127151804501101
+  rating: 65.3445712450686
+  total_rating: 72.6722856225343
+  total_rating_count: 29
+- id: 1066
+  name: 'Super Mario Bros.: The Lost Levels'
+  popularity: 1.898982692236724
+  rating: 72.2489356300566
+  total_rating: 72.2489356300566
+  total_rating_count: 38
+- id: 3406
+  name: Mario Tennis
+  popularity: 1.676958545203826
+  rating: 71.9594206800753
+  total_rating: 71.9594206800753
+  total_rating_count: 34
+- id: 951
+  name: 'Carmageddon II: Carpocalypse Now'
+  popularity: 1.0
+  rating: 71.776729125005
+  total_rating: 71.776729125005
+  total_rating_count: 36
+- id: 956
+  name: Duke Nukem II
+  popularity: 1.449340529414287
+  rating: 71.3239686652411
+  total_rating: 71.3239686652411
+  total_rating_count: 13
+- id: 1622
+  name: Mortal Kombat 4
+  popularity: 3.022032382364293
+  rating: 71.2108915283561
+  total_rating: 71.2108915283561
+  total_rating_count: 57
+- id: 697
+  name: 'FIFA 2000: Major League Soccer'
+  popularity: 1.0
+  rating: 70.2147259544061
+  total_rating: 70.2147259544061
+  total_rating_count: 18
+- id: 5616
+  name: Lego Island 2 The Brickster's Revenge
+  popularity: 1.0
+  rating: 70.02452763280141
+  total_rating: 70.02452763280141
+  total_rating_count: 9
+- id: 49857
+  name: "Pok\xE9mon Puzzle Challenge"
+  popularity: 1.0
+  rating: 70.0
+  total_rating: 70.0
+  total_rating_count: 5
+- id: 3056
+  name: Rampage World Tour
+  popularity: 1.448974972317217
+  rating: 70.0
+  total_rating: 70.0
+  total_rating_count: 8
+- id: 3994
+  name: Mat Hoffman's Pro BMX
+  popularity: 1.0
+  rating: 69.9043131924179
+  total_rating: 69.9043131924179
+  total_rating_count: 9
+- id: 2235
+  name: Centipede
+  popularity: 1.902611393605102
+  rating: 69.6080796551844
+  total_rating: 69.80403982759219
+  total_rating_count: 24
+- id: 6702
+  name: 'Street Fighter Alpha: Warrior''s Dreams'
+  popularity: 1.0
+  rating: 69.3505812046245
+  total_rating: 69.67529060231226
+  total_rating_count: 12
+- id: 3646
+  name: WWF WrestleMania 2000
+  popularity: 1.0
+  rating: 69.2487076450726
+  total_rating: 69.6243538225363
+  total_rating_count: 10
+- id: 3617
+  name: Top Gear Rally
+  popularity: 1.0
+  rating: 88.9553212517073
+  total_rating: 69.47766062585364
+  total_rating_count: 5
+- id: 3249
+  name: Road Rash
+  popularity: 2.572691852950005
+  rating: 73.8967451594201
+  total_rating: 69.44837257971005
+  total_rating_count: 22
+- id: 341
+  name: Harry Potter and the Sorcerer's Stone
+  popularity: 3.935788601814818
+  rating: 74.6381356757515
+  total_rating: 69.31906783787575
+  total_rating_count: 120
+- id: 10610
+  name: 'Donald Duck: Goin'' Quackers'
+  popularity: 2.352582165401321
+  rating: 68.9692395039748
+  total_rating: 68.9692395039748
+  total_rating_count: 5
+- id: 1326
+  name: 'Turok 2: Seeds of Evil'
+  popularity: 3.693849833903303
+  rating: 73.150522916887
+  total_rating: 68.32526145844349
+  total_rating_count: 34
+- id: 3619
+  name: 'Toy Story 2: Buzz Lightyear to the Rescue'
+  popularity: 1.688006513671136
+  rating: 71.3042928875339
+  total_rating: 68.15214644376695
+  total_rating_count: 29
+- id: 7967
+  name: Colin McRae Rally
+  popularity: 3.709958709367524
+  rating: 84.4767893709469
+  total_rating: 67.23839468547345
+  total_rating_count: 34
+- id: 11762
+  name: Paperboy
+  popularity: 1.897949944634434
+  rating: 54.2191850744199
+  total_rating: 65.4429258705433
+  total_rating_count: 29
+- id: 7902
+  name: Croc 2
+  popularity: 1.0
+  rating: 69.9982053488365
+  total_rating: 64.99910267441825
+  total_rating_count: 15
+- id: 2361
+  name: '102 Dalmatians: Puppies to the Rescue'
+  popularity: 1.446882171220089
+  rating: 64.4012589313992
+  total_rating: 64.4012589313992
+  total_rating_count: 6
+- id: 4111
+  name: Test Drive 6
+  popularity: 1.669806829625561
+  rating: 63.9218874627865
+  total_rating: 63.9218874627865
+  total_rating_count: 7
+- id: 1749
+  name: Mega Man Xtreme
+  popularity: 1.0
+  rating: 63.2465688594416
+  total_rating: 63.2465688594416
+  total_rating_count: 6
+- id: 422
+  name: LEGO Racers
+  popularity: 2.128264242006378
+  rating: 63.0050365361468
+  total_rating: 63.0050365361468
+  total_rating_count: 26
+- id: 4068
+  name: "Pok\xE9mon Pinball"
+  popularity: 1.0
+  rating: 62.72741570330169
+  total_rating: 62.72741570330169
+  total_rating_count: 35
+- id: 6795
+  name: Frogger
+  popularity: 1.691422190447871
+  rating: 62.6825759309679
+  total_rating: 62.6825759309679
+  total_rating_count: 24
+- id: 11681
+  name: SkiFree
+  popularity: 1.897949944634434
+  rating: 60.0422992078748
+  total_rating: 60.0422992078748
+  total_rating_count: 9
+- id: 2847
+  name: A Bug's Life
+  popularity: 1.897949944634434
+  rating: 59.322362616033
+  total_rating: 59.322362616033
+  total_rating_count: 9
+- id: 3603
+  name: Spider-Man
+  popularity: 2.346924916951652
+  rating: 82.46226259851059
+  total_rating: 58.7311312992553
+  total_rating_count: 76
+- id: 3586
+  name: Ready 2 Rumble Boxing
+  popularity: 2.797362117657149
+  rating: 58.1930647022081
+  total_rating: 58.1930647022081
+  total_rating_count: 7
+- id: 3633
+  name: WCW Mayhem
+  popularity: 1.0
+  rating: 57.7824106629776
+  total_rating: 57.7824106629776
+  total_rating_count: 7
+- id: 3648
+  name: 'Xena: Warrior Princess'
+  popularity: 1.0
+  rating: 57.64717224817591
+  total_rating: 57.64717224817591
+  total_rating_count: 5
+- id: 969
+  name: Resident Evil Gaiden
+  popularity: 1.0
+  rating: 56.2504200316844
+  total_rating: 56.2504200316844
+  total_rating_count: 7
+- id: 4248
+  name: Dragon's Lair
+  popularity: 1.669964741908329
+  rating: 61.9338062115426
+  total_rating: 55.9669031057713
+  total_rating_count: 16
+- id: 9757
+  name: Yars' Revenge
+  popularity: 1.0
+  rating: 62.6910700272863
+  total_rating: 53.84553501364315
+  total_rating_count: 6
+- id: 8201
+  name: Daikatana
+  popularity: 1.676958545203826
+  rating: 56.1575025171396
+  total_rating: 53.0787512585698
+  total_rating_count: 9
+- id: 3583
+  name: 'Rampage 2: Universal Tour'
+  popularity: 1.0
+  rating: 57.8761916822689
+  total_rating: 49.93809584113445
+  total_rating_count: 8
+- id: 19675
+  name: Buzz Lightyear of Star Command
+  popularity: 1.971838277453365
+  rating: 66.9432562439368
+  total_rating: 48.4716281219684
+  total_rating_count: 6

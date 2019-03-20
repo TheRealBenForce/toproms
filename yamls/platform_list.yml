@@ -1,4 +1,5 @@
 - abbreviation: 3DO
+  generation: 5
   id: 50
   name: 3DO Interactive Multiplayer
 - abbreviation: Amiga
@@ -20,21 +21,26 @@
   id: 52
   name: Arcade
 - abbreviation: Atari2600
+  generation: 2
   id: 59
   name: Atari 2600
 - abbreviation: Atari5200
+  generation: 2
   id: 66
   name: Atari 5200
 - abbreviation: Atari7800
+  generation: 3
   id: 60
   name: Atari 7800
 - abbreviation: Atari8bit
   id: 65
   name: Atari 8-bit
 - abbreviation: Jaguar
+  generation: 5
   id: 62
   name: Atari Jaguar
 - abbreviation: Lynx
+  generation: 4
   id: 61
   name: Atari Lynx
 - abbreviation: Atari-ST
@@ -56,6 +62,7 @@
   id: 109
   name: CDC Cyber 70
 - abbreviation: colecovision
+  generation: 2
   id: 68
   name: ColecoVision
 - abbreviation: C16
@@ -80,27 +87,33 @@
   id: 85
   name: Donner Model 30
 - abbreviation: DC
+  generation: 6
   id: 23
   name: Dreamcast
 - abbreviation: edsac
   id: 102
   name: EDSAC
 - abbreviation: fds
+  generation: 3
   id: 51
   name: Family Computer Disk System
 - abbreviation: famicom
+  generation: 3
   id: 99
   name: Family Computer (FAMICOM)
 - abbreviation: nimrod
   id: 101
   name: Ferranti Nimrod Computer
 - abbreviation: Game Boy
+  generation: 4
   id: 33
   name: Game Boy
 - abbreviation: GBA
+  generation: 6
   id: 24
   name: Game Boy Advance
 - abbreviation: GBC
+  generation: 5
   id: 22
   name: Game Boy Color
 - abbreviation: hp2100
@@ -113,6 +126,7 @@
   id: 111
   name: Imlac PDS-1
 - abbreviation: intellivision
+  generation: 2
   id: 67
   name: Intellivision
 - abbreviation: iOS
@@ -128,6 +142,7 @@
   id: 112
   name: Microcomputer
 - abbreviation: microvision
+  generation: 2
   id: 89
   name: Microvision
 - abbreviation: Mobile
@@ -140,36 +155,46 @@
   id: 53
   name: MSX2
 - abbreviation: neogeoaes
+  generation: 4
   id: 80
   name: Neo Geo AES
 - abbreviation: neogeomvs
   id: 79
   name: Neo Geo MVS
 - abbreviation: NGage
+  generation: 6
   id: 42
   name: N-Gage
 - abbreviation: 3DS
+  generation: 8
   id: 37
   name: Nintendo 3DS
 - abbreviation: N64
+  generation: 5
   id: 4
   name: Nintendo 64
 - abbreviation: NDS
+  generation: 7
   id: 20
   name: Nintendo DS
 - abbreviation: NES
+  generation: 3
   id: 18
   name: Nintendo Entertainment System (NES)
 - abbreviation: NGC
+  generation: 6
   id: 21
   name: Nintendo GameCube
 - abbreviation: switch
+  generation: 8
   id: 130
   name: Nintendo Switch
 - abbreviation: odyssey
+  generation: 1
   id: 88
   name: Odyssey
 - abbreviation: Ouya
+  generation: 8
   id: 72
   name: Ouya
 - abbreviation: DOS
@@ -200,48 +225,61 @@
   id: 110
   name: PLATO
 - abbreviation: PS1
+  generation: 5
   id: 7
   name: PlayStation
 - abbreviation: PS2
+  generation: 6
   id: 8
   name: PlayStation 2
 - abbreviation: PS3
+  generation: 7
   id: 9
   name: PlayStation 3
 - abbreviation: PS4
+  generation: 8
   id: 48
   name: PlayStation 4
 - abbreviation: psn
   id: 45
   name: PlayStation Network
 - abbreviation: PSP
+  generation: 7
   id: 38
   name: PlayStation Portable
 - abbreviation: Vita
+  generation: 8
   id: 46
   name: PlayStation Vita
 - abbreviation: sdssigma7
   id: 106
   name: SDS Sigma 7
 - abbreviation: Sega32
+  generation: 4
   id: 30
   name: Sega 32X
 - abbreviation: segacd
+  generation: 4
   id: 78
   name: Sega CD
 - abbreviation: Game Gear
+  generation: 4
   id: 35
   name: Sega Game Gear
 - abbreviation: SMS
+  generation: 3
   id: 64
   name: Sega Master System
 - abbreviation: Genesis
+  generation: 4
   id: 29
   name: Sega Mega Drive/Genesis
 - abbreviation: Saturn
+  generation: 5
   id: 32
   name: Sega Saturn
 - abbreviation: sg1000
+  generation: 3
   id: 84
   name: SG-1000
 - abbreviation: x1
@@ -251,9 +289,11 @@
   id: 92
   name: SteamOS
 - abbreviation: SFAM
+  generation: 4
   id: 58
   name: Super Famicom
 - abbreviation: SNES
+  generation: 4
   id: 19
   name: Super Nintendo Entertainment System (SNES)
 - abbreviation: zod
@@ -263,12 +303,15 @@
   id: 129
   name: Texas Instruments TI-99
 - abbreviation: turbografx16
+  generation: 4
   id: 86
   name: TurboGrafx-16/PC Engine
 - abbreviation: vectrex
+  generation: 2
   id: 70
   name: Vectrex
 - abbreviation: virtualboy
+  generation: 5
   id: 87
   name: Virtual Boy
 - abbreviation: VC
@@ -278,9 +321,11 @@
   id: 82
   name: Web browser
 - abbreviation: Wii
+  generation: 7
   id: 5
   name: Wii
 - abbreviation: WiiU
+  generation: 8
   id: 41
   name: Wii U
 - abbreviation: WiiWare
@@ -290,18 +335,22 @@
   id: 74
   name: Windows Phone
 - abbreviation: WonderSwan
+  generation: 5
   id: 57
   name: WonderSwan
 - abbreviation: XBOX
+  generation: 6
   id: 11
   name: Xbox
 - abbreviation: X360
+  generation: 7
   id: 12
   name: Xbox 360
 - abbreviation: xla
   id: 36
   name: Xbox Live Arcade
 - abbreviation: XONE
+  generation: 8
   id: 49
   name: Xbox One
 - abbreviation: ZXS

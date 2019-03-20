@@ -10,12 +10,22 @@ because I get to experiment with fuzzy searching.
 ### short term
 - Searches a director for rom folders and makes a new folder of the 50 most popular roms
 
+
 ### long term
 - Support for japanese roms
 - Different dimensions such as rating
 - More than 50 games
+- Best guess at all roms in a series
+
 
 ## personal goals
 - improve my OOP
 - Experiment use fuzzy searching
 - Learn postman
+- Use a real logging module
+
+
+## To Do
+- Argparse to pass a paid api key and get more than 200 results back
+- Parameterize how many roms you want either by count or size on disk
+- Parameterize threshold to match a game

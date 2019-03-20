@@ -1,0 +1,48 @@
+- id: 3074
+  name: The Great Giana Sisters
+  popularity: 1.0
+  rating: 74.8016904594554
+  total_rating: 82.40084522972771
+  total_rating_count: 12
+- id: 5451
+  name: Snatcher
+  popularity: 1.449491346118362
+  rating: 81.4437760355716
+  total_rating: 81.4437760355716
+  total_rating_count: 6
+- id: 1813
+  name: Dragon Quest II
+  popularity: 1.449340529414287
+  rating: 76.0045490709621
+  total_rating: 76.0045490709621
+  total_rating_count: 12
+- id: 374
+  name: Metal Gear
+  popularity: 3.258298924472936
+  rating: 73.3243071828507
+  total_rating: 73.3243071828507
+  total_rating_count: 40
+- id: 385
+  name: Final Fantasy
+  popularity: 5.040774750854954
+  rating: 70.1234910897716
+  total_rating: 70.06174554488581
+  total_rating_count: 87
+- id: 4598
+  name: Contra
+  popularity: 6.836674640123823
+  rating: 85.43287506412429
+  total_rating: 67.71643753206214
+  total_rating_count: 111
+- id: 2868
+  name: 'Ultima II: The Revenge of the Enchantress'
+  popularity: 1.0
+  rating: 56.936965880037
+  total_rating: 56.936965880037
+  total_rating_count: 10
+- id: 7414
+  name: Ultima
+  popularity: 2.119133739858563
+  rating: 52.2499235503978
+  total_rating: 52.2499235503978
+  total_rating_count: 12

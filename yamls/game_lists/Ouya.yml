@@ -1,0 +1,126 @@
+- id: 500
+  name: 'Batman: Arkham Asylum'
+  popularity: 13.11163472550966
+  rating: 87.5657973499714
+  total_rating: 88.4828986749857
+  total_rating_count: 992
+- id: 13171
+  name: Read Only Memories
+  popularity: 5.742427741393167
+  rating: 93.4034151751711
+  total_rating: 87.98742187329985
+  total_rating_count: 21
+- id: 9567
+  name: Towerfall Ascension
+  popularity: 1.897949944634434
+  rating: 85.16413148212409
+  total_rating: 86.08206574106205
+  total_rating_count: 39
+- id: 9806
+  name: Hyper Light Drifter
+  popularity: 23.89772358817807
+  rating: 83.0567340880115
+  total_rating: 85.9829124985512
+  total_rating_count: 87
+- id: 11247
+  name: Duck Game
+  popularity: 6.871577203629635
+  rating: 86.7772834654609
+  total_rating: 85.55530839939709
+  total_rating_count: 25
+- id: 10832
+  name: Sine Mora
+  popularity: 1.677489677341881
+  rating: 84.49093912770729
+  total_rating: 84.74546956385365
+  total_rating_count: 15
+- id: 1002
+  name: 'Oddworld: Stranger''s Wrath'
+  popularity: 1.67467180662638
+  rating: 84.43295980398871
+  total_rating: 82.71647990199435
+  total_rating_count: 21
+- id: 3097
+  name: 'The Walking Dead: Season Two'
+  popularity: 5.265262237013562
+  rating: 81.1622957919573
+  total_rating: 81.1505923404231
+  total_rating_count: 381
+- id: 9023
+  name: Skulls of the Shogun
+  popularity: 1.0
+  rating: 80.0
+  total_rating: 81.0
+  total_rating_count: 13
+- id: 1990
+  name: VVVVVV
+  popularity: 4.839108171603992
+  rating: 80.1028412923239
+  total_rating: 79.92642064616194
+  total_rating_count: 76
+- id: 3087
+  name: Broken Age
+  popularity: 3.471372911778579
+  rating: 76.7231431569678
+  total_rating: 76.63080234771465
+  total_rating_count: 90
+- id: 9478
+  name: So Many Me
+  popularity: 4.142824806220521
+  rating: 70.0
+  total_rating: 75.5
+  total_rating_count: 5
+- id: 15925
+  name: That Dragon, Cancer
+  popularity: 4.156025052603083
+  rating: 70.6458251644186
+  total_rating: 74.0729125822093
+  total_rating_count: 22
+- id: 9418
+  name: Back to Bed
+  popularity: 1.0
+  rating: 71.6272188025625
+  total_rating: 71.81360940128124
+  total_rating_count: 10
+- id: 10728
+  name: Puddle
+  popularity: 1.0
+  rating: 68.0
+  total_rating: 71.125
+  total_rating_count: 8
+- id: 8992
+  name: "MouseCraft\uFEFF"
+  popularity: 1.0
+  rating: 69.6157092048948
+  total_rating: 67.3078546024474
+  total_rating_count: 8
+- id: 15545
+  name: Vector
+  popularity: 1.0
+  rating: 60.7102771923815
+  total_rating: 65.35513859619076
+  total_rating_count: 6
+- id: 9369
+  name: Whispering Willows
+  popularity: 1.674010794121431
+  rating: 60.0870646766169
+  total_rating: 64.3768656716418
+  total_rating_count: 8
+- id: 393
+  name: Final Fantasy III
+  popularity: 1.0
+  rating: 62.3814605658088
+  total_rating: 63.0657302829044
+  total_rating_count: 45
+- id: 8138
+  name: Neverending Nightmares
+  popularity: 1.903319569789175
+  rating: 54.48275862068969
+  total_rating: 60.74137931034485
+  total_rating_count: 9
+- id: 16174
+  name: Burn Zombie Burn!
+  popularity: 1.0
+  rating: 40.0
+  total_rating: 59.4
+  total_rating_count: 9

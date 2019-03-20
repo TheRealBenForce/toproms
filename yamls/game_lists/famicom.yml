@@ -1,0 +1,60 @@
+- id: 1974
+  name: Faxanadu
+  popularity: 1.670323256830134
+  rating: 81.378741811548
+  total_rating: 81.378741811548
+  total_rating_count: 12
+- id: 77234
+  name: Final Fantasy III
+  popularity: 2.352582165401321
+  rating: 81.1539781990701
+  total_rating: 81.1539781990701
+  total_rating_count: 6
+- id: 1815
+  name: 'Dragon Quest IV: Chapters of the Chosen'
+  popularity: 1.0
+  rating: 74.2572803682356
+  total_rating: 80.96197351745116
+  total_rating_count: 18
+- id: 11689
+  name: F-1 Race
+  popularity: 1.458353098929179
+  rating: 74.9745676779368
+  total_rating: 74.9745676779368
+  total_rating_count: 7
+- id: 374
+  name: Metal Gear
+  popularity: 3.258298924472936
+  rating: 73.3243071828507
+  total_rating: 73.3243071828507
+  total_rating_count: 40
+- id: 387
+  name: Final Fantasy II
+  popularity: 2.129149462236468
+  rating: 70.217432726832
+  total_rating: 70.217432726832
+  total_rating_count: 32
+- id: 11191
+  name: EarthBound Beginnings
+  popularity: 4.795572034544844
+  rating: 61.3153547839222
+  total_rating: 61.3153547839222
+  total_rating_count: 11
+- id: 16474
+  name: Final Fantasy II
+  popularity: 2.128264242006378
+  rating: 69.9672306242872
+  total_rating: 54.9836153121436
+  total_rating_count: 24
+- id: 4611
+  name: Crazy Climber
+  popularity: 1.0
+  rating: 52.8606648789639
+  total_rating: 52.8606648789639
+  total_rating_count: 5
+- id: 14529
+  name: Dragon's Lair
+  popularity: 1.916706197858358
+  rating: 43.3091884010254
+  total_rating: 49.1545942005127
+  total_rating_count: 7

@@ -1,0 +1,84 @@
+- id: 8477
+  name: Alien vs Predator
+  popularity: 1.448974972317217
+  rating: 89.30839768417981
+  total_rating: 89.30839768417981
+  total_rating_count: 5
+- id: 5519
+  name: Cannon Fodder
+  popularity: 2.121447659769413
+  rating: 84.7524486141904
+  total_rating: 84.7524486141904
+  total_rating_count: 21
+- id: 673
+  name: Doom
+  popularity: 5.49781204417587
+  rating: 85.988728983394
+  total_rating: 82.994364491697
+  total_rating_count: 479
+- id: 6841
+  name: Raiden
+  popularity: 1.669806829625561
+  rating: 79.76554911041559
+  total_rating: 79.76554911041559
+  total_rating_count: 9
+- id: 1963
+  name: Rayman
+  popularity: 4.142824806220521
+  rating: 81.16872160921449
+  total_rating: 79.4176941379406
+  total_rating_count: 79
+- id: 9331
+  name: Worms
+  popularity: 2.786151545668162
+  rating: 77.4539125815929
+  total_rating: 78.72695629079645
+  total_rating_count: 61
+- id: 49
+  name: Syndicate
+  popularity: 4.161618494262111
+  rating: 82.0114508550278
+  total_rating: 75.38072542751391
+  total_rating_count: 22
+- id: 5454
+  name: Space Ace
+  popularity: 1.0
+  rating: 75.0475301659112
+  total_rating: 75.0475301659112
+  total_rating_count: 5
+- id: 283
+  name: Theme Park
+  popularity: 2.116344716042601
+  rating: 70.3333900644455
+  total_rating: 74.66669503222275
+  total_rating_count: 34
+- id: 284
+  name: Wolfenstein 3D
+  popularity: 3.020387375427477
+  rating: 79.5760345962575
+  total_rating: 67.78801729812875
+  total_rating_count: 130
+- id: 4271
+  name: Primal Rage
+  popularity: 1.0
+  rating: 75.0870467315533
+  total_rating: 62.54352336577665
+  total_rating_count: 14
+- id: 5410
+  name: 'Pitfall: The Mayan Adventure'
+  popularity: 1.673462458475826
+  rating: 71.9200672169129
+  total_rating: 60.96003360845645
+  total_rating_count: 8
+- id: 4275
+  name: Flashback
+  popularity: 3.696043176485723
+  rating: 79.9296994811576
+  total_rating: 57.4648497405788
+  total_rating_count: 34
+- id: 4248
+  name: Dragon's Lair
+  popularity: 1.669964741908329
+  rating: 61.9338062115426
+  total_rating: 55.9669031057713
+  total_rating_count: 16

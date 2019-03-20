@@ -1,0 +1,156 @@
+- id: 4268
+  name: Panzer General
+  popularity: 3.244874861586086
+  rating: 95.6982137287396
+  total_rating: 95.6982137287396
+  total_rating_count: 7
+- id: 924
+  name: Wing Commander
+  popularity: 2.339613659251121
+  rating: 90.0235871480059
+  total_rating: 90.0235871480059
+  total_rating_count: 11
+- id: 4348
+  name: Another World
+  popularity: 4.142824806220521
+  rating: 87.8683181016298
+  total_rating: 87.8683181016298
+  total_rating_count: 52
+- id: 4304
+  name: Star Control II
+  popularity: 1.0
+  rating: 87.4407197975569
+  total_rating: 87.4407197975569
+  total_rating_count: 5
+- id: 4243
+  name: The Incredible Machine
+  popularity: 1.0
+  rating: 84.78216471031139
+  total_rating: 84.78216471031139
+  total_rating_count: 23
+- id: 5519
+  name: Cannon Fodder
+  popularity: 2.121447659769413
+  rating: 84.7524486141904
+  total_rating: 84.7524486141904
+  total_rating_count: 21
+- id: 673
+  name: Doom
+  popularity: 5.49781204417587
+  rating: 85.988728983394
+  total_rating: 82.994364491697
+  total_rating_count: 479
+- id: 4238
+  name: Super Street Fighter II Turbo
+  popularity: 2.346924916951652
+  rating: 80.5125629984382
+  total_rating: 80.5125629984382
+  total_rating_count: 14
+- id: 2588
+  name: 'Wing Commander III: Heart of the Tiger'
+  popularity: 1.897949944634434
+  rating: 80.0135355132999
+  total_rating: 80.0135355132999
+  total_rating_count: 14
+- id: 49
+  name: Syndicate
+  popularity: 4.161618494262111
+  rating: 82.0114508550278
+  total_rating: 75.38072542751391
+  total_rating_count: 22
+- id: 5454
+  name: Space Ace
+  popularity: 1.0
+  rating: 75.0475301659112
+  total_rating: 75.0475301659112
+  total_rating_count: 5
+- id: 283
+  name: Theme Park
+  popularity: 2.116344716042601
+  rating: 70.3333900644455
+  total_rating: 74.66669503222275
+  total_rating_count: 34
+- id: 4289
+  name: Quarantine
+  popularity: 3.246702647071436
+  rating: 73.0174081237911
+  total_rating: 73.0174081237911
+  total_rating_count: 6
+- id: 4331
+  name: Cyberia
+  popularity: 1.669806829625561
+  rating: 72.88872984324959
+  total_rating: 72.88872984324959
+  total_rating_count: 7
+- id: 161
+  name: 'Star Wars: Rebel Assault'
+  popularity: 1.0
+  rating: 72.6651611862209
+  total_rating: 72.6651611862209
+  total_rating_count: 9
+- id: 4239
+  name: Lemmings
+  popularity: 2.562882602459641
+  rating: 77.0386174515578
+  total_rating: 72.3193087257789
+  total_rating_count: 62
+- id: 2486
+  name: Night Trap
+  popularity: 1.676291082700661
+  rating: 69.7760413137906
+  total_rating: 69.7760413137906
+  total_rating_count: 5
+- id: 3249
+  name: Road Rash
+  popularity: 2.572691852950005
+  rating: 73.8967451594201
+  total_rating: 69.44837257971005
+  total_rating_count: 22
+- id: 284
+  name: Wolfenstein 3D
+  popularity: 3.020387375427477
+  rating: 79.5760345962575
+  total_rating: 67.78801729812875
+  total_rating_count: 130
+- id: 4309
+  name: Gex
+  popularity: 1.669806829625561
+  rating: 73.8245184974644
+  total_rating: 66.9122592487322
+  total_rating_count: 9
+- id: 1956
+  name: Alone in the Dark
+  popularity: 2.786151545668162
+  rating: 72.9432382331229
+  total_rating: 66.47161911656144
+  total_rating_count: 22
+- id: 4271
+  name: Primal Rage
+  popularity: 1.0
+  rating: 75.0870467315533
+  total_rating: 62.54352336577665
+  total_rating_count: 14
+- id: 4260
+  name: Samurai Shodown
+  popularity: 1.0
+  rating: 81.69539159307331
+  total_rating: 62.34769579653666
+  total_rating_count: 16
+- id: 4275
+  name: Flashback
+  popularity: 3.696043176485723
+  rating: 79.9296994811576
+  total_rating: 57.4648497405788
+  total_rating_count: 34
+- id: 4248
+  name: Dragon's Lair
+  popularity: 1.669964741908329
+  rating: 61.9338062115426
+  total_rating: 55.9669031057713
+  total_rating_count: 16
+- id: 1957
+  name: Alone in the Dark 2
+  popularity: 1.449078713580444
+  rating: 27.1766191401545
+  total_rating: 27.1766191401545
+  total_rating_count: 7
