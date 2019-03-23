@@ -38,16 +38,16 @@ class Roms():
         try:
             os.makedirs(new_path)
         except OSError as e:
-            logging.exception(str(e))
+            pass
         except Exception as e:
             logging.exception(str(e))
         for file in rom_list:
             try:
                 if not os.path.exists(os.path.join(new_path, file)):
-                    logging.info("Copying {} to {}".format(file, new_path))
+                    logging.info(u"Copying {} to {}".format(file, new_path))
                     shutil.copy2(original_path + "/" + file, new_path + "/")
                 else:
-                    logging.info("Skipping copy of {} to {}, file already exists".format(file, new_path))
+                    logging.info(u"Skipping copy of {} to {}, file already exists".format(file, new_path))
             except Exception as e:
                 logging.exception(str(e))
                 pass

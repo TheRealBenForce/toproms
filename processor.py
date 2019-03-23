@@ -32,16 +32,16 @@ class Processor():
             r = roms.Roms(i['platformID'])
             current_list = sorted(r.get_rom_file_list())
             best_list = []
-            logging.info('PROCESSING: {}'.format(g.get_console_name()))
+            logging.info(u'PROCESSING: {}'.format(g.get_console_name()))
             for t in top_list:
                 try:
                     file, short_name, score = self.find_highest(t, current_list)
                     if score > 80:
-                        logging.info('MATCHED: {} | {} | high score {}'.format(t['name'], file, str(score)))
+                        logging.info(u'MATCHED: {} | {} | high score {}'.format(t['name'], file, str(score)))
                         best_list.append(file)
                         total += 1
                     else:
-                        logging.warning('SKIPPED DUE TO SCORE: {} | {} | high score {}'.format(t['name'], file, str(score)))
+                        logging.warning(u'SKIPPED DUE TO SCORE: {} | {} | high score {}'.format(t['name'], file, str(score)))
                 except Exception as e:
                     logging.exception(str(e))
                     pass

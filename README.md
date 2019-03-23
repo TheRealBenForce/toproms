@@ -49,3 +49,5 @@ This may need tuning overtime, but this is how it work. Open to suggestions:
 - Parameterize score threshold to match a game
 - Fix ascii matching error
 - Move get_console_name to the platforms module 
+- Fix Dragon Quest / Dragon Warrior type problems
+- Convert all roman numerals before matching
