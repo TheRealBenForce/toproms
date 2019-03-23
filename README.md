@@ -47,7 +47,6 @@ This may need tuning overtime, but this is how it work. Open to suggestions:
 - Argparse to pass a paid api key and get more than 200 results back
 - Parameterize how many roms you want either by count or size on disk
 - Parameterize score threshold to match a game
-- Fix ascii matching error
 - Move get_console_name to the platforms module 
 - Fix Dragon Quest / Dragon Warrior type problems
 - Convert all roman numerals before matching
