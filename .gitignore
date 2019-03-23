@@ -110,5 +110,6 @@ roms.zip
 roms/
 toproms/
 my_config.csv
+my-config.csv
 info.log
 errors.log
