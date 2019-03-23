@@ -11,7 +11,7 @@
   total_rating_count: 5
 - id: 6807
   name: Ghosts 'n Goblins
-  popularity: 1.448974972317217
+  popularity: 1.447836762546534
   rating: 70.2181936544159
   total_rating: 80.10909682720795
   total_rating_count: 29
@@ -29,13 +29,13 @@
   total_rating_count: 6
 - id: 10161
   name: Manic Miner
-  popularity: 1.446643161272219
+  popularity: 1.0
   rating: 61.1430707473384
   total_rating: 70.5715353736692
   total_rating_count: 6
 - id: 11762
   name: Paperboy
-  popularity: 1.897949944634434
+  popularity: 1.6717551438198
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29
@@ -65,7 +65,7 @@
   total_rating_count: 6
 - id: 1944
   name: Zork I
-  popularity: 1.671480243915138
+  popularity: 1.447836762546534
   rating: 44.0651731437908
   total_rating: 44.0651731437908
   total_rating_count: 9

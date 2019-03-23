@@ -1,30 +1,30 @@
 - id: 10605
   name: 'Garou: Mark of the Wolves'
-  popularity: 3.032469032025643
-  rating: 97.87598189517331
-  total_rating: 88.93799094758666
-  total_rating_count: 13
+  popularity: 3.451506617001302
+  rating: 97.9556557343078
+  total_rating: 88.9778278671539
+  total_rating_count: 14
 - id: 1404
   name: Metal Slug
-  popularity: 5.489749723172172
+  popularity: 5.236561873800572
   rating: 85.8905564944938
   total_rating: 85.8905564944938
   total_rating_count: 61
 - id: 1407
   name: Metal Slug 2
-  popularity: 3.469362347744694
+  popularity: 3.463102194005934
   rating: 84.13744809713461
   total_rating: 84.13744809713461
   total_rating_count: 38
 - id: 1408
   name: Metal Slug 3
-  popularity: 3.244874861586086
+  popularity: 3.005778141182883
   rating: 85.52331124584599
   total_rating: 83.92832228958964
   total_rating_count: 62
 - id: 11222
   name: Windjammers
-  popularity: 1.67467180662638
+  popularity: 1.0
   rating: 88.5896458742272
   total_rating: 83.7948229371136
   total_rating_count: 18
@@ -42,10 +42,10 @@
   total_rating_count: 15
 - id: 18840
   name: Metal Slug X
-  popularity: 1.669806829625561
-  rating: 80.6889060065534
-  total_rating: 80.3444530032767
-  total_rating_count: 25
+  popularity: 1.680611349679088
+  rating: 80.6842578871072
+  total_rating: 80.3421289435536
+  total_rating_count: 26
 - id: 15431
   name: The King of Fighters 2000
   popularity: 1.0
@@ -102,7 +102,7 @@
   total_rating_count: 10
 - id: 15429
   name: The King of Fighters '98
-  popularity: 1.449491346118362
+  popularity: 1.670919921066095
   rating: 80.2759894770918
   total_rating: 70.1379947385459
   total_rating_count: 15
@@ -114,7 +114,7 @@
   total_rating_count: 7
 - id: 1410
   name: Metal Slug 5
-  popularity: 1.449340529414287
+  popularity: 1.0
   rating: 83.4807304345925
   total_rating: 66.74036521729624
   total_rating_count: 23
@@ -132,7 +132,7 @@
   total_rating_count: 11
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.0
+  popularity: 1.668592713727628
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
@@ -144,7 +144,7 @@
   total_rating_count: 7
 - id: 6787
   name: Double Dragon
-  popularity: 3.469362347744694
+  popularity: 3.039680293372056
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61
@@ -156,7 +156,7 @@
   total_rating_count: 5
 - id: 5884
   name: The King of Fighters 2002
-  popularity: 2.122437430793043
+  popularity: 1.894559894754793
   rating: 53.9178781616001
   total_rating: 53.9178781616001
   total_rating_count: 10

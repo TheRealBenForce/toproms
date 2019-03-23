@@ -12,25 +12,25 @@
   total_rating_count: 7
 - id: 1139
   name: 'Castlevania: Rondo of Blood'
-  popularity: 3.271945455954134
-  rating: 85.913885037925
-  total_rating: 85.913885037925
-  total_rating_count: 26
+  popularity: 3.268704498930292
+  rating: 86.1385964421867
+  total_rating: 86.1385964421867
+  total_rating_count: 27
 - id: 6790
   name: 'Double Dragon 2: The Revenge'
-  popularity: 1.89715812781553
+  popularity: 2.586418005956044
   rating: 83.62284450156571
   total_rating: 83.62284450156571
   total_rating_count: 30
 - id: 7558
   name: Ninja Gaiden
-  popularity: 5.040774750854954
+  popularity: 4.568259163295302
   rating: 82.9090410442543
   total_rating: 82.9090410442543
   total_rating_count: 34
 - id: 1477
   name: Salamander
-  popularity: 1.893075772834081
+  popularity: 3.005778141182883
   rating: 93.5322423159918
   total_rating: 82.7661211579959
   total_rating_count: 7
@@ -42,7 +42,7 @@
   total_rating_count: 9
 - id: 5451
   name: Snatcher
-  popularity: 1.449491346118362
+  popularity: 1.906524574832025
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
@@ -66,19 +66,19 @@
   total_rating_count: 6
 - id: 4405
   name: Rainbow Islands
-  popularity: 1.673841691708951
+  popularity: 1.0
   rating: 79.8523578440175
   total_rating: 79.8523578440175
   total_rating_count: 9
 - id: 6841
   name: Raiden
-  popularity: 1.669806829625561
+  popularity: 1.895673525093067
   rating: 79.76554911041559
   total_rating: 79.76554911041559
   total_rating_count: 9
 - id: 2051
   name: OutRun
-  popularity: 2.124453011043967
+  popularity: 1.6717551438198
   rating: 79.695088860288
   total_rating: 79.695088860288
   total_rating_count: 22
@@ -90,13 +90,13 @@
   total_rating_count: 5
 - id: 6840
   name: R-Type
-  popularity: 1.450860721800441
+  popularity: 1.0
   rating: 77.5727077907682
   total_rating: 77.5727077907682
   total_rating_count: 18
 - id: 248
   name: Populous
-  popularity: 2.578012526301542
+  popularity: 2.3435102876396
   rating: 77.0266918949967
   total_rating: 77.0266918949967
   total_rating_count: 13
@@ -108,31 +108,31 @@
   total_rating_count: 12
 - id: 6823
   name: Pang
-  popularity: 1.673618070370666
+  popularity: 1.894559894754793
   rating: 74.8979075916168
   total_rating: 74.8979075916168
   total_rating_count: 17
-- id: 6930
-  name: Street Fighter
-  popularity: 2.348021588242862
-  rating: 72.0210999188896
-  total_rating: 72.0210999188896
-  total_rating_count: 27
 - id: 5565
   name: Golden Axe
-  popularity: 2.57141240311026
+  popularity: 2.567428668912867
   rating: 77.68502708503371
   total_rating: 71.34251354251685
   total_rating_count: 73
 - id: 1476
   name: Gradius
-  popularity: 1.898681058828574
+  popularity: 1.670919921066095
   rating: 67.9056868564262
   total_rating: 71.2028434282131
   total_rating_count: 17
+- id: 6930
+  name: Street Fighter
+  popularity: 2.134352249465146
+  rating: 70.2634591166028
+  total_rating: 70.2634591166028
+  total_rating_count: 27
 - id: 12190
   name: Operation Wolf
-  popularity: 1.446651925276401
+  popularity: 1.0
   rating: 70.1080525702429
   total_rating: 70.1080525702429
   total_rating_count: 11
@@ -144,7 +144,7 @@
   total_rating_count: 6
 - id: 12857
   name: Space Harrier
-  popularity: 1.451305696802551
+  popularity: 1.668592713727628
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6
@@ -156,13 +156,13 @@
   total_rating_count: 6
 - id: 6802
   name: Chase H.Q.
-  popularity: 1.446651925276401
+  popularity: 1.0
   rating: 66.0800019720634
   total_rating: 66.0800019720634
   total_rating_count: 5
 - id: 6899
   name: Shinobi
-  popularity: 1.676291082700661
+  popularity: 1.445728475818419
   rating: 61.8512778243936
   total_rating: 60.9256389121968
   total_rating_count: 15
@@ -174,7 +174,7 @@
   total_rating_count: 7
 - id: 2604
   name: Altered Beast
-  popularity: 1.446643161272219
+  popularity: 1.0
   rating: 63.2750548654405
   total_rating: 54.13752743272025
   total_rating_count: 44

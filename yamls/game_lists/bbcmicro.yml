@@ -1,9 +1,9 @@
 - id: 8197
   name: Tetris
-  popularity: 7.728685958616477
-  rating: 89.5624936505163
-  total_rating: 89.5624936505163
-  total_rating_count: 472
+  popularity: 6.898631697218759
+  rating: 89.56291107681571
+  total_rating: 89.56291107681571
+  total_rating_count: 473
 - id: 4929
   name: Impossible Mission
   popularity: 1.0
@@ -12,7 +12,7 @@
   total_rating_count: 8
 - id: 4595
   name: Arkanoid
-  popularity: 1.676291082700661
+  popularity: 1.453262287416012
   rating: 88.6063611533045
   total_rating: 88.6063611533045
   total_rating_count: 34
@@ -30,19 +30,19 @@
   total_rating_count: 5
 - id: 2951
   name: Elite
-  popularity: 3.246702647071436
+  popularity: 3.68367968426438
   rating: 85.2805336567617
   total_rating: 85.2805336567617
   total_rating_count: 7
 - id: 12942
   name: Boulder Dash
-  popularity: 2.795899889268869
+  popularity: 2.133155718540031
   rating: 80.0710555959421
   total_rating: 80.03552779797104
   total_rating_count: 11
 - id: 4167
   name: Spy Hunter
-  popularity: 1.446651925276401
+  popularity: 1.0
   rating: 79.56757128568219
   total_rating: 79.7837856428411
   total_rating_count: 13
@@ -60,13 +60,13 @@
   total_rating_count: 23
 - id: 1272
   name: SimCity
-  popularity: 3.479733969902423
+  popularity: 2.359786862248037
   rating: 88.5921776636175
   total_rating: 73.67108883180876
   total_rating_count: 40
 - id: 8400
   name: The Last Ninja
-  popularity: 1.0
+  popularity: 1.453262287416012
   rating: 73.4743340457829
   total_rating: 73.4743340457829
   total_rating_count: 6
@@ -90,19 +90,19 @@
   total_rating_count: 5
 - id: 10161
   name: Manic Miner
-  popularity: 1.446643161272219
+  popularity: 1.0
   rating: 61.1430707473384
   total_rating: 70.5715353736692
   total_rating_count: 6
 - id: 3592
   name: 'Robotron: 2084'
-  popularity: 1.619909489351017
+  popularity: 1.0
   rating: 70.3804928531999
   total_rating: 70.19024642659994
   total_rating_count: 6
 - id: 2235
   name: Centipede
-  popularity: 1.902611393605102
+  popularity: 1.445728475818419
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
@@ -114,7 +114,7 @@
   total_rating_count: 15
 - id: 11762
   name: Paperboy
-  popularity: 1.897949944634434
+  popularity: 1.6717551438198
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29

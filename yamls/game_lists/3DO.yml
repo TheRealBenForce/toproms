@@ -1,6 +1,6 @@
 - id: 4268
   name: Panzer General
-  popularity: 3.244874861586086
+  popularity: 3.266311437080062
   rating: 95.6982137287396
   total_rating: 95.6982137287396
   total_rating_count: 7
@@ -12,7 +12,7 @@
   total_rating_count: 11
 - id: 4348
   name: Another World
-  popularity: 4.142824806220521
+  popularity: 3.899210570177432
   rating: 87.8683181016298
   total_rating: 87.8683181016298
   total_rating_count: 52
@@ -30,13 +30,13 @@
   total_rating_count: 23
 - id: 5519
   name: Cannon Fodder
-  popularity: 2.121447659769413
+  popularity: 2.565479815820888
   rating: 84.7524486141904
   total_rating: 84.7524486141904
   total_rating_count: 21
 - id: 673
   name: Doom
-  popularity: 5.49781204417587
+  popularity: 7.020377399611339
   rating: 85.988728983394
   total_rating: 82.994364491697
   total_rating_count: 479
@@ -48,13 +48,13 @@
   total_rating_count: 14
 - id: 2588
   name: 'Wing Commander III: Heart of the Tiger'
-  popularity: 1.897949944634434
+  popularity: 1.0
   rating: 80.0135355132999
   total_rating: 80.0135355132999
   total_rating_count: 14
 - id: 49
   name: Syndicate
-  popularity: 4.161618494262111
+  popularity: 3.719573724496075
   rating: 82.0114508550278
   total_rating: 75.38072542751391
   total_rating_count: 22
@@ -72,7 +72,7 @@
   total_rating_count: 34
 - id: 4289
   name: Quarantine
-  popularity: 3.246702647071436
+  popularity: 3.492942580788069
   rating: 73.0174081237911
   total_rating: 73.0174081237911
   total_rating_count: 6
@@ -90,7 +90,7 @@
   total_rating_count: 9
 - id: 4239
   name: Lemmings
-  popularity: 2.562882602459641
+  popularity: 2.81304914966405
   rating: 77.0386174515578
   total_rating: 72.3193087257789
   total_rating_count: 62
@@ -102,25 +102,25 @@
   total_rating_count: 5
 - id: 3249
   name: Road Rash
-  popularity: 2.572691852950005
+  popularity: 2.3435102876396
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
 - id: 284
   name: Wolfenstein 3D
-  popularity: 3.020387375427477
+  popularity: 3.041834049037263
   rating: 79.5760345962575
   total_rating: 67.78801729812875
   total_rating_count: 130
 - id: 4309
   name: Gex
-  popularity: 1.669806829625561
+  popularity: 1.447836762546534
   rating: 73.8245184974644
   total_rating: 66.9122592487322
   total_rating_count: 9
 - id: 1956
   name: Alone in the Dark
-  popularity: 2.786151545668162
+  popularity: 3.039680293372056
   rating: 72.9432382331229
   total_rating: 66.47161911656144
   total_rating_count: 22
@@ -132,19 +132,19 @@
   total_rating_count: 14
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.0
+  popularity: 1.668592713727628
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
 - id: 4275
   name: Flashback
-  popularity: 3.696043176485723
+  popularity: 4.121677170168843
   rating: 79.9296994811576
   total_rating: 57.4648497405788
   total_rating_count: 34
 - id: 4248
   name: Dragon's Lair
-  popularity: 1.669964741908329
+  popularity: 1.895673525093067
   rating: 61.9338062115426
   total_rating: 55.9669031057713
   total_rating_count: 16

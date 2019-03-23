@@ -1,18 +1,18 @@
 - id: 4614
   name: Galaxian
-  popularity: 1.447653495943425
+  popularity: 1.0
   rating: 87.9498285813319
   total_rating: 88.97491429066595
   total_rating_count: 20
 - id: 7758
   name: Asteroids
-  popularity: 2.817556364763307
+  popularity: 2.560049665364465
   rating: 77.8194638280022
   total_rating: 83.9097319140011
   total_rating_count: 25
 - id: 7452
   name: Ms. Pac-Man
-  popularity: 2.57141240311026
+  popularity: 2.560049665364465
   rating: 83.224952221169
   total_rating: 83.61247611058451
   total_rating_count: 28
@@ -30,10 +30,10 @@
   total_rating_count: 9
 - id: 2750
   name: Pac-Man
-  popularity: 4.156025052603083
-  rating: 83.1079288765291
-  total_rating: 80.8872977715979
-  total_rating_count: 85
+  popularity: 3.495574948823321
+  rating: 83.1103600680685
+  total_rating: 80.88851336736761
+  total_rating_count: 86
 - id: 7559
   name: Pac-Man
   popularity: 1.898982692236724
@@ -42,7 +42,7 @@
   total_rating_count: 12
 - id: 4167
   name: Spy Hunter
-  popularity: 1.446651925276401
+  popularity: 1.0
   rating: 79.56757128568219
   total_rating: 79.7837856428411
   total_rating_count: 13
@@ -60,16 +60,16 @@
   total_rating_count: 13
 - id: 5411
   name: Pitfall!
-  popularity: 2.799124817670348
+  popularity: 2.567428668912867
   rating: 79.2959713591713
   total_rating: 79.2959713591713
   total_rating_count: 29
 - id: 3601
   name: Space Invaders
-  popularity: 4.613278279156699
-  rating: 79.05489964076051
-  total_rating: 79.05489964076051
-  total_rating_count: 51
+  popularity: 3.94931584860938
+  rating: 79.0625089935692
+  total_rating: 79.0625089935692
+  total_rating_count: 52
 - id: 6054
   name: Ghostbusters
   popularity: 1.0
@@ -102,37 +102,37 @@
   total_rating_count: 23
 - id: 3105
   name: Mario Bros.
-  popularity: 5.265262237013562
+  popularity: 4.12009933072893
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
 - id: 2636
   name: Dig Dug
-  popularity: 2.346924916951652
+  popularity: 2.119591906366334
   rating: 79.5207559941383
   total_rating: 74.76037799706916
   total_rating_count: 30
 - id: 18288
   name: Frogger
-  popularity: 1.673462458475826
+  popularity: 1.6717551438198
   rating: 78.8745718207034
   total_rating: 74.4372859103517
   total_rating_count: 13
 - id: 3873
   name: Defender
-  popularity: 1.619113739265308
+  popularity: 1.0
   rating: 77.1159504230547
   total_rating: 73.55797521152735
   total_rating_count: 13
 - id: 12313
   name: Missile Command
-  popularity: 2.339929483816658
+  popularity: 2.567428668912867
   rating: 70.395690417433
   total_rating: 73.53117854204984
   total_rating_count: 17
 - id: 1086
   name: Donkey Kong
-  popularity: 3.469362347744694
+  popularity: 3.266311437080062
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -144,7 +144,7 @@
   total_rating_count: 8
 - id: 11984
   name: California Games
-  popularity: 1.669806829625561
+  popularity: 1.447836762546534
   rating: 52.8222653247701
   total_rating: 71.41113266238506
   total_rating_count: 9
@@ -162,7 +162,7 @@
   total_rating_count: 7
 - id: 2235
   name: Centipede
-  popularity: 1.902611393605102
+  popularity: 1.445728475818419
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
@@ -174,7 +174,7 @@
   total_rating_count: 13
 - id: 16759
   name: Combat
-  popularity: 1.0
+  popularity: 1.670919921066095
   rating: 68.77353972326729
   total_rating: 68.77353972326729
   total_rating_count: 7
@@ -222,7 +222,7 @@
   total_rating_count: 8
 - id: 6795
   name: Frogger
-  popularity: 1.691422190447871
+  popularity: 1.668592713727628
   rating: 62.6825759309679
   total_rating: 62.6825759309679
   total_rating_count: 24
@@ -234,13 +234,13 @@
   total_rating_count: 8
 - id: 4619
   name: Popeye
-  popularity: 1.676958545203826
+  popularity: 1.0
   rating: 59.9418362032479
   total_rating: 59.9418362032479
   total_rating_count: 21
 - id: 6787
   name: Double Dragon
-  popularity: 3.469362347744694
+  popularity: 3.039680293372056
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61

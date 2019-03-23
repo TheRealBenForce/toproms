@@ -1,6 +1,8 @@
 import processor
 import os
 import shutil
+import logging
+
 
 class Roms():
     
@@ -24,7 +26,7 @@ class Roms():
                 if c['platformID'] == self.platform_id:
                     return c['folder']
         except Exception as e:
-            print(str(e))
+            logging.exception(str(e))
             raise
         return None
 
@@ -32,18 +34,30 @@ class Roms():
     def make_new_rom_set(self, rom_list):
         """ Copies roms from a list to a new folder """
         original_path = self.find_rom_list_folder() 
-        new_path = original_path + " - Top Roms"
+        new_path = self.determine_new_path(original_path)
         try:
-            os.mkdir(new_path)
-        except OSError:
-            pass
+            os.makedirs(new_path)
+        except OSError as e:
+            logging.exception(str(e))
         except Exception as e:
-            print(str(e))
+            logging.exception(str(e))
         for file in rom_list:
             try:
-                #print("Copying {} to {}".format(file, path))
-                shutil.copy2(original_path + "/" + file, new_path + "/")
+                if not os.path.exists(os.path.join(new_path, file)):
+                    logging.info("Copying {} to {}".format(file, new_path))
+                    shutil.copy2(original_path + "/" + file, new_path + "/")
+                else:
+                    logging.info("Skipping copy of {} to {}, file already exists".format(file, new_path))
             except Exception as e:
-                print(str(e))
+                logging.exception(str(e))
                 pass
         return
+
+
+    def determine_new_path(self, path):
+        "Pass in a path and return a new path with 'toproms' branched one level down"
+        substr = path.split("/")[-1][0]
+        branch = "toproms/"
+        idx = path.index(substr)
+        path = path[:idx] + branch + path[idx:]
+        return path

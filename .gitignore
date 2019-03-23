@@ -108,4 +108,7 @@ venv.bak/
 setenv.sh
 roms.zip
 roms/
+toproms/
 my_config.csv
+info.log
+errors.log

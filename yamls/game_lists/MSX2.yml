@@ -6,31 +6,31 @@
   total_rating_count: 12
 - id: 5451
   name: Snatcher
-  popularity: 1.449491346118362
+  popularity: 1.906524574832025
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
 - id: 1813
   name: Dragon Quest II
-  popularity: 1.449340529414287
+  popularity: 1.0
   rating: 76.0045490709621
   total_rating: 76.0045490709621
   total_rating_count: 12
 - id: 374
   name: Metal Gear
-  popularity: 3.258298924472936
+  popularity: 3.012759763198285
   rating: 73.3243071828507
   total_rating: 73.3243071828507
   total_rating_count: 40
 - id: 385
   name: Final Fantasy
-  popularity: 5.040774750854954
+  popularity: 5.905492695979611
   rating: 70.1234910897716
   total_rating: 70.06174554488581
   total_rating_count: 87
 - id: 4598
   name: Contra
-  popularity: 6.836674640123823
+  popularity: 9.027169866148453
   rating: 85.43287506412429
   total_rating: 67.71643753206214
   total_rating_count: 111
@@ -42,7 +42,7 @@
   total_rating_count: 10
 - id: 7414
   name: Ultima
-  popularity: 2.119133739858563
+  popularity: 1.895673525093067
   rating: 52.2499235503978
   total_rating: 52.2499235503978
   total_rating_count: 12

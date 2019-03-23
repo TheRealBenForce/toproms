@@ -22,7 +22,6 @@ class Platforms():
         for d in platform_list:
             if 'abbreviation' in d:
                 trimmed_list.append(d)
-        print(trimmed_list)
         return trimmed_list
         
     def get_platform_list(self):

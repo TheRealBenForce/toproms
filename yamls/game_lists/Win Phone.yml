@@ -1,24 +1,24 @@
 - id: 4348
   name: Another World
-  popularity: 4.142824806220521
+  popularity: 3.899210570177432
   rating: 87.8683181016298
   total_rating: 87.8683181016298
   total_rating_count: 52
 - id: 18124
   name: Akinator
-  popularity: 8.452386450760692
+  popularity: 8.486724846469965
   rating: 84.1097489784005
   total_rating: 84.1097489784005
   total_rating_count: 5
 - id: 8900
   name: Monument Valley
-  popularity: 8.183599557075475
+  popularity: 8.358239043969416
   rating: 78.456653212415
   total_rating: 84.06165993954085
   total_rating_count: 79
 - id: 1334
   name: 'Brothers: A Tale of Two Sons'
-  popularity: 5.265262237013562
+  popularity: 5.013584933074227
   rating: 82.68306545663339
   total_rating: 83.91296129974523
   total_rating_count: 304
@@ -30,19 +30,19 @@
   total_rating_count: 40
 - id: 121
   name: Minecraft
-  popularity: 25.69362347744694
-  rating: 81.1468888581883
-  total_rating: 82.75201585766561
-  total_rating_count: 563
+  popularity: 27.54384263748442
+  rating: 81.14744426595321
+  total_rating: 82.75229356154806
+  total_rating_count: 564
 - id: 5059
   name: NBA Jam
-  popularity: 1.673618070370666
+  popularity: 1.447836762546534
   rating: 90.0
   total_rating: 82.0
   total_rating_count: 8
 - id: 15140
   name: Ms. Splosion Man
-  popularity: 1.0
+  popularity: 1.445728475818419
   rating: 80.0
   total_rating: 81.7
   total_rating_count: 11
@@ -54,10 +54,10 @@
   total_rating_count: 13
 - id: 2750
   name: Pac-Man
-  popularity: 4.156025052603083
-  rating: 83.1079288765291
-  total_rating: 80.8872977715979
-  total_rating_count: 85
+  popularity: 3.495574948823321
+  rating: 83.1103600680685
+  total_rating: 80.88851336736761
+  total_rating_count: 86
 - id: 868
   name: Sid Meier's Pirates!
   popularity: 1.448974972317217
@@ -66,13 +66,13 @@
   total_rating_count: 52
 - id: 9761
   name: Cut the Rope
-  popularity: 2.571775497531555
+  popularity: 2.782913903273674
   rating: 79.8141240019294
   total_rating: 79.8141240019294
   total_rating_count: 23
 - id: 5411
   name: Pitfall!
-  popularity: 2.799124817670348
+  popularity: 2.567428668912867
   rating: 79.2959713591713
   total_rating: 79.2959713591713
   total_rating_count: 29
@@ -84,10 +84,10 @@
   total_rating_count: 15
 - id: 1879
   name: Terraria
-  popularity: 8.632574529392691
-  rating: 75.9460022391155
-  total_rating: 77.8366374831941
-  total_rating_count: 222
+  popularity: 10.98229979529328
+  rating: 75.94932623710571
+  total_rating: 77.8382994821892
+  total_rating_count: 224
 - id: 4603
   name: Lode Runner
   popularity: 1.0
@@ -96,7 +96,7 @@
   total_rating_count: 18
 - id: 5906
   name: Madden NFL 06
-  popularity: 1.451659784894587
+  popularity: 1.0
   rating: 75.0
   total_rating: 76.7
   total_rating_count: 8
@@ -108,19 +108,19 @@
   total_rating_count: 8
 - id: 7849
   name: 'Halo: Spartan Strike'
-  popularity: 1.0
+  popularity: 1.445728475818419
   rating: 72.4711766926936
   total_rating: 76.2355883463468
   total_rating_count: 7
 - id: 4650
   name: Pro Evolution Soccer 2011
-  popularity: 6.163212181647997
+  popularity: 5.460323954119127
   rating: 77.5921164533614
   total_rating: 76.12939156001406
   total_rating_count: 36
 - id: 1051
   name: Mirror's Edge
-  popularity: 5.71423720933078
+  popularity: 5.460323954119127
   rating: 77.7300499653218
   total_rating: 75.1150249826609
   total_rating_count: 401
@@ -138,7 +138,7 @@
   total_rating_count: 5
 - id: 8322
   name: Zuma's Revenge!
-  popularity: 1.0
+  popularity: 1.447836762546534
   rating: 71.33612388108679
   total_rating: 72.9180619405434
   total_rating_count: 20
@@ -162,13 +162,13 @@
   total_rating_count: 10
 - id: 8978
   name: Jetpack Joyride
-  popularity: 3.032469032025643
+  popularity: 3.041834049037263
   rating: 76.4636314751183
   total_rating: 71.73181573755915
   total_rating_count: 28
 - id: 8901
   name: Badland
-  popularity: 1.446643161272219
+  popularity: 1.668592713727628
   rating: 73.3441090664394
   total_rating: 71.6720545332197
   total_rating_count: 17
@@ -180,13 +180,13 @@
   total_rating_count: 9
 - id: 23306
   name: 'Asphalt 8: Airborne'
-  popularity: 4.816287264696346
+  popularity: 5.460323954119127
   rating: 70.4260786748315
   total_rating: 70.4260786748315
   total_rating_count: 26
 - id: 385
   name: Final Fantasy
-  popularity: 5.040774750854954
+  popularity: 5.905492695979611
   rating: 70.1234910897716
   total_rating: 70.06174554488581
   total_rating_count: 87
@@ -198,19 +198,19 @@
   total_rating_count: 11
 - id: 9195
   name: Five Nights at Freddy's 2
-  popularity: 1.0
+  popularity: 1.445728475818419
   rating: 69.840968557801
   total_rating: 69.9204842789005
   total_rating_count: 16
 - id: 10225
   name: HOOK
-  popularity: 14.46924916951651
+  popularity: 11.7047774898859
   rating: 69.58769424939649
   total_rating: 69.58769424939649
   total_rating_count: 8
 - id: 6166
   name: Subway Surfers
-  popularity: 7.510137098599649
+  popularity: 7.689308221790378
   rating: 69.390276540766
   total_rating: 69.390276540766
   total_rating_count: 14
@@ -220,18 +220,18 @@
   rating: 69.1495481156061
   total_rating: 69.1495481156061
   total_rating_count: 6
-- id: 9784
-  name: Bridge Constructor
-  popularity: 1.0
-  rating: 72.3151794878713
-  total_rating: 69.09508974393566
-  total_rating_count: 15
 - id: 5577
   name: LYNE
   popularity: 1.0
   rating: 68.82595638358251
   total_rating: 68.82595638358251
   total_rating_count: 10
+- id: 9784
+  name: Bridge Constructor
+  popularity: 1.0
+  rating: 71.4643870644393
+  total_rating: 68.66969353221964
+  total_rating_count: 16
 - id: 8499
   name: Five Nights at Freddy's
   popularity: 2.795899889268869
@@ -240,7 +240,7 @@
   total_rating_count: 24
 - id: 19902
   name: Bad Piggies
-  popularity: 8.951809095839469
+  popularity: 7.913502128884646
   rating: 60.2533733742358
   total_rating: 67.6266866871179
   total_rating_count: 7
@@ -276,7 +276,7 @@
   total_rating_count: 45
 - id: 4839
   name: 'Halo: Spartan Assault'
-  popularity: 2.119133739858563
+  popularity: 1.895673525093067
   rating: 60.0580534603764
   total_rating: 63.0290267301882
   total_rating_count: 32
@@ -295,9 +295,9 @@
 - id: 5032
   name: 'Draw a Stickman: EPIC'
   popularity: 1.0
-  rating: 50.6413166855846
-  total_rating: 55.3206583427923
-  total_rating_count: 5
+  rating: 50.522664199815
+  total_rating: 55.2613320999075
+  total_rating_count: 6
 - id: 9201
   name: Yet Another Zombie Defense
   popularity: 1.0
@@ -312,7 +312,7 @@
   total_rating_count: 10
 - id: 13151
   name: The Sims FreePlay
-  popularity: 3.022711057532629
+  popularity: 3.236399736886983
   rating: 36.5269891560563
   total_rating: 36.5269891560563
   total_rating_count: 10

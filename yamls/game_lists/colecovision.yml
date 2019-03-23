@@ -1,6 +1,6 @@
 - id: 4614
   name: Galaxian
-  popularity: 1.447653495943425
+  popularity: 1.0
   rating: 87.9498285813319
   total_rating: 88.97491429066595
   total_rating_count: 20
@@ -12,19 +12,19 @@
   total_rating_count: 9
 - id: 12942
   name: Boulder Dash
-  popularity: 2.795899889268869
+  popularity: 2.133155718540031
   rating: 80.0710555959421
   total_rating: 80.03552779797104
   total_rating_count: 11
 - id: 4167
   name: Spy Hunter
-  popularity: 1.446651925276401
+  popularity: 1.0
   rating: 79.56757128568219
   total_rating: 79.7837856428411
   total_rating_count: 13
 - id: 5411
   name: Pitfall!
-  popularity: 2.799124817670348
+  popularity: 2.567428668912867
   rating: 79.2959713591713
   total_rating: 79.2959713591713
   total_rating_count: 29
@@ -36,19 +36,19 @@
   total_rating_count: 24
 - id: 18288
   name: Frogger
-  popularity: 1.673462458475826
+  popularity: 1.6717551438198
   rating: 78.8745718207034
   total_rating: 74.4372859103517
   total_rating_count: 13
 - id: 3873
   name: Defender
-  popularity: 1.619113739265308
+  popularity: 1.0
   rating: 77.1159504230547
   total_rating: 73.55797521152735
   total_rating_count: 13
 - id: 1086
   name: Donkey Kong
-  popularity: 3.469362347744694
+  popularity: 3.266311437080062
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -66,7 +66,7 @@
   total_rating_count: 6
 - id: 2235
   name: Centipede
-  popularity: 1.902611393605102
+  popularity: 1.445728475818419
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
@@ -90,13 +90,13 @@
   total_rating_count: 19
 - id: 6795
   name: Frogger
-  popularity: 1.691422190447871
+  popularity: 1.668592713727628
   rating: 62.6825759309679
   total_rating: 62.6825759309679
   total_rating_count: 24
 - id: 4619
   name: Popeye
-  popularity: 1.676958545203826
+  popularity: 1.0
   rating: 59.9418362032479
   total_rating: 59.9418362032479
   total_rating_count: 21

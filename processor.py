@@ -4,6 +4,7 @@ import games
 import roms
 from console_args import CONSOLE_ARGS
 from fuzzywuzzy import fuzz
+import logging
 
 class Processor():
     def __init__(self):
@@ -23,6 +24,7 @@ class Processor():
 
     def make_top_list(self):
         """ Makes a new list of rom files based on most popular and what you have. """
+        logging.info('Beginning to create a new list of files to copy.')
         total = 0
         for i in self.config_data:
             g = games.Games(i['platformID'])
@@ -30,19 +32,18 @@ class Processor():
             r = roms.Roms(i['platformID'])
             current_list = sorted(r.get_rom_file_list())
             best_list = []
-            print("PROCESSING: " + g.get_console_name())
+            logging.info('PROCESSING: {}'.format(g.get_console_name()))
             for t in top_list:
                 try:
                     file, short_name, score = self.find_highest(t, current_list)
                     if score > 80:
-                        #print(t['name'] + " <|> " + short_name + " <|> " + str(score))
+                        logging.info('MATCHED: {} | {} | high score {}'.format(t['name'], file, str(score)))
                         best_list.append(file)
                         total += 1
                     else:
-                        pass
-                        #print("SKIPPING: " + t['name'] + " <|> " + short_name + " <|> " + str(score))
+                        logging.warning('SKIPPED DUE TO SCORE: {} | {} | high score {}'.format(t['name'], file, str(score)))
                 except Exception as e:
-                    print(str(e))
+                    logging.exception(str(e))
                     pass
             r.make_new_rom_set(best_list)
         return

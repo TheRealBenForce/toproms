@@ -1,9 +1,9 @@
 - id: 8197
   name: Tetris
-  popularity: 7.728685958616477
-  rating: 89.5624936505163
-  total_rating: 89.5624936505163
-  total_rating_count: 472
+  popularity: 6.898631697218759
+  rating: 89.56291107681571
+  total_rating: 89.56291107681571
+  total_rating_count: 473
 - id: 4929
   name: Impossible Mission
   popularity: 1.0
@@ -12,28 +12,28 @@
   total_rating_count: 8
 - id: 4614
   name: Galaxian
-  popularity: 1.447653495943425
+  popularity: 1.0
   rating: 87.9498285813319
   total_rating: 88.97491429066595
   total_rating_count: 20
 - id: 20461
   name: Tennis
-  popularity: 1.619909489351017
+  popularity: 1.447279947377397
   rating: 86.2371829272662
   total_rating: 86.2371829272662
   total_rating_count: 11
 - id: 6558
   name: River City Ransom
-  popularity: 2.348021588242862
+  popularity: 1.679893431124019
   rating: 91.1684041322506
   total_rating: 81.0842020661253
   total_rating_count: 12
 - id: 2750
   name: Pac-Man
-  popularity: 4.156025052603083
-  rating: 83.1079288765291
-  total_rating: 80.8872977715979
-  total_rating_count: 85
+  popularity: 3.495574948823321
+  rating: 83.1103600680685
+  total_rating: 80.88851336736761
+  total_rating_count: 86
 - id: 8732
   name: 'Advanced Dungeons & Dragons: Pool of Radiance'
   popularity: 1.0
@@ -54,13 +54,13 @@
   total_rating_count: 18
 - id: 11763
   name: Sokoban
-  popularity: 5.938724695489388
+  popularity: 5.702286006738602
   rating: 75.7410739387782
   total_rating: 75.7410739387782
   total_rating_count: 7
 - id: 2636
   name: Dig Dug
-  popularity: 2.346924916951652
+  popularity: 2.119591906366334
   rating: 79.5207559941383
   total_rating: 74.76037799706916
   total_rating_count: 30
@@ -72,31 +72,31 @@
   total_rating_count: 18
 - id: 4600
   name: Excitebike
-  popularity: 1.0
+  popularity: 1.679893431124019
   rating: 73.9506511262787
   total_rating: 73.9506511262787
   total_rating_count: 46
 - id: 5539
   name: Archon
-  popularity: 1.449078713580444
+  popularity: 1.670919921066095
   rating: 73.6441349708424
   total_rating: 73.6441349708424
   total_rating_count: 9
 - id: 2751
   name: Galaga
-  popularity: 3.246702647071436
+  popularity: 2.81304914966405
   rating: 75.8724211929391
   total_rating: 72.93621059646955
   total_rating_count: 41
 - id: 6075
   name: '1942'
-  popularity: 2.127151804501101
+  popularity: 2.782913903273674
   rating: 65.3445712450686
   total_rating: 72.6722856225343
   total_rating_count: 29
 - id: 1476
   name: Gradius
-  popularity: 1.898681058828574
+  popularity: 1.670919921066095
   rating: 67.9056868564262
   total_rating: 71.2028434282131
   total_rating_count: 17
@@ -108,7 +108,7 @@
   total_rating_count: 6
 - id: 12857
   name: Space Harrier
-  popularity: 1.451305696802551
+  popularity: 1.668592713727628
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6
@@ -133,9 +133,9 @@
 - id: 2735
   name: Balloon Fight
   popularity: 1.0
-  rating: 62.8279517155189
-  total_rating: 65.91397585775945
-  total_rating_count: 29
+  rating: 62.8785209206091
+  total_rating: 65.93926046030455
+  total_rating_count: 30
 - id: 2710
   name: Mappy
   popularity: 1.64789218496891
@@ -144,10 +144,10 @@
   total_rating_count: 9
 - id: 3666
   name: Ice Climber
-  popularity: 1.0
-  rating: 62.06861994144951
-  total_rating: 62.06861994144951
-  total_rating_count: 41
+  popularity: 1.453740899786058
+  rating: 62.0951667214439
+  total_rating: 62.0951667214439
+  total_rating_count: 42
 - id: 9166
   name: Spy vs Spy
   popularity: 1.449227794472634
@@ -156,7 +156,7 @@
   total_rating_count: 12
 - id: 1088
   name: Donkey Kong 3
-  popularity: 1.446643161272219
+  popularity: 1.0
   rating: 58.8942432307443
   total_rating: 58.8942432307443
   total_rating_count: 13
@@ -186,7 +186,7 @@
   total_rating_count: 8
 - id: 6105
   name: Flicky
-  popularity: 1.449340529414287
-  rating: 50.0480332897766
-  total_rating: 50.0480332897766
-  total_rating_count: 5
+  popularity: 1.0
+  rating: 50.0718773094832
+  total_rating: 50.0718773094832
+  total_rating_count: 6

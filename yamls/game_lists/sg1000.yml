@@ -1,9 +1,9 @@
 - id: 3601
   name: Space Invaders
-  popularity: 4.613278279156699
-  rating: 79.05489964076051
-  total_rating: 79.05489964076051
-  total_rating_count: 51
+  popularity: 3.94931584860938
+  rating: 79.0625089935692
+  total_rating: 79.0625089935692
+  total_rating_count: 52
 - id: 4603
   name: Lode Runner
   popularity: 1.0
@@ -12,7 +12,7 @@
   total_rating_count: 18
 - id: 11763
   name: Sokoban
-  popularity: 5.938724695489388
+  popularity: 5.702286006738602
   rating: 75.7410739387782
   total_rating: 75.7410739387782
   total_rating_count: 7
@@ -24,7 +24,7 @@
   total_rating_count: 18
 - id: 2751
   name: Galaga
-  popularity: 3.246702647071436
+  popularity: 2.81304914966405
   rating: 75.8724211929391
   total_rating: 72.93621059646955
   total_rating_count: 41
@@ -42,7 +42,7 @@
   total_rating_count: 6
 - id: 5560
   name: Wonder Boy
-  popularity: 1.447653495943425
+  popularity: 1.668592713727628
   rating: 70.037584519723
   total_rating: 70.037584519723
   total_rating_count: 9
@@ -60,7 +60,7 @@
   total_rating_count: 19
 - id: 6105
   name: Flicky
-  popularity: 1.449340529414287
-  rating: 50.0480332897766
-  total_rating: 50.0480332897766
-  total_rating_count: 5
+  popularity: 1.0
+  rating: 50.0718773094832
+  total_rating: 50.0718773094832
+  total_rating_count: 6

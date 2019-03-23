@@ -1,24 +1,24 @@
 - id: 7936
   name: La-Mulana Remake
-  popularity: 1.450860721800441
+  popularity: 1.0
   rating: 89.399204560532
   total_rating: 89.399204560532
   total_rating_count: 6
 - id: 1722
   name: Mega Man 9
-  popularity: 3.469362347744694
+  popularity: 3.674370854910511
   rating: 89.6662948372823
   total_rating: 88.61886170435545
   total_rating_count: 23
 - id: 1428
   name: 'Phoenix Wright: Ace Attorney: Trials and Tribulations'
-  popularity: 1.895306991886851
-  rating: 90.1223432600054
-  total_rating: 86.81117163000269
-  total_rating_count: 48
+  popularity: 2.134352249465146
+  rating: 90.1222045566893
+  total_rating: 86.81110227834465
+  total_rating_count: 49
 - id: 6189
   name: Cave Story
-  popularity: 3.953529092740374
+  popularity: 3.228642379092093
   rating: 88.5730847093783
   total_rating: 85.78654235468915
   total_rating_count: 40
@@ -30,28 +30,28 @@
   total_rating_count: 27
 - id: 1723
   name: Mega Man 10
-  popularity: 1.673462458475826
+  popularity: 2.114321189546046
   rating: 89.45124588125451
   total_rating: 84.72562294062726
   total_rating_count: 15
 - id: 942
   name: World of Goo
-  popularity: 2.345737191723296
+  popularity: 3.228642379092093
   rating: 80.71434233231139
   total_rating: 83.7321711661557
   total_rating_count: 132
 - id: 1426
   name: 'Phoenix Wright: Ace Attorney'
-  popularity: 5.08950182071744
-  rating: 86.0139068961123
-  total_rating: 83.00695344805615
-  total_rating_count: 100
+  popularity: 6.218020347539672
+  rating: 86.0087994918595
+  total_rating: 83.00439974592976
+  total_rating_count: 101
 - id: 1427
   name: 'Phoenix Wright: Ace Attorney: Justice for All'
-  popularity: 2.123728365295905
-  rating: 80.98150174898599
-  total_rating: 80.49075087449299
-  total_rating_count: 52
+  popularity: 2.361222699358176
+  rating: 80.97549004801562
+  total_rating: 80.48774502400781
+  total_rating_count: 53
 - id: 11300
   name: Contra ReBirth
   popularity: 1.0
@@ -78,7 +78,7 @@
   total_rating_count: 6
 - id: 2324
   name: "Pok\xE9mon Snap"
-  popularity: 2.797362117657149
+  popularity: 3.266311437080062
   rating: 76.8619183935665
   total_rating: 76.8619183935665
   total_rating_count: 81
@@ -108,7 +108,7 @@
   total_rating_count: 5
 - id: 8063
   name: Retro City Rampage
-  popularity: 1.0
+  popularity: 1.668592713727628
   rating: 68.5127243069893
   total_rating: 70.50636215349465
   total_rating_count: 13
@@ -126,7 +126,7 @@
   total_rating_count: 7
 - id: 9473
   name: 'Sonic the Hedgehog 4: Episode I'
-  popularity: 2.352582165401321
+  popularity: 2.81304914966405
   rating: 51.8449612403101
   total_rating: 63.42248062015505
   total_rating_count: 14
@@ -144,7 +144,7 @@
   total_rating_count: 7
 - id: 22739
   name: Uno
-  popularity: 1.451305696802551
+  popularity: 1.668592713727628
   rating: 50.0
   total_rating: 51.25
   total_rating_count: 6

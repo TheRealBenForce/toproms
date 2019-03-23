@@ -1,4 +1,13 @@
 platform_id, directory
 59,./roms/Atari - 2600
+86,./roms/NEC - PC Engine - TurboGrafx 16
+4,./roms/Nintendo - Nintendo 64
 18,./roms/Nintendo - Nintendo Entertainment System
+19,./roms/Nintendo - Super Nintendo Entertainment System
 33,./roms/Nintendo - Game Boy
+24,./roms/Nintendo - Game Boy Advance
+22,./roms/Nintendo - Game Boy Color
+30,./roms/Sega - 32X
+35,./roms/Sega - Game Gear
+64,./roms/Sega - Master System - Mark III
+29,./roms/Sega - Mega Drive - Genesis

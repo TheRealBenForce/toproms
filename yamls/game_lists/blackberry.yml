@@ -1,21 +1,21 @@
 - id: 3251
   name: Super Hexagon
-  popularity: 2.57141240311026
+  popularity: 3.005778141182883
   rating: 81.882595339228
   total_rating: 82.60796433628065
   total_rating_count: 51
 - id: 8758
   name: 'Anomaly: Warzone Earth'
-  popularity: 1.674237019177543
+  popularity: 1.895673525093067
   rating: 79.8878331411394
   total_rating: 82.2439165705697
   total_rating_count: 16
 - id: 5165
   name: Sonic & Sega All-Stars Racing
-  popularity: 1.0
-  rating: 77.5850386001774
-  total_rating: 76.95918596675534
-  total_rating_count: 27
+  popularity: 1.445953881452692
+  rating: 77.5924681814471
+  total_rating: 76.9629007573902
+  total_rating_count: 28
 - id: 4987
   name: Madden NFL 12
   popularity: 1.0
@@ -24,61 +24,61 @@
   total_rating_count: 15
 - id: 7596
   name: Eufloria
-  popularity: 4.613278279156699
+  popularity: 5.460323954119127
   rating: 70.9968874296799
   total_rating: 74.33177704817331
   total_rating_count: 13
 - id: 3803
   name: The Bard's Tale
-  popularity: 2.122437430793043
+  popularity: 2.586418005956044
   rating: 70.1125258965781
   total_rating: 73.30626294828906
   total_rating_count: 20
 - id: 826
   name: Saints Row 2
-  popularity: 2.579569938808929
+  popularity: 2.81304914966405
   rating: 64.4902789546057
   total_rating: 72.8284728106362
   total_rating_count: 115
 - id: 8978
   name: Jetpack Joyride
-  popularity: 3.032469032025643
+  popularity: 3.041834049037263
   rating: 76.4636314751183
   total_rating: 71.73181573755915
   total_rating_count: 28
 - id: 4674
   name: Angry Birds Star Wars
-  popularity: 1.451659784894587
+  popularity: 1.906524574832025
   rating: 79.5952311638872
   total_rating: 71.6726155819436
   total_rating_count: 28
 - id: 8901
   name: Badland
-  popularity: 1.446643161272219
+  popularity: 1.668592713727628
   rating: 73.3441090664394
   total_rating: 71.6720545332197
   total_rating_count: 17
 - id: 23306
   name: 'Asphalt 8: Airborne'
-  popularity: 4.816287264696346
+  popularity: 5.460323954119127
   rating: 70.4260786748315
   total_rating: 70.4260786748315
   total_rating_count: 26
 - id: 19902
   name: Bad Piggies
-  popularity: 8.951809095839469
+  popularity: 7.913502128884646
   rating: 60.2533733742358
   total_rating: 67.6266866871179
   total_rating_count: 7
 - id: 1376
   name: The Amazing Spider-Man
-  popularity: 2.354979354683762
+  popularity: 2.118199868443492
   rating: 66.5931532635616
   total_rating: 65.9465766317808
   total_rating_count: 43
 - id: 9473
   name: 'Sonic the Hedgehog 4: Episode I'
-  popularity: 2.352582165401321
+  popularity: 2.81304914966405
   rating: 51.8449612403101
   total_rating: 63.42248062015505
   total_rating_count: 14
@@ -96,13 +96,13 @@
   total_rating_count: 7
 - id: 4936
   name: Iron Man 2
-  popularity: 2.346924916951652
+  popularity: 2.114321189546046
   rating: 70.0
   total_rating: 55.55
   total_rating_count: 14
 - id: 13151
   name: The Sims FreePlay
-  popularity: 3.022711057532629
+  popularity: 3.236399736886983
   rating: 36.5269891560563
   total_rating: 36.5269891560563
   total_rating_count: 10

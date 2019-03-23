@@ -1,12 +1,12 @@
 - id: 500
   name: 'Batman: Arkham Asylum'
-  popularity: 13.11163472550966
-  rating: 87.5657973499714
-  total_rating: 88.4828986749857
-  total_rating_count: 992
+  popularity: 13.48670868067537
+  rating: 87.5646178700633
+  total_rating: 88.48230893503165
+  total_rating_count: 995
 - id: 13171
   name: Read Only Memories
-  popularity: 5.742427741393167
+  popularity: 5.472799473773966
   rating: 93.4034151751711
   total_rating: 87.98742187329985
   total_rating_count: 21
@@ -18,34 +18,34 @@
   total_rating_count: 39
 - id: 9806
   name: Hyper Light Drifter
-  popularity: 23.89772358817807
+  popularity: 24.18960183553997
   rating: 83.0567340880115
   total_rating: 85.9829124985512
   total_rating_count: 87
 - id: 11247
   name: Duck Game
-  popularity: 6.871577203629635
+  popularity: 6.150122769285136
   rating: 86.7772834654609
   total_rating: 85.55530839939709
   total_rating_count: 25
 - id: 10832
   name: Sine Mora
-  popularity: 1.677489677341881
+  popularity: 1.0
   rating: 84.49093912770729
   total_rating: 84.74546956385365
   total_rating_count: 15
 - id: 1002
   name: 'Oddworld: Stranger''s Wrath'
-  popularity: 1.67467180662638
+  popularity: 2.782913903273674
   rating: 84.43295980398871
   total_rating: 82.71647990199435
   total_rating_count: 21
 - id: 3097
   name: 'The Walking Dead: Season Two'
-  popularity: 5.265262237013562
-  rating: 81.1622957919573
-  total_rating: 81.1505923404231
-  total_rating_count: 381
+  popularity: 7.466331281064032
+  rating: 81.1619289942708
+  total_rating: 81.15040894157985
+  total_rating_count: 382
 - id: 9023
   name: Skulls of the Shogun
   popularity: 1.0
@@ -54,25 +54,25 @@
   total_rating_count: 13
 - id: 1990
   name: VVVVVV
-  popularity: 4.839108171603992
+  popularity: 5.013584933074227
   rating: 80.1028412923239
   total_rating: 79.92642064616194
   total_rating_count: 76
 - id: 3087
   name: Broken Age
-  popularity: 3.471372911778579
+  popularity: 3.898700229442497
   rating: 76.7231431569678
   total_rating: 76.63080234771465
   total_rating_count: 90
 - id: 9478
   name: So Many Me
-  popularity: 4.142824806220521
+  popularity: 3.897235092819721
   rating: 70.0
   total_rating: 75.5
   total_rating_count: 5
 - id: 15925
   name: That Dragon, Cancer
-  popularity: 4.156025052603083
+  popularity: 3.451506617001302
   rating: 70.6458251644186
   total_rating: 74.0729125822093
   total_rating_count: 22
@@ -96,7 +96,7 @@
   total_rating_count: 8
 - id: 15545
   name: Vector
-  popularity: 1.0
+  popularity: 1.453740899786058
   rating: 60.7102771923815
   total_rating: 65.35513859619076
   total_rating_count: 6
@@ -114,7 +114,7 @@
   total_rating_count: 45
 - id: 8138
   name: Neverending Nightmares
-  popularity: 1.903319569789175
+  popularity: 2.119591906366334
   rating: 54.48275862068969
   total_rating: 60.74137931034485
   total_rating_count: 9

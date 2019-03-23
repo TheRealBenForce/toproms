@@ -6,37 +6,37 @@
   total_rating_count: 5
 - id: 5519
   name: Cannon Fodder
-  popularity: 2.121447659769413
+  popularity: 2.565479815820888
   rating: 84.7524486141904
   total_rating: 84.7524486141904
   total_rating_count: 21
 - id: 673
   name: Doom
-  popularity: 5.49781204417587
+  popularity: 7.020377399611339
   rating: 85.988728983394
   total_rating: 82.994364491697
   total_rating_count: 479
 - id: 6841
   name: Raiden
-  popularity: 1.669806829625561
+  popularity: 1.895673525093067
   rating: 79.76554911041559
   total_rating: 79.76554911041559
   total_rating_count: 9
 - id: 1963
   name: Rayman
-  popularity: 4.142824806220521
+  popularity: 3.719573724496075
   rating: 81.16872160921449
   total_rating: 79.4176941379406
   total_rating_count: 79
 - id: 9331
   name: Worms
-  popularity: 2.786151545668162
+  popularity: 2.3435102876396
   rating: 77.4539125815929
   total_rating: 78.72695629079645
   total_rating_count: 61
 - id: 49
   name: Syndicate
-  popularity: 4.161618494262111
+  popularity: 3.719573724496075
   rating: 82.0114508550278
   total_rating: 75.38072542751391
   total_rating_count: 22
@@ -54,7 +54,7 @@
   total_rating_count: 34
 - id: 284
   name: Wolfenstein 3D
-  popularity: 3.020387375427477
+  popularity: 3.041834049037263
   rating: 79.5760345962575
   total_rating: 67.78801729812875
   total_rating_count: 130
@@ -72,13 +72,13 @@
   total_rating_count: 8
 - id: 4275
   name: Flashback
-  popularity: 3.696043176485723
+  popularity: 4.121677170168843
   rating: 79.9296994811576
   total_rating: 57.4648497405788
   total_rating_count: 34
 - id: 4248
   name: Dragon's Lair
-  popularity: 1.669964741908329
+  popularity: 1.895673525093067
   rating: 61.9338062115426
   total_rating: 55.9669031057713
   total_rating_count: 16

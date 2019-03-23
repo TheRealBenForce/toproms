@@ -1,12 +1,12 @@
 - id: 18124
   name: Akinator
-  popularity: 8.452386450760692
+  popularity: 8.486724846469965
   rating: 84.1097489784005
   total_rating: 84.1097489784005
   total_rating_count: 5
 - id: 9604
   name: TagPro
-  popularity: 1.460948126965247
+  popularity: 1.453740899786058
   rating: 83.5591096648521
   total_rating: 83.5591096648521
   total_rating_count: 177
@@ -18,13 +18,13 @@
   total_rating_count: 11
 - id: 5611
   name: RuneScape
-  popularity: 2.795899889268869
+  popularity: 2.588093149251204
   rating: 80.33939846786551
   total_rating: 80.33939846786551
   total_rating_count: 43
 - id: 8814
   name: QWOP
-  popularity: 1.0
+  popularity: 1.453740899786058
   rating: 79.7837975694902
   total_rating: 79.7837975694902
   total_rating_count: 5
@@ -36,37 +36,37 @@
   total_rating_count: 5
 - id: 25239
   name: Slayaway Camp
-  popularity: 3.471372911778579
+  popularity: 4.568259163295302
   rating: 80.0
   total_rating: 78.75
   total_rating_count: 5
 - id: 3160
   name: From Dust
-  popularity: 1.897949944634434
+  popularity: 2.134352249465146
   rating: 76.74317584400549
   total_rating: 78.37158792200275
   total_rating_count: 35
 - id: 28454
   name: Spaceplan
-  popularity: 4.591799778537737
+  popularity: 4.403056748395437
   rating: 78.0255418215311
   total_rating: 78.0255418215311
   total_rating_count: 5
 - id: 15731
   name: Samorost
-  popularity: 1.673618070370666
+  popularity: 1.0
   rating: 76.3509689365215
   total_rating: 76.3509689365215
   total_rating_count: 21
 - id: 16845
   name: Turbo Dismount
-  popularity: 2.122437430793043
+  popularity: 2.134352249465146
   rating: 76.3265306122449
   total_rating: 76.3265306122449
   total_rating_count: 5
 - id: 1353
   name: flOw
-  popularity: 3.032469032025643
+  popularity: 3.495574948823321
   rating: 73.5185130698849
   total_rating: 74.25925653494245
   total_rating_count: 42
@@ -84,97 +84,97 @@
   total_rating_count: 6
 - id: 24423
   name: "Pok\xE9mon Trading Card Game Online"
-  popularity: 1.902611393605102
+  popularity: 1.907481799572117
   rating: 72.4207593049229
   total_rating: 72.4207593049229
   total_rating_count: 24
 - id: 8978
   name: Jetpack Joyride
-  popularity: 3.032469032025643
+  popularity: 3.041834049037263
   rating: 76.4636314751183
   total_rating: 71.73181573755915
   total_rating_count: 28
 - id: 8262
   name: Lethal League
-  popularity: 2.797362117657149
+  popularity: 3.041834049037263
   rating: 79.2288118255091
   total_rating: 70.86440591275455
   total_rating_count: 17
 - id: 18119
   name: Superhot Prototype
-  popularity: 1.898681058828574
+  popularity: 2.134352249465146
   rating: 70.6160448727423
   total_rating: 70.6160448727423
   total_rating_count: 6
 - id: 10038
   name: Superfighters
-  popularity: 1.893075772834081
+  popularity: 1.0
   rating: 70.0891361853447
   total_rating: 70.0891361853447
   total_rating_count: 5
 - id: 11283
   name: Agar.io
-  popularity: 6.836674640123823
+  popularity: 6.67176124732573
   rating: 69.9828957764859
   total_rating: 69.9828957764859
   total_rating_count: 17
 - id: 28227
   name: Happy Wheels
-  popularity: 1.446643161272219
+  popularity: 1.680611349679088
   rating: 69.3800415298605
   total_rating: 69.3800415298605
   total_rating_count: 5
 - id: 284
   name: Wolfenstein 3D
-  popularity: 3.020387375427477
+  popularity: 3.041834049037263
   rating: 79.5760345962575
   total_rating: 67.78801729812875
   total_rating_count: 130
 - id: 7543
   name: Gods Will Be Watching
-  popularity: 3.709958709367524
+  popularity: 4.856797648181496
   rating: 71.31100622193111
   total_rating: 67.65550311096555
   total_rating_count: 18
 - id: 3241
   name: Cookie Clicker
-  popularity: 3.499140001549547
+  popularity: 3.041834049037263
   rating: 66.9404399732235
   total_rating: 66.9404399732235
   total_rating_count: 16
 - id: 9591
   name: AdVenture Capitalist
-  popularity: 1.449491346118362
+  popularity: 1.453740899786058
   rating: 62.459850227079
   total_rating: 66.2299251135395
   total_rating_count: 35
 - id: 18689
   name: Yume Nikki
-  popularity: 2.579569938808929
+  popularity: 3.495574948823321
   rating: 65.97016127655931
   total_rating: 65.97016127655931
   total_rating_count: 13
 - id: 15545
   name: Vector
-  popularity: 1.0
+  popularity: 1.453740899786058
   rating: 60.7102771923815
   total_rating: 65.35513859619076
   total_rating_count: 6
 - id: 19273
   name: Angry Birds 2
-  popularity: 1.449491346118362
+  popularity: 1.453740899786058
   rating: 63.4967997947014
   total_rating: 64.2483998973507
   total_rating_count: 12
 - id: 15563
   name: Clicker Heroes
-  popularity: 1.449340529414287
+  popularity: 1.453740899786058
   rating: 63.658339009062
   total_rating: 63.658339009062
   total_rating_count: 19
 - id: 15748
   name: The Sims Social
-  popularity: 1.0
+  popularity: 1.453740899786058
   rating: 59.214648046725
   total_rating: 59.214648046725
   total_rating_count: 6
@@ -186,19 +186,19 @@
   total_rating_count: 13
 - id: 27522
   name: Habbo
-  popularity: 2.124453011043967
+  popularity: 3.041834049037263
   rating: 57.3101952277657
   total_rating: 57.3101952277657
   total_rating_count: 6
 - id: 3839
   name: Contrast
-  popularity: 2.795899889268869
+  popularity: 3.041834049037263
   rating: 51.0272892036172
   total_rating: 53.84697793514195
   total_rating_count: 48
 - id: 10238
   name: Depression Quest
-  popularity: 1.670323256830134
+  popularity: 1.680611349679088
   rating: 15.0079178521528
   total_rating: 32.5039589260764
   total_rating_count: 7
