@@ -2,12 +2,9 @@ import sys
 import yaml
 import platforms
 import games
-import argparse
 import processor
-#import roms
 import os
 import logging.config
-import yaml
 from console_args import CONSOLE_ARGS
 
 

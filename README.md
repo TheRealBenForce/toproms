@@ -8,7 +8,8 @@ because I get to experiment with fuzzy searching.
 
 ## How to use
 1. Download and unzip repository
-2. Install pip install dependencies fuzzywuzzy, requests and pyyaml.
+2. Install python modules
+    * pip install pyyaml requests fuzzywuzzy
     * Optionally python-Levenshtein to make things go a lot quicker. You will also need [Microsoft Visual C++ Compiler for Python 2.7](http://aka.ms/vcpython27).
 3. Edit config.csv to point to your rom folders. If you have an unreferenced platform, you can look it up in yamls\platform_list.yml
 4. run 'python \_\_main__.py'. The program will take a best guess to make a subset of your highest rated roms and copy to toproms folder.
