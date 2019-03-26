@@ -12,10 +12,10 @@
   total_rating_count: 25
 - id: 7452
   name: Ms. Pac-Man
-  popularity: 2.560049665364465
-  rating: 83.224952221169
-  total_rating: 83.61247611058451
-  total_rating_count: 28
+  popularity: 2.588093149251204
+  rating: 83.22261202087279
+  total_rating: 83.6113060104364
+  total_rating_count: 29
 - id: 1087
   name: Donkey Kong Jr.
   popularity: 1.449340529414287
@@ -28,36 +28,38 @@
   rating: 73.7949607912886
   total_rating: 76.8974803956443
   total_rating_count: 23
-- id: 3105
+- franchise: 24
+  id: 3105
   name: Mario Bros.
-  popularity: 4.12009933072893
+  popularity: 4.611873431666565
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
 - id: 2636
   name: Dig Dug
-  popularity: 2.119591906366334
-  rating: 79.5207559941383
-  total_rating: 74.76037799706916
-  total_rating_count: 30
+  popularity: 2.134352249465146
+  rating: 79.5072580477574
+  total_rating: 74.7536290238787
+  total_rating_count: 31
 - id: 3055
   name: Rampage
   popularity: 2.3435102876396
   rating: 74.5067325526472
   total_rating: 74.5067325526472
   total_rating_count: 13
-- id: 1086
+- franchise: 845
+  id: 1086
   name: Donkey Kong
-  popularity: 3.266311437080062
+  popularity: 3.483162984270763
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
 - id: 2751
   name: Galaga
-  popularity: 2.81304914966405
-  rating: 75.8724211929391
-  total_rating: 72.93621059646955
-  total_rating_count: 41
+  popularity: 3.031678805312443
+  rating: 75.8693674808759
+  total_rating: 72.93468374043795
+  total_rating_count: 42
 - id: 3592
   name: 'Robotron: 2084'
   popularity: 1.0
@@ -72,7 +74,7 @@
   total_rating_count: 7
 - id: 2235
   name: Centipede
-  popularity: 1.445728475818419
+  popularity: 1.906820223198356
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
@@ -90,7 +92,7 @@
   total_rating_count: 6
 - id: 4602
   name: Karateka
-  popularity: 1.0
+  popularity: 1.451484178958321
   rating: 61.9454307208126
   total_rating: 65.9727153604063
   total_rating_count: 7
@@ -114,7 +116,7 @@
   total_rating_count: 8
 - id: 6787
   name: Double Dragon
-  popularity: 3.039680293372056
+  popularity: 2.805936715833282
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61

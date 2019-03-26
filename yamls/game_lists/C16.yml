@@ -51,19 +51,22 @@
   rating: 68.1657789462484
   total_rating: 60.0828894731242
   total_rating_count: 8
-- id: 9166
+- franchise: 391
+  id: 9166
   name: Spy vs Spy
   popularity: 1.449227794472634
   rating: 58.9771513671005
   total_rating: 59.48857568355025
   total_rating_count: 12
-- id: 1945
+- franchise: 455
+  id: 1945
   name: Zork II
   popularity: 1.0
   rating: 44.8284001434797
   total_rating: 44.8284001434797
   total_rating_count: 6
-- id: 1944
+- franchise: 455
+  id: 1944
   name: Zork I
   popularity: 1.447836762546534
   rating: 44.0651731437908

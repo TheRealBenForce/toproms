@@ -1,0 +1,52 @@
+- - id: 24
+    name: Mario Bros.
+  - id: 60
+    name: "Pok\xE9mon"
+  - id: 38
+    name: Mega Man
+  - id: 737
+    name: Etrian Odyssey
+  - id: 792
+    name: Street Fighter
+  - id: 538
+    name: Shin Megami Tensei
+  - id: 1163
+    name: Ace Attorney
+  - id: 769
+    name: Fire Emblem
+  - id: 824
+    name: Monster Hunter
+  - id: 895
+    name: Castlevania
+- - id: 56
+    name: Dragon Ball
+  - id: 49
+    name: The Avengers
+  - id: 789
+    name: Kirby
+  - id: 545
+    name: VOCALOID
+  - id: 772
+    name: Smash Brothers
+  - id: 814
+    name: Sonic
+  - id: 596
+    name: The Legend of Zelda
+  - id: 592
+    name: Megami Tensei
+  - id: 463
+    name: Metal Gear
+  - id: 1018
+    name: Gunvolt
+- - id: 495
+    name: Prince of Persia
+  - id: 79
+    name: tetris
+  - id: 633
+    name: Ghosts 'n Goblins
+  - id: 763
+    name: Donkey Kong
+  - id: 756
+    name: Metroid
+  - id: 870
+    name: Pokemon

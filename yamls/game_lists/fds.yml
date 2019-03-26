@@ -1,6 +1,7 @@
-- id: 1715
+- franchise: 38
+  id: 1715
   name: Mega Man 2
-  popularity: 7.125502147111789
+  popularity: 8.703281649302141
   rating: 89.0543731034422
   total_rating: 89.0543731034422
   total_rating_count: 150
@@ -16,31 +17,35 @@
   rating: 86.2371829272662
   total_rating: 86.2371829272662
   total_rating_count: 11
-- id: 358
+- franchise: 24
+  id: 358
   name: Super Mario Bros.
-  popularity: 14.15848609379569
-  rating: 84.7011863022572
-  total_rating: 84.7011863022572
-  total_rating_count: 529
+  popularity: 15.50029486927462
+  rating: 84.70097986138329
+  total_rating: 84.70097986138329
+  total_rating_count: 530
 - id: 1022
   name: The Legend of Zelda
-  popularity: 13.93266256212806
-  rating: 84.6650608213379
-  total_rating: 84.6650608213379
-  total_rating_count: 316
-- id: 1114
+  popularity: 14.82059354727737
+  rating: 84.66352977589709
+  total_rating: 84.66352977589709
+  total_rating_count: 317
+- franchise: 895
+  id: 1114
   name: Castlevania
-  popularity: 5.537408997860584
+  popularity: 6.890744790642815
   rating: 83.2455938758501
   total_rating: 83.2455938758501
   total_rating_count: 101
-- id: 7558
+- franchise: 447
+  id: 7558
   name: Ninja Gaiden
-  popularity: 4.568259163295302
-  rating: 82.9090410442543
-  total_rating: 82.9090410442543
-  total_rating_count: 34
-- id: 1716
+  popularity: 4.625073717318656
+  rating: 82.90804518404829
+  total_rating: 82.90804518404829
+  total_rating_count: 35
+- franchise: 38
+  id: 1716
   name: Mega Man 3
   popularity: 2.119591906366334
   rating: 81.5949102081203
@@ -48,7 +53,7 @@
   total_rating_count: 62
 - id: 6558
   name: River City Ransom
-  popularity: 1.679893431124019
+  popularity: 1.902968357916641
   rating: 91.1684041322506
   total_rating: 81.0842020661253
   total_rating_count: 12
@@ -70,9 +75,10 @@
   rating: 79.5661289271424
   total_rating: 79.5661289271424
   total_rating_count: 11
-- id: 1714
+- franchise: 38
+  id: 1714
   name: Mega Man
-  popularity: 3.722445398716351
+  popularity: 3.947165725394658
   rating: 79.3859092940213
   total_rating: 79.3859092940213
   total_rating_count: 89
@@ -84,7 +90,7 @@
   total_rating_count: 24
 - id: 2630
   name: Bubble Bobble
-  popularity: 2.797362117657149
+  popularity: 2.805936715833282
   rating: 73.304044794921
   total_rating: 76.6520223974605
   total_rating_count: 40
@@ -96,43 +102,48 @@
   total_rating_count: 10
 - id: 2636
   name: Dig Dug
-  popularity: 2.119591906366334
-  rating: 79.5207559941383
-  total_rating: 74.76037799706916
-  total_rating_count: 30
+  popularity: 2.134352249465146
+  rating: 79.5072580477574
+  total_rating: 74.7536290238787
+  total_rating_count: 31
 - id: 1025
   name: 'Zelda II: The Adventure of Link'
-  popularity: 3.687020575279201
-  rating: 73.6651811707831
-  total_rating: 73.6651811707831
-  total_rating_count: 98
-- id: 1086
+  popularity: 4.160389252708244
+  rating: 73.6594648723418
+  total_rating: 73.6594648723418
+  total_rating_count: 99
+- franchise: 845
+  id: 1086
   name: Donkey Kong
-  popularity: 3.266311437080062
+  popularity: 3.483162984270763
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
-- id: 1066
+- franchise: 24
+  id: 1066
   name: 'Super Mario Bros.: The Lost Levels'
   popularity: 1.891456951636837
   rating: 72.2489356300566
   total_rating: 72.2489356300566
   total_rating_count: 38
-- id: 3051
+- franchise: 92
+  id: 3051
   name: The Bugs Bunny Crazy Castle
   popularity: 1.0
   rating: 70.06726527338161
   total_rating: 70.06726527338161
   total_rating_count: 6
-- id: 41420
+- franchise: 860
+  id: 41420
   name: Wrecking Crew
   popularity: 1.0
   rating: 69.7181936426355
   total_rating: 69.7181936426355
   total_rating_count: 7
-- id: 1116
+- franchise: 895
+  id: 1116
   name: 'Castlevania II: Simon''s Quest'
-  popularity: 3.687020575279201
+  popularity: 4.39850660998624
   rating: 68.5401224237404
   total_rating: 68.5401224237404
   total_rating_count: 35
@@ -144,19 +155,19 @@
   total_rating_count: 6
 - id: 4598
   name: Contra
-  popularity: 9.027169866148453
+  popularity: 8.703281649302141
   rating: 85.43287506412429
   total_rating: 67.71643753206214
   total_rating_count: 111
 - id: 1101
   name: Metroid
-  popularity: 3.451506617001302
-  rating: 73.28730778724679
-  total_rating: 66.6436538936234
-  total_rating_count: 72
+  popularity: 3.708905073749924
+  rating: 73.2809756121337
+  total_rating: 66.64048780606686
+  total_rating_count: 73
 - id: 4622
   name: Super Contra
-  popularity: 1.897949944634434
+  popularity: 2.128710447395802
   rating: 74.04864100456359
   total_rating: 66.19098716894845
   total_rating_count: 42

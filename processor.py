@@ -65,6 +65,17 @@ class Processor():
         return string.strip()
 
 
+    #def remove_common_words(self, string):
+    #    """ Removes most commond words from a string"""
+    #    common = [
+    #        "the", "be", "to", "of", "and", 
+    #        "a", "in", "that", "have", "I", 
+    #        "it", "for", "not", "on", "with", 
+    #        "he", "as", "you", "do", "at"
+    #        ]
+    #    return string
+
+
     def convert_to_romans(self, string):
         ''' 
         Normalizes numbers by converting all to roman numerals.

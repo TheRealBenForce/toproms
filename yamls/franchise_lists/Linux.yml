@@ -1,0 +1,36 @@
+- - id: 11
+    name: The Lord of the Rings
+  - id: 43
+    name: Dungeons & Dragons
+  - id: 10
+    name: Sid Meier
+  - id: 279
+    name: Tomb Raider
+  - id: 34
+    name: Robin Hood
+  - id: 1
+    name: Star Wars
+  - id: 127
+    name: Shadowrun
+  - id: 425
+    name: Half-Life
+  - id: 452
+    name: The Witcher
+  - id: 977
+    name: Total War
+- - id: 950
+    name: Minecraft
+  - id: 817
+    name: Battle Chasers
+  - id: 1241
+    name: The Banner Saga
+  - id: 366
+    name: Defense of the Ancients
+  - id: 23
+    name: Alien
+  - id: 458
+    name: Might and Magic
+  - id: 1017
+    name: Sim
+  - id: 1064
+    name: X-COM

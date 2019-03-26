@@ -6,10 +6,10 @@
   total_rating_count: 20
 - id: 7452
   name: Ms. Pac-Man
-  popularity: 2.560049665364465
-  rating: 83.224952221169
-  total_rating: 83.61247611058451
-  total_rating_count: 28
+  popularity: 2.588093149251204
+  rating: 83.22261202087279
+  total_rating: 83.6113060104364
+  total_rating_count: 29
 - id: 5693
   name: River Raid
   popularity: 1.449491346118362
@@ -18,19 +18,20 @@
   total_rating_count: 9
 - id: 2750
   name: Pac-Man
-  popularity: 3.495574948823321
+  popularity: 4.160389252708244
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
 - id: 5411
   name: Pitfall!
-  popularity: 2.567428668912867
+  popularity: 2.354452536874962
   rating: 79.2959713591713
   total_rating: 79.2959713591713
   total_rating_count: 29
-- id: 3601
+- franchise: 791
+  id: 3601
   name: Space Invaders
-  popularity: 3.94931584860938
+  popularity: 4.625073717318656
   rating: 79.0625089935692
   total_rating: 79.0625089935692
   total_rating_count: 52
@@ -40,21 +41,22 @@
   rating: 77.8438883798457
   total_rating: 77.8438883798457
   total_rating_count: 5
-- id: 3105
+- franchise: 24
+  id: 3105
   name: Mario Bros.
-  popularity: 4.12009933072893
+  popularity: 4.611873431666565
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
 - id: 2636
   name: Dig Dug
-  popularity: 2.119591906366334
-  rating: 79.5207559941383
-  total_rating: 74.76037799706916
-  total_rating_count: 30
+  popularity: 2.134352249465146
+  rating: 79.5072580477574
+  total_rating: 74.7536290238787
+  total_rating_count: 31
 - id: 18288
   name: Frogger
-  popularity: 1.6717551438198
+  popularity: 1.453410111599178
   rating: 78.8745718207034
   total_rating: 74.4372859103517
   total_rating_count: 13
@@ -66,7 +68,7 @@
   total_rating_count: 13
 - id: 12313
   name: Missile Command
-  popularity: 2.567428668912867
+  popularity: 2.805936715833282
   rating: 70.395690417433
   total_rating: 73.53117854204984
   total_rating_count: 17
@@ -84,7 +86,7 @@
   total_rating_count: 6
 - id: 2235
   name: Centipede
-  popularity: 1.445728475818419
+  popularity: 1.906820223198356
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
@@ -102,7 +104,7 @@
   total_rating_count: 6
 - id: 5691
   name: Pole Position
-  popularity: 2.020680039401304
+  popularity: 1.902968357916641
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15
@@ -118,7 +120,8 @@
   rating: 62.6825759309679
   total_rating: 62.6825759309679
   total_rating_count: 24
-- id: 4619
+- franchise: 266
+  id: 4619
   name: Popeye
   popularity: 1.0
   rating: 59.9418362032479

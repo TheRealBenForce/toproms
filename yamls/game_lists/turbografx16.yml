@@ -10,9 +10,10 @@
   rating: 87.43456491320231
   total_rating: 87.43456491320231
   total_rating_count: 7
-- id: 1139
+- franchise: 895
+  id: 1139
   name: 'Castlevania: Rondo of Blood'
-  popularity: 3.268704498930292
+  popularity: 4.163234438627109
   rating: 86.1385964421867
   total_rating: 86.1385964421867
   total_rating_count: 27
@@ -22,15 +23,16 @@
   rating: 83.62284450156571
   total_rating: 83.62284450156571
   total_rating_count: 30
-- id: 7558
+- franchise: 447
+  id: 7558
   name: Ninja Gaiden
-  popularity: 4.568259163295302
-  rating: 82.9090410442543
-  total_rating: 82.9090410442543
-  total_rating_count: 34
+  popularity: 4.625073717318656
+  rating: 82.90804518404829
+  total_rating: 82.90804518404829
+  total_rating_count: 35
 - id: 1477
   name: Salamander
-  popularity: 3.005778141182883
+  popularity: 3.257420894791603
   rating: 93.5322423159918
   total_rating: 82.7661211579959
   total_rating_count: 7
@@ -42,19 +44,26 @@
   total_rating_count: 9
 - id: 5451
   name: Snatcher
-  popularity: 1.906524574832025
+  popularity: 1.680115167398767
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
+- id: 6684
+  name: Fantasy Zone
+  popularity: 1.906820223198356
+  rating: 81.32672175011339
+  total_rating: 81.32672175011339
+  total_rating_count: 5
 - id: 18277
   name: 'Wonder Boy III: The Dragon''s Trap'
   popularity: 1.673462458475826
   rating: 80.7191334434919
   total_rating: 80.7191334434919
   total_rating_count: 5
-- id: 39496
+- franchise: 792
+  id: 39496
   name: 'Street Fighter II: Champion Edition'
-  popularity: 1.0
+  popularity: 1.453410111599178
   rating: 80.4876854745546
   total_rating: 80.4876854745546
   total_rating_count: 5
@@ -96,7 +105,7 @@
   total_rating_count: 18
 - id: 248
   name: Populous
-  popularity: 2.3435102876396
+  popularity: 2.580194626354122
   rating: 77.0266918949967
   total_rating: 77.0266918949967
   total_rating_count: 13
@@ -124,12 +133,13 @@
   rating: 67.9056868564262
   total_rating: 71.2028434282131
   total_rating_count: 17
-- id: 6930
+- franchise: 792
+  id: 6930
   name: Street Fighter
-  popularity: 2.134352249465146
-  rating: 70.2634591166028
-  total_rating: 70.2634591166028
-  total_rating_count: 27
+  popularity: 2.355671902268761
+  rating: 70.2531525406327
+  total_rating: 70.2531525406327
+  total_rating_count: 28
 - id: 12190
   name: Operation Wolf
   popularity: 1.0

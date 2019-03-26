@@ -1,0 +1,64 @@
+- - id: 16
+    name: NBA
+  - id: 5
+    name: Batman
+  - id: 792
+    name: Street Fighter
+  - id: 222
+    name: NCAA
+  - id: 726
+    name: Call of Duty
+  - id: 137
+    name: Halo
+  - id: 1043
+    name: Forza
+  - id: 571
+    name: Assassin's Creed
+  - id: 492
+    name: The "Souls" series
+  - id: 463
+    name: Metal Gear
+- - id: 28
+    name: South Park
+  - id: 7
+    name: Transformers
+  - id: 29
+    name: Resident Evil
+  - id: 279
+    name: Tomb Raider
+  - id: 12
+    name: Command & Conquer
+  - id: 220
+    name: NHL
+  - id: 425
+    name: Half-Life
+  - id: 1034
+    name: Fallout
+  - id: 1047
+    name: Dragon Age
+  - id: 1064
+    name: X-COM
+- - id: 11
+    name: The Lord of the Rings
+  - id: 209
+    name: Ice Age
+  - id: 51
+    name: LEGO
+  - id: 950
+    name: Minecraft
+  - id: 727
+    name: Crysis
+  - id: 23
+    name: Alien
+  - id: 49
+    name: The Avengers
+  - id: 224
+    name: NFL
+  - id: 300
+    name: G-Force
+  - id: 452
+    name: The Witcher
+- - id: 884
+    name: Red Dead
+  - id: 493
+    name: Grand theft Auto

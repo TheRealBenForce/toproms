@@ -1,6 +1,7 @@
-- id: 8197
+- franchise: 79
+  id: 8197
   name: Tetris
-  popularity: 6.898631697218759
+  popularity: 6.648632926119838
   rating: 89.56291107681571
   total_rating: 89.56291107681571
   total_rating_count: 473
@@ -18,13 +19,13 @@
   total_rating_count: 5
 - id: 7452
   name: Ms. Pac-Man
-  popularity: 2.560049665364465
-  rating: 83.224952221169
-  total_rating: 83.61247611058451
-  total_rating_count: 28
+  popularity: 2.588093149251204
+  rating: 83.22261202087279
+  total_rating: 83.6113060104364
+  total_rating_count: 29
 - id: 2750
   name: Pac-Man
-  popularity: 3.495574948823321
+  popularity: 4.160389252708244
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -37,18 +38,18 @@
 - id: 4603
   name: Lode Runner
   popularity: 1.0
-  rating: 75.3978422412887
-  total_rating: 77.69892112064434
-  total_rating_count: 18
+  rating: 75.38244690523099
+  total_rating: 77.6912234526155
+  total_rating_count: 19
 - id: 2636
   name: Dig Dug
-  popularity: 2.119591906366334
-  rating: 79.5207559941383
-  total_rating: 74.76037799706916
-  total_rating_count: 30
+  popularity: 2.134352249465146
+  rating: 79.5072580477574
+  total_rating: 74.7536290238787
+  total_rating_count: 31
 - id: 18288
   name: Frogger
-  popularity: 1.6717551438198
+  popularity: 1.453410111599178
   rating: 78.8745718207034
   total_rating: 74.4372859103517
   total_rating_count: 13
@@ -58,9 +59,10 @@
   rating: 77.1159504230547
   total_rating: 73.55797521152735
   total_rating_count: 13
-- id: 1086
+- franchise: 845
+  id: 1086
   name: Donkey Kong
-  popularity: 3.266311437080062
+  popularity: 3.483162984270763
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -72,7 +74,7 @@
   total_rating_count: 6
 - id: 2235
   name: Centipede
-  popularity: 1.445728475818419
+  popularity: 1.906820223198356
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
@@ -84,7 +86,7 @@
   total_rating_count: 6
 - id: 5691
   name: Pole Position
-  popularity: 2.020680039401304
+  popularity: 1.902968357916641
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15

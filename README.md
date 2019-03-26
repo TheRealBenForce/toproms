@@ -34,8 +34,9 @@ This may need tuning overtime, but this is how it work. Open to suggestions:
 ### long term
 - Support for japanese roms
 - Different dimensions such as rating
-- More than 50 games
+- More than 150 games
 - Best guess at all roms in a series
+- publish to pypi
 
 
 ## personal goals
@@ -50,4 +51,6 @@ This may need tuning overtime, but this is how it work. Open to suggestions:
 - Parameterize score threshold to match a game
 - Move get_console_name to the platforms module 
 - Fix Dragon Quest / Dragon Warrior type problems
-- Convert all roman numerals before matching
+- Remove common words to improve search scoring (ie, Legend of Zelda vs The Legend of Zelda)
+- rework objects
+- Fix writing yaml files if subfolder doesn't exist

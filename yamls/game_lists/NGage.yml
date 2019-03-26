@@ -1,36 +1,40 @@
 - id: 912
   name: Tomb Raider
-  popularity: 5.459538814526918
-  rating: 85.0890323278479
-  total_rating: 84.84451616392394
-  total_rating_count: 145
-- id: 621
+  popularity: 5.304775039315904
+  rating: 85.0886287044105
+  total_rating: 84.84431435220525
+  total_rating_count: 146
+- franchise: 726
+  id: 621
   name: Call of Duty
-  popularity: 9.250146806874799
-  rating: 82.9561658464278
-  total_rating: 84.81141625654725
-  total_rating_count: 297
-- id: 910
+  popularity: 10.9689527226263
+  rating: 82.95568858242748
+  total_rating: 84.8111776245471
+  total_rating_count: 298
+- franchise: 9
+  id: 910
   name: Tom Clancy's Splinter Cell
-  popularity: 6.128469636705956
-  rating: 84.20271929203061
-  total_rating: 84.37913742379311
-  total_rating_count: 154
+  popularity: 6.19674229203025
+  rating: 84.20218397463371
+  total_rating: 84.37886976509466
+  total_rating_count: 155
 - id: 6294
   name: Worms World Party
-  popularity: 2.114321189546046
+  popularity: 1.902968357916641
   rating: 88.3923609980679
   total_rating: 84.19618049903394
   total_rating_count: 57
-- id: 6296
+- franchise: 854
+  id: 6296
   name: Xanadu Next
-  popularity: 2.81304914966405
+  popularity: 3.031678805312443
   rating: 80.0
   total_rating: 81.41666666666666
   total_rating_count: 9
-- id: 911
+- franchise: 9
+  id: 911
   name: 'Tom Clancy''s Splinter Cell: Chaos Theory'
-  popularity: 5.683340151825083
+  popularity: 6.440921339190137
   rating: 84.1164718357658
   total_rating: 80.84395020359719
   total_rating_count: 115
@@ -40,13 +44,15 @@
   rating: 78.3668199738299
   total_rating: 80.18340998691495
   total_rating_count: 22
-- id: 4576
+- franchise: 238
+  id: 4576
   name: 'X-Men Legends II: Rise of Apocalypse'
   popularity: 1.679893431124019
   rating: 78.5497787769808
   total_rating: 78.3748893884904
   total_rating_count: 17
-- id: 4575
+- franchise: 238
+  id: 4575
   name: X-Men Legends
   popularity: 1.0
   rating: 79.5856717017585
@@ -54,7 +60,7 @@
   total_rating_count: 14
 - id: 6692
   name: Tony Hawk's Pro Skater
-  popularity: 2.795899889268869
+  popularity: 2.586935390597123
   rating: 82.8698037204887
   total_rating: 76.43490186024435
   total_rating_count: 66
@@ -66,13 +72,14 @@
   total_rating_count: 21
 - id: 3135
   name: FIFA 08
-  popularity: 2.129149462236468
+  popularity: 2.580194626354122
   rating: 71.87603391712089
   total_rating: 74.2713502918938
   total_rating_count: 50
-- id: 6283
+- franchise: 814
+  id: 6283
   name: Sonic Advance
-  popularity: 2.359786862248037
+  popularity: 2.354452536874962
   rating: 68.4109437708986
   total_rating: 73.7054718854493
   total_rating_count: 33
@@ -84,19 +91,20 @@
   total_rating_count: 20
 - id: 6291
   name: Virtua Tennis
-  popularity: 1.6717551438198
+  popularity: 2.133525278997945
   rating: 96.1738408587759
   total_rating: 73.08692042938796
   total_rating_count: 14
-- id: 6285
+- franchise: 151
+  id: 6285
   name: Spider-Man 2
-  popularity: 3.039680293372056
-  rating: 76.8835791051189
-  total_rating: 72.6084562192261
-  total_rating_count: 94
+  popularity: 3.485398487492728
+  rating: 76.8828173935072
+  total_rating: 72.60807536342026
+  total_rating_count: 95
 - id: 3134
   name: FIFA 09
-  popularity: 1.891456951636837
+  popularity: 2.128710447395802
   rating: 64.5415722882791
   total_rating: 72.02078614413955
   total_rating_count: 46
@@ -108,16 +116,17 @@
   total_rating_count: 16
 - id: 6273
   name: Red Faction
-  popularity: 3.463102194005934
+  popularity: 3.483162984270763
   rating: 72.6605217461849
   total_rating: 71.33026087309244
   total_rating_count: 58
-- id: 1966
+- franchise: 994
+  id: 1966
   name: 'Rayman 3: Hoodlum Havoc'
-  popularity: 3.005778141182883
-  rating: 76.8186167562568
-  total_rating: 70.9093083781284
-  total_rating_count: 48
+  popularity: 3.039103965991744
+  rating: 76.8156217493631
+  total_rating: 70.90781087468156
+  total_rating_count: 49
 - id: 4151
   name: The Sims Bustin' Out
   popularity: 1.0

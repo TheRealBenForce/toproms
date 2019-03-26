@@ -14,17 +14,13 @@ class Games():
         Get's a new game list using IGDB API. 
         Will collect for all platforms if there is no console id.
         """
-        querydict = {
-            "fields" : "id,name,popularity,rating,total_rating,total_rating_count",
-            "limit" : 50,
-            "order" : "total_rating:desc",
-            "offset" : 0,
-            "filter[total_rating_count][gt]":"4",
-            "filter[platforms][in]" : self.platform_id
-        }
+        fields = "fields id,name,popularity,rating,total_rating,total_rating_count,franchise; "
+        sort = "sort total_rating:desc; "
+        where = "where total_rating_count > 4 & platforms = [{}]; ".format(self.platform_id)
+        payload = fields + sort + where
         console_name = self.get_console_name()
         logging.info("Refreshing game list from IGDB for {}".format(console_name))
-        game_list = api_data.ApiData("games", querydict).get_api_data()
+        game_list = api_data.ApiData("games", payload).get_api_data()
         return game_list
         
 
@@ -35,7 +31,6 @@ class Games():
                 y = yaml.load(data)
             for c in y:
                 if str(c['id']) == str(self.platform_id):
-                    logging.info("Identified console as {}".format(c['name']))
                     return c['abbreviation']
         except Exception as e:
             logging.exception(str(e))

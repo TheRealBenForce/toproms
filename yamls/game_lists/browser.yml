@@ -1,21 +1,22 @@
 - id: 18124
   name: Akinator
-  popularity: 8.486724846469965
+  popularity: 8.023580327304895
   rating: 84.1097489784005
   total_rating: 84.1097489784005
   total_rating_count: 5
-- id: 9604
+- franchise: 549
+  id: 9604
   name: TagPro
-  popularity: 1.453740899786058
+  popularity: 1.0
   rating: 83.5591096648521
   total_rating: 83.5591096648521
   total_rating_count: 177
 - id: 8188
   name: Realm of the Mad God
-  popularity: 1.0
-  rating: 79.8433174658821
-  total_rating: 82.42165873294104
-  total_rating_count: 11
+  popularity: 1.451484178958321
+  rating: 79.7602058470976
+  total_rating: 82.3801029235488
+  total_rating_count: 12
 - id: 5611
   name: RuneScape
   popularity: 2.588093149251204
@@ -36,7 +37,7 @@
   total_rating_count: 5
 - id: 25239
   name: Slayaway Camp
-  popularity: 4.568259163295302
+  popularity: 5.53134214664832
   rating: 80.0
   total_rating: 78.75
   total_rating_count: 5
@@ -48,7 +49,7 @@
   total_rating_count: 35
 - id: 28454
   name: Spaceplan
-  popularity: 4.403056748395437
+  popularity: 4.39850660998624
   rating: 78.0255418215311
   total_rating: 78.0255418215311
   total_rating_count: 5
@@ -58,7 +59,8 @@
   rating: 76.3509689365215
   total_rating: 76.3509689365215
   total_rating_count: 21
-- id: 16845
+- franchise: 810
+  id: 16845
   name: Turbo Dismount
   popularity: 2.134352249465146
   rating: 76.3265306122449
@@ -66,11 +68,12 @@
   total_rating_count: 5
 - id: 1353
   name: flOw
-  popularity: 3.495574948823321
+  popularity: 2.813640446396712
   rating: 73.5185130698849
   total_rating: 74.25925653494245
   total_rating_count: 42
-- id: 10531
+- franchise: 486
+  id: 10531
   name: 'Jurassic Park: Builder'
   popularity: 1.0
   rating: 73.8953311751489
@@ -78,13 +81,14 @@
   total_rating_count: 5
 - id: 18753
   name: Words With Friends
-  popularity: 1.0
+  popularity: 1.451484178958321
   rating: 72.47725993979189
   total_rating: 72.47725993979189
   total_rating_count: 6
-- id: 24423
+- franchise: 60
+  id: 24423
   name: "Pok\xE9mon Trading Card Game Online"
-  popularity: 1.907481799572117
+  popularity: 1.677226268437481
   rating: 72.4207593049229
   total_rating: 72.4207593049229
   total_rating_count: 24
@@ -96,9 +100,9 @@
   total_rating_count: 28
 - id: 8262
   name: Lethal League
-  popularity: 3.041834049037263
-  rating: 79.2288118255091
-  total_rating: 70.86440591275455
+  popularity: 3.259453170447935
+  rating: 79.22835885474
+  total_rating: 70.86417942737
   total_rating_count: 17
 - id: 18119
   name: Superhot Prototype
@@ -108,13 +112,13 @@
   total_rating_count: 6
 - id: 10038
   name: Superfighters
-  popularity: 1.0
+  popularity: 1.453410111599178
   rating: 70.0891361853447
   total_rating: 70.0891361853447
   total_rating_count: 5
 - id: 11283
   name: Agar.io
-  popularity: 6.67176124732573
+  popularity: 5.984476361313151
   rating: 69.9828957764859
   total_rating: 69.9828957764859
   total_rating_count: 17
@@ -126,13 +130,13 @@
   total_rating_count: 5
 - id: 284
   name: Wolfenstein 3D
-  popularity: 3.041834049037263
-  rating: 79.5760345962575
-  total_rating: 67.78801729812875
-  total_rating_count: 130
+  popularity: 3.493755613795479
+  rating: 79.5749170331215
+  total_rating: 67.78745851656075
+  total_rating_count: 131
 - id: 7543
   name: Gods Will Be Watching
-  popularity: 4.856797648181496
+  popularity: 4.625073717318656
   rating: 71.31100622193111
   total_rating: 67.65550311096555
   total_rating_count: 18
@@ -168,11 +172,12 @@
   total_rating_count: 12
 - id: 15563
   name: Clicker Heroes
-  popularity: 1.453740899786058
+  popularity: 1.0
   rating: 63.658339009062
   total_rating: 63.658339009062
   total_rating_count: 19
-- id: 15748
+- franchise: 733
+  id: 15748
   name: The Sims Social
   popularity: 1.453740899786058
   rating: 59.214648046725
@@ -186,13 +191,13 @@
   total_rating_count: 13
 - id: 27522
   name: Habbo
-  popularity: 3.041834049037263
+  popularity: 2.813640446396712
   rating: 57.3101952277657
   total_rating: 57.3101952277657
   total_rating_count: 6
 - id: 3839
   name: Contrast
-  popularity: 3.041834049037263
+  popularity: 3.031678805312443
   rating: 51.0272892036172
   total_rating: 53.84697793514195
   total_rating_count: 48

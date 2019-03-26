@@ -4,13 +4,15 @@
   rating: 90.0235871480059
   total_rating: 90.0235871480059
   total_rating_count: 11
-- id: 5404
+- franchise: 35
+  id: 5404
   name: 'Mickey Mania: The Timeless Adventures of Mickey Mouse'
   popularity: 1.448342565995395
   rating: 86.3551574366589
   total_rating: 86.3551574366589
   total_rating_count: 9
-- id: 5346
+- franchise: 5
+  id: 5346
   name: The Adventures of Batman & Robin
   popularity: 2.119591906366334
   rating: 85.4420717397491
@@ -24,17 +26,19 @@
   total_rating_count: 7
 - id: 60
   name: The Secret of Monkey Island
-  popularity: 7.689308221790378
+  popularity: 8.250147434637311
   rating: 87.28757303579829
   total_rating: 83.64378651789914
   total_rating_count: 250
-- id: 2472
+- franchise: 495
+  id: 2472
   name: Prince of Persia
-  popularity: 3.041834049037263
-  rating: 82.2978811833123
-  total_rating: 82.2978811833123
-  total_rating_count: 108
-- id: 5384
+  popularity: 3.257420894791603
+  rating: 82.2966579378346
+  total_rating: 82.2966579378346
+  total_rating_count: 109
+- franchise: 43
+  id: 5384
   name: Eye of the Beholder
   popularity: 1.0
   rating: 81.68936906287851
@@ -42,25 +46,27 @@
   total_rating_count: 15
 - id: 5451
   name: Snatcher
-  popularity: 1.906524574832025
+  popularity: 1.680115167398767
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
-- id: 5357
+- franchise: 151
+  id: 5357
   name: The Amazing Spider-Man vs. The Kingpin
   popularity: 1.0
   rating: 79.8014434504614
   total_rating: 79.8014434504614
   total_rating_count: 6
-- id: 5452
+- franchise: 814
+  id: 5452
   name: Sonic the Hedgehog CD
-  popularity: 1.906524574832025
-  rating: 72.86665784592459
-  total_rating: 79.09999558962895
-  total_rating_count: 50
+  popularity: 2.133525278997945
+  rating: 72.8659773881769
+  total_rating: 79.0996553607551
+  total_rating_count: 51
 - id: 49
   name: Syndicate
-  popularity: 3.719573724496075
+  popularity: 3.493755613795479
   rating: 82.0114508550278
   total_rating: 75.38072542751391
   total_rating_count: 22
@@ -70,7 +76,8 @@
   rating: 75.0475301659112
   total_rating: 75.0475301659112
   total_rating_count: 5
-- id: 8995
+- franchise: 16
+  id: 8995
   name: NBA Jam
   popularity: 3.687020575279201
   rating: 80.9670194974999
@@ -78,37 +85,40 @@
   total_rating_count: 25
 - id: 1618
   name: Mortal Kombat
-  popularity: 3.495574948823321
-  rating: 66.47361630503
-  total_rating: 74.90347481918165
-  total_rating_count: 102
+  popularity: 4.625073717318656
+  rating: 66.4713565743796
+  total_rating: 74.90234495385644
+  total_rating_count: 103
 - id: 283
   name: Theme Park
-  popularity: 2.116344716042601
+  popularity: 2.580194626354122
   rating: 70.3333900644455
   total_rating: 74.66669503222275
   total_rating_count: 34
-- id: 4379
+- franchise: 5
+  id: 4379
   name: Batman Returns
   popularity: 1.6717551438198
   rating: 74.3642857230241
   total_rating: 74.3642857230241
   total_rating_count: 23
-- id: 161
+- franchise: 1
+  id: 161
   name: 'Star Wars: Rebel Assault'
   popularity: 1.0
   rating: 72.6651611862209
   total_rating: 72.6651611862209
   total_rating_count: 9
-- id: 85
+- franchise: 136
+  id: 85
   name: Dune
-  popularity: 1.668592713727628
+  popularity: 1.902968357916641
   rating: 72.1949247928904
   total_rating: 72.1949247928904
   total_rating_count: 23
 - id: 5385
   name: Fatal Fury Special
-  popularity: 1.449491346118362
+  popularity: 1.677226268437481
   rating: 71.0667328996438
   total_rating: 70.5333664498219
   total_rating_count: 6
@@ -126,17 +136,19 @@
   total_rating_count: 8
 - id: 3249
   name: Road Rash
-  popularity: 2.3435102876396
+  popularity: 1.906820223198356
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
-- id: 8083
+- franchise: 76
+  id: 8083
   name: The Smurfs
   popularity: 1.0
   rating: 64.1205032382164
   total_rating: 64.1205032382164
   total_rating_count: 5
-- id: 4372
+- franchise: 248
+  id: 4372
   name: The Terminator
   popularity: 1.671480243915138
   rating: 63.1573067902887
@@ -144,7 +156,7 @@
   total_rating_count: 5
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.668592713727628
+  popularity: 1.902968357916641
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
@@ -162,7 +174,7 @@
   total_rating_count: 7
 - id: 4275
   name: Flashback
-  popularity: 4.121677170168843
+  popularity: 3.934647163229084
   rating: 79.9296994811576
   total_rating: 57.4648497405788
   total_rating_count: 34
@@ -174,7 +186,7 @@
   total_rating_count: 16
 - id: 5378
   name: Ecco the Dolphin
-  popularity: 1.668592713727628
+  popularity: 2.133525278997945
   rating: 72.4791430423083
   total_rating: 51.23957152115415
   total_rating_count: 29

@@ -10,13 +10,8 @@ class Platforms():
         """
         Get's a new platform list using IGDB API
         """
-        querydict = {
-            "fields":"id,abbreviation,name,generation",
-            "limit":50,
-            "order":"name",
-            "offset": 0
-        }
-        platform_list = api_data.ApiData("platforms", querydict).get_api_data()
+        payload = "fields id,abbreviation,name,generation; sort name;"
+        platform_list = api_data.ApiData("platforms", payload).get_api_data()
         # get rid of systems with no appreviation.
         trimmed_list = []
         for d in platform_list:

@@ -1,0 +1,70 @@
+- - id: 24
+    name: Mario Bros.
+  - id: 60
+    name: "Pok\xE9mon"
+  - id: 26
+    name: Disney
+  - id: 2
+    name: Indiana Jones
+  - id: 5
+    name: Batman
+  - id: 38
+    name: Mega Man
+  - id: 4
+    name: Final Fantasy
+  - id: 1
+    name: Star Wars
+  - id: 387
+    name: RoboCop
+  - id: 895
+    name: Castlevania
+- - id: 170
+    name: Animaniacs
+  - id: 16
+    name: NBA
+  - id: 157
+    name: Toy Story
+  - id: 58
+    name: Asterix
+  - id: 416
+    name: The Jungle Book
+  - id: 502
+    name: Felix the Cat
+  - id: 792
+    name: Street Fighter
+  - id: 789
+    name: Kirby
+  - id: 732
+    name: Home Alone
+  - id: 1056
+    name: DC
+- - id: 724
+    name: The Blues Brothers
+  - id: 280
+    name: Captain America
+  - id: 92
+    name: Looney Tunes
+  - id: 76
+    name: The Smurfs
+  - id: 89
+    name: Simpsons
+  - id: 90
+    name: Micro Machines
+  - id: 484
+    name: TaleSpin
+  - id: 874
+    name: Ganbare Goemon
+  - id: 248
+    name: Terminator
+  - id: 750
+    name: Mortal Kombat
+- - id: 495
+    name: Prince of Persia
+  - id: 636
+    name: The King of Fighters
+  - id: 501
+    name: Donald Duck
+  - id: 504
+    name: Darkwing Duck
+  - id: 630
+    name: Earthworm Jim

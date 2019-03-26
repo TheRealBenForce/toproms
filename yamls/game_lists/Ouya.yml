@@ -1,30 +1,31 @@
-- id: 500
+- franchise: 5
+  id: 500
   name: 'Batman: Arkham Asylum'
-  popularity: 13.48670868067537
-  rating: 87.5646178700633
-  total_rating: 88.48230893503165
-  total_rating_count: 995
+  popularity: 13.42699243746364
+  rating: 87.5671254139691
+  total_rating: 88.48356270698454
+  total_rating_count: 998
 - id: 13171
   name: Read Only Memories
-  popularity: 5.472799473773966
+  popularity: 6.664177683310399
   rating: 93.4034151751711
   total_rating: 87.98742187329985
   total_rating_count: 21
 - id: 9567
   name: Towerfall Ascension
-  popularity: 1.897949944634434
+  popularity: 2.133525278997945
   rating: 85.16413148212409
   total_rating: 86.08206574106205
   total_rating_count: 39
 - id: 9806
   name: Hyper Light Drifter
-  popularity: 24.18960183553997
+  popularity: 24.33641205523885
   rating: 83.0567340880115
   total_rating: 85.9829124985512
   total_rating_count: 87
 - id: 11247
   name: Duck Game
-  popularity: 6.150122769285136
+  popularity: 6.437610575977983
   rating: 86.7772834654609
   total_rating: 85.55530839939709
   total_rating_count: 25
@@ -40,12 +41,13 @@
   rating: 84.43295980398871
   total_rating: 82.71647990199435
   total_rating_count: 21
-- id: 3097
+- franchise: 39
+  id: 3097
   name: 'The Walking Dead: Season Two'
-  popularity: 7.466331281064032
-  rating: 81.1619289942708
-  total_rating: 81.15040894157985
-  total_rating_count: 382
+  popularity: 7.797013219972479
+  rating: 81.1615622206898
+  total_rating: 81.15022555478936
+  total_rating_count: 383
 - id: 9023
   name: Skulls of the Shogun
   popularity: 1.0
@@ -54,25 +56,25 @@
   total_rating_count: 13
 - id: 1990
   name: VVVVVV
-  popularity: 5.013584933074227
+  popularity: 5.534101115991781
   rating: 80.1028412923239
   total_rating: 79.92642064616194
   total_rating_count: 76
 - id: 3087
   name: Broken Age
-  popularity: 3.898700229442497
+  popularity: 3.720460669595068
   rating: 76.7231431569678
   total_rating: 76.63080234771465
   total_rating_count: 90
 - id: 9478
   name: So Many Me
-  popularity: 3.897235092819721
+  popularity: 4.173870781194246
   rating: 70.0
   total_rating: 75.5
   total_rating_count: 5
 - id: 15925
   name: That Dragon, Cancer
-  popularity: 3.451506617001302
+  popularity: 3.708905073749924
   rating: 70.6458251644186
   total_rating: 74.0729125822093
   total_rating_count: 22
@@ -102,19 +104,20 @@
   total_rating_count: 6
 - id: 9369
   name: Whispering Willows
-  popularity: 1.674010794121431
+  popularity: 1.0
   rating: 60.0870646766169
   total_rating: 64.3768656716418
   total_rating_count: 8
-- id: 393
+- franchise: 4
+  id: 393
   name: Final Fantasy III
-  popularity: 1.0
+  popularity: 1.451484178958321
   rating: 62.3814605658088
   total_rating: 63.0657302829044
   total_rating_count: 45
 - id: 8138
   name: Neverending Nightmares
-  popularity: 2.119591906366334
+  popularity: 1.902968357916641
   rating: 54.48275862068969
   total_rating: 60.74137931034485
   total_rating_count: 9

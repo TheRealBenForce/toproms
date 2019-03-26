@@ -6,7 +6,7 @@
   total_rating_count: 12
 - id: 5451
   name: Snatcher
-  popularity: 1.906524574832025
+  popularity: 1.680115167398767
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
@@ -16,21 +16,23 @@
   rating: 76.0045490709621
   total_rating: 76.0045490709621
   total_rating_count: 12
-- id: 374
+- franchise: 463
+  id: 374
   name: Metal Gear
-  popularity: 3.012759763198285
-  rating: 73.3243071828507
-  total_rating: 73.3243071828507
-  total_rating_count: 40
-- id: 385
+  popularity: 3.267050557995891
+  rating: 73.3229102927993
+  total_rating: 73.3229102927993
+  total_rating_count: 41
+- franchise: 4
+  id: 385
   name: Final Fantasy
-  popularity: 5.905492695979611
+  popularity: 5.757909253980735
   rating: 70.1234910897716
   total_rating: 70.06174554488581
   total_rating_count: 87
 - id: 4598
   name: Contra
-  popularity: 9.027169866148453
+  popularity: 8.703281649302141
   rating: 85.43287506412429
   total_rating: 67.71643753206214
   total_rating_count: 111

@@ -1,8 +1,8 @@
 - id: 673
   name: Doom
-  popularity: 7.020377399611339
-  rating: 85.988728983394
-  total_rating: 82.994364491697
+  popularity: 8.476714541969727
+  rating: 85.98932470238199
+  total_rating: 82.994662351191
   total_rating_count: 479
 - id: 452
   name: Blackthorne
@@ -18,10 +18,10 @@
   total_rating_count: 14
 - id: 1619
   name: Mortal Kombat II
-  popularity: 3.687020575279201
-  rating: 75.7509485980247
-  total_rating: 75.7509485980247
-  total_rating_count: 103
+  popularity: 4.39850660998624
+  rating: 75.7516204049403
+  total_rating: 75.7516204049403
+  total_rating_count: 105
 - id: 12857
   name: Space Harrier
   popularity: 1.668592713727628

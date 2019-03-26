@@ -1,6 +1,7 @@
-- id: 8197
+- franchise: 79
+  id: 8197
   name: Tetris
-  popularity: 6.898631697218759
+  popularity: 6.648632926119838
   rating: 89.56291107681571
   total_rating: 89.56291107681571
   total_rating_count: 473
@@ -24,17 +25,18 @@
   total_rating_count: 11
 - id: 6558
   name: River City Ransom
-  popularity: 1.679893431124019
+  popularity: 1.902968357916641
   rating: 91.1684041322506
   total_rating: 81.0842020661253
   total_rating_count: 12
 - id: 2750
   name: Pac-Man
-  popularity: 3.495574948823321
+  popularity: 4.160389252708244
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
-- id: 8732
+- franchise: 1139
+  id: 8732
   name: 'Advanced Dungeons & Dragons: Pool of Radiance'
   popularity: 1.0
   rating: 79.73662196304561
@@ -49,21 +51,21 @@
 - id: 4603
   name: Lode Runner
   popularity: 1.0
-  rating: 75.3978422412887
-  total_rating: 77.69892112064434
-  total_rating_count: 18
+  rating: 75.38244690523099
+  total_rating: 77.6912234526155
+  total_rating_count: 19
 - id: 11763
   name: Sokoban
-  popularity: 5.702286006738602
+  popularity: 5.984476361313151
   rating: 75.7410739387782
   total_rating: 75.7410739387782
   total_rating_count: 7
 - id: 2636
   name: Dig Dug
-  popularity: 2.119591906366334
-  rating: 79.5207559941383
-  total_rating: 74.76037799706916
-  total_rating_count: 30
+  popularity: 2.134352249465146
+  rating: 79.5072580477574
+  total_rating: 74.7536290238787
+  total_rating_count: 31
 - id: 4599
   name: Elevator Action
   popularity: 1.0
@@ -72,7 +74,7 @@
   total_rating_count: 18
 - id: 4600
   name: Excitebike
-  popularity: 1.679893431124019
+  popularity: 1.906820223198356
   rating: 73.9506511262787
   total_rating: 73.9506511262787
   total_rating_count: 46
@@ -84,16 +86,16 @@
   total_rating_count: 9
 - id: 2751
   name: Galaga
-  popularity: 2.81304914966405
-  rating: 75.8724211929391
-  total_rating: 72.93621059646955
-  total_rating_count: 41
+  popularity: 3.031678805312443
+  rating: 75.8693674808759
+  total_rating: 72.93468374043795
+  total_rating_count: 42
 - id: 6075
   name: '1942'
-  popularity: 2.782913903273674
-  rating: 65.3445712450686
-  total_rating: 72.6722856225343
-  total_rating_count: 29
+  popularity: 2.580194626354122
+  rating: 65.3552324391226
+  total_rating: 72.6776162195613
+  total_rating_count: 30
 - id: 1476
   name: Gradius
   popularity: 1.670919921066095
@@ -102,7 +104,7 @@
   total_rating_count: 17
 - id: 5385
   name: Fatal Fury Special
-  popularity: 1.449491346118362
+  popularity: 1.677226268437481
   rating: 71.0667328996438
   total_rating: 70.5333664498219
   total_rating_count: 6
@@ -132,10 +134,10 @@
   total_rating_count: 6
 - id: 2735
   name: Balloon Fight
-  popularity: 1.0
-  rating: 62.8785209206091
-  total_rating: 65.93926046030455
-  total_rating_count: 30
+  popularity: 1.677226268437481
+  rating: 62.9362285878842
+  total_rating: 65.96811429394211
+  total_rating_count: 32
 - id: 2710
   name: Mappy
   popularity: 1.64789218496891
@@ -144,11 +146,12 @@
   total_rating_count: 9
 - id: 3666
   name: Ice Climber
-  popularity: 1.453740899786058
+  popularity: 1.680115167398767
   rating: 62.0951667214439
   total_rating: 62.0951667214439
   total_rating_count: 42
-- id: 9166
+- franchise: 391
+  id: 9166
   name: Spy vs Spy
   popularity: 1.449227794472634
   rating: 58.9771513671005
@@ -186,7 +189,7 @@
   total_rating_count: 8
 - id: 6105
   name: Flicky
-  popularity: 1.0
+  popularity: 1.453410111599178
   rating: 50.0718773094832
   total_rating: 50.0718773094832
   total_rating_count: 6

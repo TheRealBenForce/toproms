@@ -1,18 +1,19 @@
-- id: 3601
+- franchise: 791
+  id: 3601
   name: Space Invaders
-  popularity: 3.94931584860938
+  popularity: 4.625073717318656
   rating: 79.0625089935692
   total_rating: 79.0625089935692
   total_rating_count: 52
 - id: 4603
   name: Lode Runner
   popularity: 1.0
-  rating: 75.3978422412887
-  total_rating: 77.69892112064434
-  total_rating_count: 18
+  rating: 75.38244690523099
+  total_rating: 77.6912234526155
+  total_rating_count: 19
 - id: 11763
   name: Sokoban
-  popularity: 5.702286006738602
+  popularity: 5.984476361313151
   rating: 75.7410739387782
   total_rating: 75.7410739387782
   total_rating_count: 7
@@ -24,10 +25,10 @@
   total_rating_count: 18
 - id: 2751
   name: Galaga
-  popularity: 2.81304914966405
-  rating: 75.8724211929391
-  total_rating: 72.93621059646955
-  total_rating_count: 41
+  popularity: 3.031678805312443
+  rating: 75.8693674808759
+  total_rating: 72.93468374043795
+  total_rating_count: 42
 - id: 6112
   name: H.E.R.O.
   popularity: 1.0
@@ -60,7 +61,7 @@
   total_rating_count: 19
 - id: 6105
   name: Flicky
-  popularity: 1.0
+  popularity: 1.453410111599178
   rating: 50.0718773094832
   total_rating: 50.0718773094832
   total_rating_count: 6

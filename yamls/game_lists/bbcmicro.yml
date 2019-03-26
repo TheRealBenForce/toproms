@@ -1,6 +1,7 @@
-- id: 8197
+- franchise: 79
+  id: 8197
   name: Tetris
-  popularity: 6.898631697218759
+  popularity: 6.648632926119838
   rating: 89.56291107681571
   total_rating: 89.56291107681571
   total_rating_count: 473
@@ -12,7 +13,7 @@
   total_rating_count: 8
 - id: 4595
   name: Arkanoid
-  popularity: 1.453262287416012
+  popularity: 1.677226268437481
   rating: 88.6063611533045
   total_rating: 88.6063611533045
   total_rating_count: 34
@@ -30,13 +31,13 @@
   total_rating_count: 5
 - id: 2951
   name: Elite
-  popularity: 3.68367968426438
+  popularity: 3.934647163229084
   rating: 85.2805336567617
   total_rating: 85.2805336567617
   total_rating_count: 7
 - id: 12942
   name: Boulder Dash
-  popularity: 2.133155718540031
+  popularity: 1.453410111599178
   rating: 80.0710555959421
   total_rating: 80.03552779797104
   total_rating_count: 11
@@ -49,18 +50,19 @@
 - id: 4603
   name: Lode Runner
   popularity: 1.0
-  rating: 75.3978422412887
-  total_rating: 77.69892112064434
-  total_rating_count: 18
+  rating: 75.38244690523099
+  total_rating: 77.6912234526155
+  total_rating_count: 19
 - id: 5668
   name: Commando
   popularity: 2.116344716042601
   rating: 73.7949607912886
   total_rating: 76.8974803956443
   total_rating_count: 23
-- id: 1272
+- franchise: 1017
+  id: 1272
   name: SimCity
-  popularity: 2.359786862248037
+  popularity: 2.580194626354122
   rating: 88.5921776636175
   total_rating: 73.67108883180876
   total_rating_count: 40
@@ -102,13 +104,13 @@
   total_rating_count: 6
 - id: 2235
   name: Centipede
-  popularity: 1.445728475818419
+  popularity: 1.906820223198356
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
 - id: 5691
   name: Pole Position
-  popularity: 2.020680039401304
+  popularity: 1.902968357916641
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15
@@ -124,7 +126,8 @@
   rating: 61.5646241008021
   total_rating: 60.78231205040105
   total_rating_count: 14
-- id: 9166
+- franchise: 391
+  id: 9166
   name: Spy vs Spy
   popularity: 1.449227794472634
   rating: 58.9771513671005

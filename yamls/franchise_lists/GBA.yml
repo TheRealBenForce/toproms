@@ -1,0 +1,94 @@
+- - id: 11
+    name: The Lord of the Rings
+  - id: 133
+    name: Harry Potter
+  - id: 24
+    name: Mario Bros.
+  - id: 60
+    name: "Pok\xE9mon"
+  - id: 56
+    name: Dragon Ball
+  - id: 151
+    name: Spider-Man
+  - id: 38
+    name: Mega Man
+  - id: 4
+    name: Final Fantasy
+  - id: 814
+    name: Sonic
+  - id: 895
+    name: Castlevania
+- - id: 9
+    name: Tom Clancy
+  - id: 51
+    name: LEGO
+  - id: 57
+    name: Yu-Gi-Oh!
+  - id: 860
+    name: Super Mario
+  - id: 591
+    name: Golden Sun
+  - id: 100
+    name: Spongebob Squarepants
+  - id: 792
+    name: Street Fighter
+  - id: 1
+    name: Star Wars
+  - id: 1163
+    name: Ace Attorney
+  - id: 630
+    name: Earthworm Jim
+- - id: 174
+    name: Barnyard
+  - id: 26
+    name: Disney
+  - id: 5
+    name: Batman
+  - id: 35
+    name: Mickey Mouse
+  - id: 37
+    name: James Bond
+  - id: 942
+    name: Tales of
+  - id: 538
+    name: Shin Megami Tensei
+  - id: 152
+    name: Jeopardy
+  - id: 179
+    name: BMX
+  - id: 769
+    name: Fire Emblem
+- - id: 43
+    name: Dungeons & Dragons
+  - id: 201
+    name: Dragon Ball Z
+  - id: 501
+    name: Donald Duck
+  - id: 224
+    name: NFL
+  - id: 164
+    name: Madagascar
+  - id: 1110
+    name: FIFA
+  - id: 845
+    name: Mario
+  - id: 351
+    name: Tron
+  - id: 228
+    name: King Kong
+  - id: 596
+    name: The Legend of Zelda
+- - id: 495
+    name: Prince of Persia
+  - id: 117
+    name: Scooby-Doo
+  - id: 488
+    name: Aladdin
+  - id: 763
+    name: Donkey Kong
+  - id: 756
+    name: Metroid
+  - id: 994
+    name: Rayman
+  - id: 124
+    name: Marvel

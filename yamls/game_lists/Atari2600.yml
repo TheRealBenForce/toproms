@@ -12,10 +12,10 @@
   total_rating_count: 25
 - id: 7452
   name: Ms. Pac-Man
-  popularity: 2.560049665364465
-  rating: 83.224952221169
-  total_rating: 83.61247611058451
-  total_rating_count: 28
+  popularity: 2.588093149251204
+  rating: 83.22261202087279
+  total_rating: 83.6113060104364
+  total_rating_count: 29
 - id: 18473
   name: Phoenix
   popularity: 1.0
@@ -30,7 +30,7 @@
   total_rating_count: 9
 - id: 2750
   name: Pac-Man
-  popularity: 3.495574948823321
+  popularity: 4.160389252708244
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -60,17 +60,19 @@
   total_rating_count: 13
 - id: 5411
   name: Pitfall!
-  popularity: 2.567428668912867
+  popularity: 2.354452536874962
   rating: 79.2959713591713
   total_rating: 79.2959713591713
   total_rating_count: 29
-- id: 3601
+- franchise: 791
+  id: 3601
   name: Space Invaders
-  popularity: 3.94931584860938
+  popularity: 4.625073717318656
   rating: 79.0625089935692
   total_rating: 79.0625089935692
   total_rating_count: 52
-- id: 6054
+- franchise: 8
+  id: 6054
   name: Ghostbusters
   popularity: 1.0
   rating: 76.3713838018002
@@ -100,21 +102,22 @@
   rating: 73.7949607912886
   total_rating: 76.8974803956443
   total_rating_count: 23
-- id: 3105
+- franchise: 24
+  id: 3105
   name: Mario Bros.
-  popularity: 4.12009933072893
+  popularity: 4.611873431666565
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
 - id: 2636
   name: Dig Dug
-  popularity: 2.119591906366334
-  rating: 79.5207559941383
-  total_rating: 74.76037799706916
-  total_rating_count: 30
+  popularity: 2.134352249465146
+  rating: 79.5072580477574
+  total_rating: 74.7536290238787
+  total_rating_count: 31
 - id: 18288
   name: Frogger
-  popularity: 1.6717551438198
+  popularity: 1.453410111599178
   rating: 78.8745718207034
   total_rating: 74.4372859103517
   total_rating_count: 13
@@ -126,13 +129,14 @@
   total_rating_count: 13
 - id: 12313
   name: Missile Command
-  popularity: 2.567428668912867
+  popularity: 2.805936715833282
   rating: 70.395690417433
   total_rating: 73.53117854204984
   total_rating_count: 17
-- id: 1086
+- franchise: 845
+  id: 1086
   name: Donkey Kong
-  popularity: 3.266311437080062
+  popularity: 3.483162984270763
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -144,9 +148,9 @@
   total_rating_count: 8
 - id: 11984
   name: California Games
-  popularity: 1.447836762546534
-  rating: 52.8222653247701
-  total_rating: 71.41113266238506
+  popularity: 1.453134214664832
+  rating: 52.7197260297588
+  total_rating: 71.3598630148794
   total_rating_count: 9
 - id: 9554
   name: Mr. DO!
@@ -162,7 +166,7 @@
   total_rating_count: 7
 - id: 2235
   name: Centipede
-  popularity: 1.445728475818419
+  popularity: 1.906820223198356
   rating: 69.6080796551844
   total_rating: 69.80403982759219
   total_rating_count: 24
@@ -192,7 +196,7 @@
   total_rating_count: 9
 - id: 5691
   name: Pole Position
-  popularity: 2.020680039401304
+  popularity: 1.902968357916641
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15
@@ -232,7 +236,8 @@
   rating: 68.1657789462484
   total_rating: 60.0828894731242
   total_rating_count: 8
-- id: 4619
+- franchise: 266
+  id: 4619
   name: Popeye
   popularity: 1.0
   rating: 59.9418362032479
@@ -240,7 +245,7 @@
   total_rating_count: 21
 - id: 6787
   name: Double Dragon
-  popularity: 3.039680293372056
+  popularity: 2.805936715833282
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61

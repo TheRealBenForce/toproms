@@ -12,10 +12,10 @@
   total_rating_count: 11
 - id: 4348
   name: Another World
-  popularity: 3.899210570177432
-  rating: 87.8683181016298
-  total_rating: 87.8683181016298
-  total_rating_count: 52
+  popularity: 4.39850660998624
+  rating: 87.8701831338687
+  total_rating: 87.8701831338687
+  total_rating_count: 53
 - id: 4304
   name: Star Control II
   popularity: 1.0
@@ -30,19 +30,20 @@
   total_rating_count: 23
 - id: 5519
   name: Cannon Fodder
-  popularity: 2.565479815820888
+  popularity: 2.354452536874962
   rating: 84.7524486141904
   total_rating: 84.7524486141904
   total_rating_count: 21
 - id: 673
   name: Doom
-  popularity: 7.020377399611339
-  rating: 85.988728983394
-  total_rating: 82.994364491697
+  popularity: 8.476714541969727
+  rating: 85.98932470238199
+  total_rating: 82.994662351191
   total_rating_count: 479
-- id: 4238
+- franchise: 792
+  id: 4238
   name: Super Street Fighter II Turbo
-  popularity: 2.346924916951652
+  popularity: 2.354452536874962
   rating: 80.5125629984382
   total_rating: 80.5125629984382
   total_rating_count: 14
@@ -54,7 +55,7 @@
   total_rating_count: 14
 - id: 49
   name: Syndicate
-  popularity: 3.719573724496075
+  popularity: 3.493755613795479
   rating: 82.0114508550278
   total_rating: 75.38072542751391
   total_rating_count: 22
@@ -66,13 +67,13 @@
   total_rating_count: 5
 - id: 283
   name: Theme Park
-  popularity: 2.116344716042601
+  popularity: 2.580194626354122
   rating: 70.3333900644455
   total_rating: 74.66669503222275
   total_rating_count: 34
 - id: 4289
   name: Quarantine
-  popularity: 3.492942580788069
+  popularity: 3.267050557995891
   rating: 73.0174081237911
   total_rating: 73.0174081237911
   total_rating_count: 6
@@ -82,7 +83,8 @@
   rating: 72.88872984324959
   total_rating: 72.88872984324959
   total_rating_count: 7
-- id: 161
+- franchise: 1
+  id: 161
   name: 'Star Wars: Rebel Assault'
   popularity: 1.0
   rating: 72.6651611862209
@@ -102,16 +104,16 @@
   total_rating_count: 5
 - id: 3249
   name: Road Rash
-  popularity: 2.3435102876396
+  popularity: 1.906820223198356
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
 - id: 284
   name: Wolfenstein 3D
-  popularity: 3.041834049037263
-  rating: 79.5760345962575
-  total_rating: 67.78801729812875
-  total_rating_count: 130
+  popularity: 3.493755613795479
+  rating: 79.5749170331215
+  total_rating: 67.78745851656075
+  total_rating_count: 131
 - id: 4309
   name: Gex
   popularity: 1.447836762546534
@@ -132,13 +134,13 @@
   total_rating_count: 14
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.668592713727628
+  popularity: 1.902968357916641
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
 - id: 4275
   name: Flashback
-  popularity: 4.121677170168843
+  popularity: 3.934647163229084
   rating: 79.9296994811576
   total_rating: 57.4648497405788
   total_rating_count: 34

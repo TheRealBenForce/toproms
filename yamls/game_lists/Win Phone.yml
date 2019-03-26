@@ -1,24 +1,24 @@
 - id: 4348
   name: Another World
-  popularity: 3.899210570177432
-  rating: 87.8683181016298
-  total_rating: 87.8683181016298
-  total_rating_count: 52
+  popularity: 4.39850660998624
+  rating: 87.8701831338687
+  total_rating: 87.8701831338687
+  total_rating_count: 53
 - id: 18124
   name: Akinator
-  popularity: 8.486724846469965
+  popularity: 8.023580327304895
   rating: 84.1097489784005
   total_rating: 84.1097489784005
   total_rating_count: 5
 - id: 8900
   name: Monument Valley
-  popularity: 8.358239043969416
-  rating: 78.456653212415
-  total_rating: 84.06165993954085
-  total_rating_count: 79
+  popularity: 8.476714541969727
+  rating: 78.45932429569339
+  total_rating: 84.06299548118005
+  total_rating_count: 80
 - id: 1334
   name: 'Brothers: A Tale of Two Sons'
-  popularity: 5.013584933074227
+  popularity: 4.853985948593014
   rating: 82.68306545663339
   total_rating: 83.91296129974523
   total_rating_count: 304
@@ -28,13 +28,15 @@
   rating: 81.4805283745084
   total_rating: 83.64026418725419
   total_rating_count: 40
-- id: 121
+- franchise: 950
+  id: 121
   name: Minecraft
-  popularity: 27.54384263748442
-  rating: 81.14744426595321
-  total_rating: 82.75229356154806
-  total_rating_count: 564
-- id: 5059
+  popularity: 30.22715684588166
+  rating: 81.1781666641377
+  total_rating: 82.76765476064031
+  total_rating_count: 566
+- franchise: 16
+  id: 5059
   name: NBA Jam
   popularity: 1.447836762546534
   rating: 90.0
@@ -54,13 +56,14 @@
   total_rating_count: 13
 - id: 2750
   name: Pac-Man
-  popularity: 3.495574948823321
+  popularity: 4.160389252708244
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
-- id: 868
+- franchise: 10
+  id: 868
   name: Sid Meier's Pirates!
-  popularity: 1.448974972317217
+  popularity: 1.0
   rating: 78.6039886479537
   total_rating: 80.6353276573102
   total_rating_count: 52
@@ -72,7 +75,7 @@
   total_rating_count: 23
 - id: 5411
   name: Pitfall!
-  popularity: 2.567428668912867
+  popularity: 2.354452536874962
   rating: 79.2959713591713
   total_rating: 79.2959713591713
   total_rating_count: 29
@@ -84,16 +87,16 @@
   total_rating_count: 15
 - id: 1879
   name: Terraria
-  popularity: 10.98229979529328
-  rating: 75.94932623710571
-  total_rating: 77.8382994821892
+  popularity: 11.16753926701571
+  rating: 75.95064021593329
+  total_rating: 77.838956471603
   total_rating_count: 224
 - id: 4603
   name: Lode Runner
   popularity: 1.0
-  rating: 75.3978422412887
-  total_rating: 77.69892112064434
-  total_rating_count: 18
+  rating: 75.38244690523099
+  total_rating: 77.6912234526155
+  total_rating_count: 19
 - id: 5906
   name: Madden NFL 06
   popularity: 1.0
@@ -106,7 +109,8 @@
   rating: 70.014336054205
   total_rating: 76.67383469376915
   total_rating_count: 8
-- id: 7849
+- franchise: 137
+  id: 7849
   name: 'Halo: Spartan Strike'
   popularity: 1.445728475818419
   rating: 72.4711766926936
@@ -120,7 +124,7 @@
   total_rating_count: 36
 - id: 1051
   name: Mirror's Edge
-  popularity: 5.460323954119127
+  popularity: 6.437610575977983
   rating: 77.7300499653218
   total_rating: 75.1150249826609
   total_rating_count: 401
@@ -130,7 +134,8 @@
   rating: 73.651874824141
   total_rating: 74.2634374120705
   total_rating_count: 52
-- id: 10762
+- franchise: 575
+  id: 10762
   name: Galaga Legions DX
   popularity: 1.0
   rating: 76.9866739769422
@@ -144,7 +149,7 @@
   total_rating_count: 20
 - id: 18753
   name: Words With Friends
-  popularity: 1.0
+  popularity: 1.451484178958321
   rating: 72.47725993979189
   total_rating: 72.47725993979189
   total_rating_count: 6
@@ -180,13 +185,14 @@
   total_rating_count: 9
 - id: 23306
   name: 'Asphalt 8: Airborne'
-  popularity: 5.460323954119127
+  popularity: 5.307396060192191
   rating: 70.4260786748315
   total_rating: 70.4260786748315
   total_rating_count: 26
-- id: 385
+- franchise: 4
+  id: 385
   name: Final Fantasy
-  popularity: 5.905492695979611
+  popularity: 5.757909253980735
   rating: 70.1234910897716
   total_rating: 70.06174554488581
   total_rating_count: 87
@@ -198,19 +204,19 @@
   total_rating_count: 11
 - id: 9195
   name: Five Nights at Freddy's 2
-  popularity: 1.445728475818419
-  rating: 69.840968557801
-  total_rating: 69.9204842789005
-  total_rating_count: 16
+  popularity: 1.677226268437481
+  rating: 69.548162902933
+  total_rating: 69.7740814514665
+  total_rating_count: 17
 - id: 10225
   name: HOOK
-  popularity: 11.7047774898859
+  popularity: 10.74238561529389
   rating: 69.58769424939649
   total_rating: 69.58769424939649
   total_rating_count: 8
 - id: 6166
   name: Subway Surfers
-  popularity: 7.689308221790378
+  popularity: 7.797013219972479
   rating: 69.390276540766
   total_rating: 69.390276540766
   total_rating_count: 14
@@ -232,31 +238,34 @@
   rating: 71.4643870644393
   total_rating: 68.66969353221964
   total_rating_count: 16
-- id: 8499
-  name: Five Nights at Freddy's
-  popularity: 2.795899889268869
-  rating: 63.6982113975267
-  total_rating: 67.6824390320967
-  total_rating_count: 24
-- id: 19902
+- franchise: 1049
+  id: 19902
   name: Bad Piggies
-  popularity: 7.913502128884646
+  popularity: 8.023580327304895
   rating: 60.2533733742358
   total_rating: 67.6266866871179
   total_rating_count: 7
+- id: 8499
+  name: Five Nights at Freddy's
+  popularity: 3.031678805312443
+  rating: 63.4950850606224
+  total_rating: 67.58087586364455
+  total_rating_count: 25
 - id: 8992
   name: "MouseCraft\uFEFF"
   popularity: 1.0
   rating: 69.6157092048948
   total_rating: 67.3078546024474
   total_rating_count: 8
-- id: 21349
+- franchise: 571
+  id: 21349
   name: 'Assassin''s Creed: Altair''s Chronicles'
   popularity: 1.0
   rating: 69.87775519111109
   total_rating: 64.93887759555554
   total_rating_count: 9
-- id: 19506
+- franchise: 814
+  id: 19506
   name: Sonic Dash
   popularity: 1.0
   rating: 69.71112667109941
@@ -268,13 +277,15 @@
   rating: 63.94718914907951
   total_rating: 63.94718914907951
   total_rating_count: 6
-- id: 393
+- franchise: 4
+  id: 393
   name: Final Fantasy III
-  popularity: 1.0
+  popularity: 1.451484178958321
   rating: 62.3814605658088
   total_rating: 63.0657302829044
   total_rating_count: 45
-- id: 4839
+- franchise: 137
+  id: 4839
   name: 'Halo: Spartan Assault'
   popularity: 1.895673525093067
   rating: 60.0580534603764
@@ -286,7 +297,8 @@
   rating: 69.9378781729229
   total_rating: 57.46893908646145
   total_rating_count: 16
-- id: 9474
+- franchise: 814
+  id: 9474
   name: 'Sonic the Hedgehog 4: Episode II'
   popularity: 1.0
   rating: 60.0

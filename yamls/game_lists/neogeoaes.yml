@@ -1,27 +1,27 @@
 - id: 10605
   name: 'Garou: Mark of the Wolves'
-  popularity: 3.451506617001302
+  popularity: 3.267050557995891
   rating: 97.9556557343078
   total_rating: 88.9778278671539
   total_rating_count: 14
 - id: 1404
   name: Metal Slug
-  popularity: 5.236561873800572
-  rating: 85.8905564944938
-  total_rating: 85.8905564944938
-  total_rating_count: 61
+  popularity: 5.067015706806283
+  rating: 85.8896737353117
+  total_rating: 85.8896737353117
+  total_rating_count: 62
 - id: 1407
   name: Metal Slug 2
-  popularity: 3.463102194005934
-  rating: 84.13744809713461
-  total_rating: 84.13744809713461
-  total_rating_count: 38
+  popularity: 3.711343804537522
+  rating: 84.1362201233308
+  total_rating: 84.1362201233308
+  total_rating_count: 39
 - id: 1408
   name: Metal Slug 3
-  popularity: 3.005778141182883
-  rating: 85.52331124584599
-  total_rating: 83.92832228958964
-  total_rating_count: 62
+  popularity: 3.259453170447935
+  rating: 85.518848064566
+  total_rating: 83.92609069894965
+  total_rating_count: 63
 - id: 11222
   name: Windjammers
   popularity: 1.0
@@ -42,7 +42,7 @@
   total_rating_count: 15
 - id: 18840
   name: Metal Slug X
-  popularity: 1.680611349679088
+  popularity: 1.906820223198356
   rating: 80.6842578871072
   total_rating: 80.3421289435536
   total_rating_count: 26
@@ -60,7 +60,7 @@
   total_rating_count: 5
 - id: 19986
   name: Samurai Shodown II
-  popularity: 1.0
+  popularity: 1.677226268437481
   rating: 77.0
   total_rating: 78.5
   total_rating_count: 5
@@ -82,15 +82,16 @@
   rating: 72.0139729724214
   total_rating: 72.0139729724214
   total_rating_count: 11
-- id: 12588
+- franchise: 636
+  id: 12588
   name: The King of Fighters '96
-  popularity: 1.0
+  popularity: 1.451484178958321
   rating: 70.8859570828384
   total_rating: 70.8859570828384
   total_rating_count: 12
 - id: 5385
   name: Fatal Fury Special
-  popularity: 1.449491346118362
+  popularity: 1.677226268437481
   rating: 71.0667328996438
   total_rating: 70.5333664498219
   total_rating_count: 6
@@ -102,11 +103,12 @@
   total_rating_count: 10
 - id: 15429
   name: The King of Fighters '98
-  popularity: 1.670919921066095
+  popularity: 1.902968357916641
   rating: 80.2759894770918
   total_rating: 70.1379947385459
   total_rating_count: 15
-- id: 6184
+- franchise: 636
+  id: 6184
   name: 'SNK vs. Capcom: SVC Chaos'
   popularity: 1.449078713580444
   rating: 70.9197277975529
@@ -126,31 +128,31 @@
   total_rating_count: 6
 - id: 15427
   name: The King of Fighters '95
-  popularity: 1.0
+  popularity: 1.451484178958321
   rating: 68.792823314287
   total_rating: 65.8964116571435
   total_rating_count: 11
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.668592713727628
+  popularity: 1.902968357916641
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
 - id: 4514
   name: Art of Fighting
-  popularity: 1.449491346118362
+  popularity: 1.0
   rating: 57.7474631176052
   total_rating: 57.7474631176052
   total_rating_count: 7
 - id: 6787
   name: Double Dragon
-  popularity: 3.039680293372056
+  popularity: 2.805936715833282
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61
 - id: 71128
   name: Fatal Fury
-  popularity: 1.0
+  popularity: 1.677226268437481
   rating: 54.9906286390131
   total_rating: 54.9906286390131
   total_rating_count: 5
