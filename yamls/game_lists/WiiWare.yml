@@ -8,7 +8,7 @@
 - franchise: 38
   id: 1722
   name: Mega Man 9
-  popularity: 2.813640446396712
+  popularity: 2.355671902268761
   rating: 89.6662948372823
   total_rating: 88.61886170435545
   total_rating_count: 23
@@ -21,7 +21,7 @@
   total_rating_count: 49
 - id: 6189
   name: Cave Story
-  popularity: 3.483162984270763
+  popularity: 3.033507853403142
   rating: 88.5730847093783
   total_rating: 85.78654235468915
   total_rating_count: 40
@@ -40,14 +40,14 @@
   total_rating_count: 15
 - id: 942
   name: World of Goo
-  popularity: 3.720460669595068
+  popularity: 4.163234438627109
   rating: 80.71434233231139
   total_rating: 83.7321711661557
   total_rating_count: 132
 - franchise: 1163
   id: 1426
   name: 'Phoenix Wright: Ace Attorney'
-  popularity: 5.984476361313151
+  popularity: 5.51890634089587
   rating: 86.0087994918595
   total_rating: 83.00439974592976
   total_rating_count: 101
@@ -130,7 +130,7 @@
   total_rating_count: 24
 - id: 1875
   name: Toribash - Violence Perfected
-  popularity: 4.173870781194246
+  popularity: 4.389179755671902
   rating: 67.0909132772007
   total_rating: 67.0909132772007
   total_rating_count: 7
@@ -155,7 +155,7 @@
   total_rating_count: 7
 - id: 22739
   name: Uno
-  popularity: 1.668592713727628
+  popularity: 1.451890634089587
   rating: 50.0
   total_rating: 51.25
   total_rating_count: 6

@@ -7,7 +7,7 @@
 - franchise: 726
   id: 621
   name: Call of Duty
-  popularity: 10.9689527226263
+  popularity: 10.03781268179174
   rating: 82.95568858242748
   total_rating: 84.8111776245471
   total_rating_count: 298
@@ -20,21 +20,21 @@
   total_rating_count: 155
 - id: 6294
   name: Worms World Party
-  popularity: 1.902968357916641
+  popularity: 1.677835951134381
   rating: 88.3923609980679
   total_rating: 84.19618049903394
   total_rating_count: 57
 - franchise: 854
   id: 6296
   name: Xanadu Next
-  popularity: 3.031678805312443
+  popularity: 2.807562536358348
   rating: 80.0
   total_rating: 81.41666666666666
   total_rating_count: 9
 - franchise: 9
   id: 911
   name: 'Tom Clancy''s Splinter Cell: Chaos Theory'
-  popularity: 6.440921339190137
+  popularity: 6.19674229203025
   rating: 84.1164718357658
   total_rating: 80.84395020359719
   total_rating_count: 115
@@ -60,7 +60,7 @@
   total_rating_count: 14
 - id: 6692
   name: Tony Hawk's Pro Skater
-  popularity: 2.586935390597123
+  popularity: 2.355671902268761
   rating: 82.8698037204887
   total_rating: 76.43490186024435
   total_rating_count: 66
@@ -116,14 +116,14 @@
   total_rating_count: 16
 - id: 6273
   name: Red Faction
-  popularity: 3.483162984270763
+  popularity: 3.033507853403142
   rating: 72.6605217461849
   total_rating: 71.33026087309244
   total_rating_count: 58
 - franchise: 994
   id: 1966
   name: 'Rayman 3: Hoodlum Havoc'
-  popularity: 3.039103965991744
+  popularity: 3.259453170447935
   rating: 76.8156217493631
   total_rating: 70.90781087468156
   total_rating_count: 49
@@ -140,7 +140,7 @@
   total_rating_count: 5
 - id: 1571
   name: Sega Rally Championship
-  popularity: 1.891456951636837
+  popularity: 2.129726585223968
   rating: 80.12873839455591
   total_rating: 65.06436919727795
   total_rating_count: 7

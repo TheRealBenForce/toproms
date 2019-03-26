@@ -6,7 +6,7 @@
   total_rating_count: 12
 - id: 5451
   name: Snatcher
-  popularity: 1.680115167398767
+  popularity: 1.903781268179174
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
@@ -26,13 +26,13 @@
 - franchise: 4
   id: 385
   name: Final Fantasy
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 70.1234910897716
   total_rating: 70.06174554488581
   total_rating_count: 87
 - id: 4598
   name: Contra
-  popularity: 8.703281649302141
+  popularity: 8.908086096567772
   rating: 85.43287506412429
   total_rating: 67.71643753206214
   total_rating_count: 111

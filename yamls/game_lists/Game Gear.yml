@@ -1,6 +1,6 @@
 - id: 2547
   name: Zool
-  popularity: 5.304775039315904
+  popularity: 5.067015706806283
   rating: 94.17842895671899
   total_rating: 94.17842895671899
   total_rating_count: 10
@@ -70,13 +70,13 @@
 - franchise: 495
   id: 2472
   name: Prince of Persia
-  popularity: 3.257420894791603
+  popularity: 2.807562536358348
   rating: 82.2966579378346
   total_rating: 82.2966579378346
   total_rating_count: 109
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -95,7 +95,7 @@
   total_rating_count: 6
 - id: 2051
   name: OutRun
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 79.695088860288
   total_rating: 79.695088860288
   total_rating_count: 22
@@ -107,7 +107,7 @@
   total_rating_count: 15
 - id: 3166
   name: The Lion King
-  popularity: 3.708905073749924
+  popularity: 3.485398487492728
   rating: 76.9508017674631
   total_rating: 78.47540088373155
   total_rating_count: 69
@@ -120,7 +120,7 @@
   total_rating_count: 23
 - id: 1652
   name: Streets of Rage
-  popularity: 3.719573724496075
+  popularity: 3.485398487492728
   rating: 78.0817575960329
   total_rating: 78.0817575960329
   total_rating_count: 60
@@ -173,7 +173,7 @@
 - franchise: 5
   id: 4379
   name: Batman Returns
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 74.3642857230241
   total_rating: 74.3642857230241
   total_rating_count: 23
@@ -186,13 +186,13 @@
   total_rating_count: 5
 - id: 4239
   name: Lemmings
-  popularity: 2.81304914966405
+  popularity: 2.581617219313554
   rating: 77.0386174515578
   total_rating: 72.3193087257789
   total_rating_count: 62
 - id: 6405
   name: Gunstar Heroes
-  popularity: 2.128710447395802
+  popularity: 1.677835951134381
   rating: 83.28804994504029
   total_rating: 71.64402497252014
   total_rating_count: 15
@@ -235,7 +235,7 @@
   total_rating_count: 5
 - id: 12857
   name: Space Harrier
-  popularity: 1.668592713727628
+  popularity: 1.451890634089587
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6
@@ -260,7 +260,7 @@
   total_rating_count: 7
 - id: 3249
   name: Road Rash
-  popularity: 1.906820223198356
+  popularity: 2.129726585223968
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
@@ -313,7 +313,7 @@
   total_rating_count: 9
 - id: 11762
   name: Paperboy
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29
@@ -366,14 +366,14 @@
   total_rating_count: 14
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
 - franchise: 26
   id: 8122
   name: Castle of Illusion Starring Mickey Mouse
-  popularity: 5.078207931983488
+  popularity: 4.841070389761489
   rating: 68.7731693375491
   total_rating: 61.88658466877455
   total_rating_count: 27
@@ -403,7 +403,7 @@
   total_rating_count: 26
 - id: 6787
   name: Double Dragon
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61
@@ -423,7 +423,7 @@
 - franchise: 5
   id: 7769
   name: Batman Forever
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 48.0952347405453
   total_rating: 49.04761737027265
   total_rating_count: 11

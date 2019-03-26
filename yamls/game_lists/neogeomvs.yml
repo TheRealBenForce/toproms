@@ -1,6 +1,6 @@
 - id: 10605
   name: 'Garou: Mark of the Wolves'
-  popularity: 3.267050557995891
+  popularity: 3.485398487492728
   rating: 97.9556557343078
   total_rating: 88.9778278671539
   total_rating_count: 14
@@ -12,7 +12,7 @@
   total_rating_count: 62
 - id: 1407
   name: Metal Slug 2
-  popularity: 3.711343804537522
+  popularity: 3.485398487492728
   rating: 84.1362201233308
   total_rating: 84.1362201233308
   total_rating_count: 39
@@ -134,7 +134,7 @@
   total_rating_count: 11
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
@@ -146,7 +146,7 @@
   total_rating_count: 7
 - id: 6787
   name: Double Dragon
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61
@@ -164,7 +164,7 @@
   total_rating_count: 10
 - id: 15433
   name: The King of Fighters 2003
-  popularity: 2.123351323535718
+  popularity: 1.677835951134381
   rating: 40.03117284388711
   total_rating: 45.01558642194355
   total_rating_count: 11

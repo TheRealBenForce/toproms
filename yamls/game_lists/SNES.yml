@@ -1,40 +1,40 @@
 - id: 9633
   name: Terranigma
-  popularity: 6.890744790642815
+  popularity: 6.648632926119838
   rating: 99.31789376202181
   total_rating: 99.31789376202181
   total_rating_count: 24
 - franchise: 596
   id: 1026
   name: 'The Legend of Zelda: A Link to the Past'
-  popularity: 14.33077370564282
+  popularity: 13.39908849198233
   rating: 92.6933132922231
   total_rating: 96.34665664611154
   total_rating_count: 602
 - franchise: 24
   id: 1070
   name: Super Mario World
-  popularity: 15.0086096567772
+  popularity: 14.75171632747131
   rating: 92.38239714852651
   total_rating: 96.19119857426325
   total_rating_count: 567
 - id: 1103
   name: Super Metroid
-  popularity: 11.84537521815009
+  popularity: 11.14470876616736
   rating: 91.9212012915191
   total_rating: 95.96060064575954
   total_rating_count: 331
 - franchise: 832
   id: 5550
   name: 'Tactics Ogre: Let Us Cling Together'
-  popularity: 51.97759914979359
+  popularity: 50.48202443280978
   rating: 99.9209932715109
   total_rating: 95.96049663575545
   total_rating_count: 16
 - franchise: 4
   id: 426
   name: Final Fantasy VI
-  popularity: 15.0086096567772
+  popularity: 14.52627835488982
   rating: 90.8799463893366
   total_rating: 95.4399731946683
   total_rating_count: 285
@@ -47,57 +47,57 @@
 - franchise: 24
   id: 1073
   name: 'Super Mario World 2: Yoshi''s Island'
-  popularity: 4.163234438627109
+  popularity: 3.705255670977963
   rating: 89.86075372169451
   total_rating: 94.93037686084725
   total_rating_count: 223
 - id: 2547
   name: Zool
-  popularity: 5.304775039315904
+  popularity: 5.067015706806283
   rating: 94.17842895671899
   total_rating: 94.17842895671899
   total_rating_count: 10
 - franchise: 792
   id: 18626
   name: Street Fighter II Turbo
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 87.4583240286305
   total_rating: 93.72916201431525
   total_rating_count: 31
 - id: 1802
   name: Chrono Trigger
-  popularity: 30.59883653286795
+  popularity: 30.08149846301311
   rating: 94.23479227203501
   total_rating: 92.78406280268416
   total_rating_count: 469
 - id: 2899
   name: EarthBound
-  popularity: 10.48970331588133
+  popularity: 10.01751890325988
   rating: 90.93092404269919
   total_rating: 92.13212868801625
   total_rating_count: 157
 - franchise: 24
   id: 1068
   name: Super Mario Bros. 3
-  popularity: 12.52321116928447
+  popularity: 12.04646065649335
   rating: 90.1994350190038
   total_rating: 90.1994350190038
   total_rating_count: 590
 - id: 924
   name: Wing Commander
-  popularity: 2.339613659251121
+  popularity: 2.129726585223968
   rating: 90.0235871480059
   total_rating: 90.0235871480059
   total_rating_count: 11
 - id: 3798
   name: Dungeon Master
-  popularity: 2.359786862248037
+  popularity: 2.581617219313554
   rating: 89.98010197736599
   total_rating: 89.98010197736599
   total_rating_count: 5
 - id: 13257
   name: 'Sensible Soccer: European Champions'
-  popularity: 1.6717551438198
+  popularity: 1.451890634089587
   rating: 89.97136419797951
   total_rating: 89.97136419797951
   total_rating_count: 5
@@ -155,13 +155,13 @@
   total_rating_count: 37
 - id: 3216
   name: Secret of Mana
-  popularity: 3.483162984270763
+  popularity: 3.711343804537522
   rating: 88.000472462438
   total_rating: 88.000472462438
   total_rating_count: 65
 - id: 4348
   name: Another World
-  popularity: 4.39850660998624
+  popularity: 3.937289121582316
   rating: 87.8701831338687
   total_rating: 87.8701831338687
   total_rating_count: 53
@@ -194,7 +194,7 @@
   total_rating_count: 6
 - id: 705
   name: 'FIFA: Road to World Cup 98'
-  popularity: 3.257420894791603
+  popularity: 3.033507853403142
   rating: 87.2738293389834
   total_rating: 87.2738293389834
   total_rating_count: 32
@@ -212,7 +212,7 @@
   total_rating_count: 6
 - id: 6351
   name: 'Contra III: The Alien Wars'
-  popularity: 2.586935390597123
+  popularity: 2.355671902268761
   rating: 87.0464878860234
   total_rating: 87.0464878860234
   total_rating_count: 26
@@ -257,7 +257,7 @@
 - franchise: 38
   id: 1741
   name: Mega Man X
-  popularity: 3.934647163229084
+  popularity: 3.711343804537522
   rating: 86.8426014328822
   total_rating: 85.9213007164411
   total_rating_count: 82
@@ -271,14 +271,14 @@
 - franchise: 895
   id: 1124
   name: Super Castlevania IV
-  popularity: 4.163234438627109
+  popularity: 4.615125072716696
   rating: 71.2756203798718
   total_rating: 85.63781018993589
   total_rating_count: 51
 - franchise: 24
   id: 2332
   name: Super Mario Kart
-  popularity: 5.014291558707214
+  popularity: 5.51890634089587
   rating: 81.1839224927719
   total_rating: 85.59196124638595
   total_rating_count: 129
@@ -309,20 +309,20 @@
   total_rating_count: 16
 - id: 5519
   name: Cannon Fodder
-  popularity: 2.354452536874962
+  popularity: 2.581617219313554
   rating: 84.7524486141904
   total_rating: 84.7524486141904
   total_rating_count: 21
 - franchise: 24
   id: 358
   name: Super Mario Bros.
-  popularity: 15.50029486927462
+  popularity: 15.0086096567772
   rating: 84.70097986138329
   total_rating: 84.70097986138329
   total_rating_count: 530
 - id: 5199
   name: Super Mario All-Stars
-  popularity: 2.337185427455256
+  popularity: 2.581617219313554
   rating: 89.3504940944171
   total_rating: 84.67524704720856
   total_rating_count: 84
@@ -335,7 +335,7 @@
 - franchise: 792
   id: 3186
   name: Street Fighter II
-  popularity: 7.100523560209425
+  popularity: 7.326468877254218
   rating: 84.0702813240752
   total_rating: 84.0702813240752
   total_rating_count: 145
@@ -384,27 +384,27 @@
   total_rating_count: 20
 - id: 1090
   name: Donkey Kong Country
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 86.06236450422759
   total_rating: 82.86451558544715
   total_rating_count: 179
 - franchise: 488
   id: 2473
   name: Disney's Aladdin
-  popularity: 3.039680293372056
+  popularity: 2.807562536358348
   rating: 82.5645571837105
   total_rating: 82.5645571837105
   total_rating_count: 48
 - franchise: 495
   id: 2472
   name: Prince of Persia
-  popularity: 3.257420894791603
+  popularity: 2.807562536358348
   rating: 82.2966579378346
   total_rating: 82.2966579378346
   total_rating_count: 109
 - id: 1655
   name: Final Fight
-  popularity: 3.898700229442497
+  popularity: 3.711343804537522
   rating: 82.107187683158
   total_rating: 82.107187683158
   total_rating_count: 43
@@ -466,7 +466,7 @@
   total_rating_count: 14
 - id: 3376
   name: Harvest Moon
-  popularity: 3.934647163229084
+  popularity: 3.711343804537522
   rating: 80.04032289556861
   total_rating: 80.04032289556861
   total_rating_count: 20
@@ -560,7 +560,7 @@
   total_rating_count: 61
 - id: 3166
   name: The Lion King
-  popularity: 3.708905073749924
+  popularity: 3.485398487492728
   rating: 76.9508017674631
   total_rating: 78.47540088373155
   total_rating_count: 69
@@ -587,7 +587,7 @@
 - franchise: 24
   id: 1067
   name: Super Mario Bros. 2
-  popularity: 4.851640824651071
+  popularity: 4.615125072716696
   rating: 78.03521302329129
   total_rating: 78.03521302329129
   total_rating_count: 197
@@ -617,7 +617,7 @@
   total_rating_count: 29
 - id: 248
   name: Populous
-  popularity: 2.580194626354122
+  popularity: 2.355671902268761
   rating: 77.0266918949967
   total_rating: 77.0266918949967
   total_rating_count: 13
@@ -649,7 +649,7 @@
 - franchise: 1017
   id: 330
   name: SimCity 2000
-  popularity: 2.812536858659328
+  popularity: 2.581617219313554
   rating: 81.8908313268621
   total_rating: 76.44541566343105
   total_rating_count: 63
@@ -662,7 +662,7 @@
   total_rating_count: 31
 - id: 18618
   name: Super Bomberman 3
-  popularity: 3.267050557995891
+  popularity: 3.937289121582316
   rating: 76.3679002656403
   total_rating: 76.3679002656403
   total_rating_count: 5
@@ -746,7 +746,7 @@
   total_rating_count: 23
 - id: 283
   name: Theme Park
-  popularity: 2.580194626354122
+  popularity: 2.807562536358348
   rating: 70.3333900644455
   total_rating: 74.66669503222275
   total_rating_count: 34
@@ -766,7 +766,7 @@
 - franchise: 5
   id: 4379
   name: Batman Returns
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 74.3642857230241
   total_rating: 74.3642857230241
   total_rating_count: 23
@@ -791,7 +791,7 @@
   total_rating_count: 40
 - id: 2907
   name: Killer Instinct
-  popularity: 2.114321189546046
+  popularity: 1.903781268179174
   rating: 76.66629023009621
   total_rating: 73.3331451150481
   total_rating_count: 36
@@ -818,13 +818,13 @@
   total_rating_count: 38
 - id: 18129
   name: Prince of Persia
-  popularity: 2.133155718540031
+  popularity: 1.903781268179174
   rating: 60.5515435469468
   total_rating: 71.9007717734734
   total_rating_count: 6
 - id: 3450
   name: Super Bomberman
-  popularity: 2.797362117657149
+  popularity: 2.581617219313554
   rating: 71.6084442619165
   total_rating: 71.6084442619165
   total_rating_count: 16
@@ -881,7 +881,7 @@
   total_rating_count: 11
 - id: 11616
   name: Soul Blazer
-  popularity: 1.906820223198356
+  popularity: 2.129726585223968
   rating: 70.1313068891017
   total_rating: 70.1313068891017
   total_rating_count: 10
@@ -956,7 +956,7 @@
 - franchise: 184
   id: 251
   name: Where in the World Is Carmen Sandiego?
-  popularity: 1.453262287416012
+  popularity: 1.677835951134381
   rating: 66.3371644012929
   total_rating: 68.16858220064645
   total_rating_count: 12
@@ -1047,7 +1047,7 @@
   total_rating_count: 14
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
@@ -1103,7 +1103,7 @@
   total_rating_count: 26
 - id: 4275
   name: Flashback
-  popularity: 3.934647163229084
+  popularity: 3.711343804537522
   rating: 79.9296994811576
   total_rating: 57.4648497405788
   total_rating_count: 34
@@ -1182,7 +1182,7 @@
 - franchise: 5
   id: 7769
   name: Batman Forever
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 48.0952347405453
   total_rating: 49.04761737027265
   total_rating_count: 11

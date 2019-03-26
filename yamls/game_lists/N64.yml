@@ -1,34 +1,34 @@
 - franchise: 832
   id: 3568
   name: 'Ogre Battle 64: Person of Lordly Caliber'
-  popularity: 12.78148958128563
+  popularity: 13.87888307155323
   rating: 99.6901310721837
   total_rating: 99.6901310721837
   total_rating_count: 5
 - id: 3418
   name: Banjo-Tooie
-  popularity: 3.720460669595068
+  popularity: 3.485398487492728
   rating: 94.6080344357845
   total_rating: 94.6080344357845
   total_rating_count: 66
 - franchise: 596
   id: 1029
   name: 'The Legend of Zelda: Ocarina of Time'
-  popularity: 16.36428155904596
+  popularity: 16.78065808070479
   rating: 92.5218468892384
   total_rating: 92.5218468892384
   total_rating_count: 793
 - franchise: 596
   id: 1030
   name: 'The Legend of Zelda: Majora''s Mask'
-  popularity: 7.100523560209425
+  popularity: 6.635949314537424
   rating: 89.4508827694425
   total_rating: 89.72544138472125
   total_rating_count: 236
 - franchise: 24
   id: 1074
   name: Super Mario 64
-  popularity: 18.3977894124491
+  popularity: 17.90784794361227
   rating: 90.0102381849523
   total_rating: 89.50511909247615
   total_rating_count: 634
@@ -41,7 +41,7 @@
   total_rating_count: 14
 - id: 3340
   name: Paper Mario
-  popularity: 4.625073717318656
+  popularity: 4.841070389761489
   rating: 88.3564196896937
   total_rating: 89.17820984484685
   total_rating_count: 78
@@ -67,13 +67,13 @@
   total_rating_count: 148
 - id: 2591
   name: Star Fox 64
-  popularity: 2.353917090407653
+  popularity: 2.129726585223968
   rating: 87.6430015390295
   total_rating: 87.32150076951476
   total_rating_count: 84
 - id: 705
   name: 'FIFA: Road to World Cup 98'
-  popularity: 3.257420894791603
+  popularity: 3.033507853403142
   rating: 87.2738293389834
   total_rating: 87.2738293389834
   total_rating_count: 32
@@ -86,7 +86,7 @@
 - franchise: 12
   id: 647
   name: Command & Conquer
-  popularity: 4.134857337825735
+  popularity: 4.389179755671902
   rating: 85.4321616485111
   total_rating: 85.4321616485111
   total_rating_count: 182
@@ -98,7 +98,7 @@
   total_rating_count: 5
 - id: 843
   name: 'Rayman 2: The Great Escape'
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 79.54493481654569
   total_rating: 84.77246740827285
   total_rating_count: 77
@@ -130,14 +130,14 @@
   total_rating_count: 151
 - id: 1286
   name: Conker's Bad Fur Day
-  popularity: 3.708905073749924
+  popularity: 4.163234438627109
   rating: 82.1699786650158
   total_rating: 82.1699786650158
   total_rating_count: 48
 - franchise: 24
   id: 2328
   name: Mario Party 2
-  popularity: 2.580194626354122
+  popularity: 2.807562536358348
   rating: 82.1186059734783
   total_rating: 82.1186059734783
   total_rating_count: 36
@@ -168,19 +168,19 @@
 - franchise: 24
   id: 2342
   name: Mario Kart 64
-  popularity: 4.400575836993836
+  popularity: 3.937289121582316
   rating: 81.7229529870502
   total_rating: 81.3614764935251
   total_rating_count: 208
 - id: 3489
   name: F-Zero X
-  popularity: 2.586935390597123
+  popularity: 3.033507853403142
   rating: 81.2575898802592
   total_rating: 81.2575898802592
   total_rating_count: 22
 - id: 2148
   name: Banjo-Kazooie
-  popularity: 4.853985948593014
+  popularity: 5.067015706806283
   rating: 84.0610940138349
   total_rating: 81.03054700691746
   total_rating_count: 123
@@ -198,7 +198,7 @@
   total_rating_count: 8
 - id: 1463
   name: Perfect Dark
-  popularity: 5.013584933074227
+  popularity: 5.292961023851077
   rating: 91.1661341075849
   total_rating: 80.58306705379245
   total_rating_count: 53
@@ -211,7 +211,7 @@
 - franchise: 1
   id: 163
   name: 'Star Wars: Rogue Squadron'
-  popularity: 3.483162984270763
+  popularity: 3.711343804537522
   rating: 80.253184426634
   total_rating: 80.253184426634
   total_rating_count: 45
@@ -235,7 +235,7 @@
   total_rating_count: 5
 - id: 699
   name: FIFA 99
-  popularity: 1.451484178958321
+  popularity: 1.0
   rating: 79.6749957877297
   total_rating: 79.6749957877297
   total_rating_count: 39
@@ -248,7 +248,7 @@
   total_rating_count: 11
 - id: 811
   name: NBA Live 99
-  popularity: 1.458139630299415
+  popularity: 1.677835951134381
   rating: 79.0061082448173
   total_rating: 79.0061082448173
   total_rating_count: 6
@@ -311,13 +311,13 @@
 - franchise: 1017
   id: 330
   name: SimCity 2000
-  popularity: 2.812536858659328
+  popularity: 2.581617219313554
   rating: 81.8908313268621
   total_rating: 76.44541566343105
   total_rating_count: 63
 - id: 6692
   name: Tony Hawk's Pro Skater
-  popularity: 2.586935390597123
+  popularity: 2.355671902268761
   rating: 82.8698037204887
   total_rating: 76.43490186024435
   total_rating_count: 66
@@ -355,7 +355,7 @@
 - franchise: 1
   id: 154
   name: 'Star Wars: Episode I - Racer'
-  popularity: 3.266311437080062
+  popularity: 2.581617219313554
   rating: 74.20694496640121
   total_rating: 74.6034724832006
   total_rating_count: 68
@@ -398,7 +398,7 @@
 - franchise: 24
   id: 2329
   name: Mario Party 3
-  popularity: 1.668592713727628
+  popularity: 1.903781268179174
   rating: 71.79556514966609
   total_rating: 71.79556514966609
   total_rating_count: 36
@@ -417,7 +417,7 @@
 - franchise: 153
   id: 3598
   name: Shadow Man
-  popularity: 2.580194626354122
+  popularity: 2.355671902268761
   rating: 72.1872325233816
   total_rating: 71.0936162616908
   total_rating_count: 18
@@ -592,7 +592,7 @@
   total_rating_count: 32
 - id: 2723
   name: Diddy Kong Racing
-  popularity: 2.803442887201762
+  popularity: 2.129726585223968
   rating: 77.5996127446194
   total_rating: 63.7998063723097
   total_rating_count: 65
@@ -681,10 +681,10 @@
 - franchise: 151
   id: 3603
   name: Spider-Man
-  popularity: 2.791347050186134
-  rating: 82.46226259851059
-  total_rating: 58.7311312992553
-  total_rating_count: 76
+  popularity: 3.259453170447935
+  rating: 82.4610085609688
+  total_rating: 58.7305042804844
+  total_rating_count: 77
 - id: 3586
   name: Ready 2 Rumble Boxing
   popularity: 3.266311437080062
@@ -737,13 +737,13 @@
 - franchise: 895
   id: 1130
   name: Castlevania
-  popularity: 1.895673525093067
+  popularity: 1.677835951134381
   rating: 26.4087648764939
   total_rating: 50.45438243824695
   total_rating_count: 19
 - id: 3440
   name: 'Army Men: Sarge''s Heroes'
-  popularity: 1.451305696802551
+  popularity: 1.0
   rating: 50.1279038508392
   total_rating: 50.1279038508392
   total_rating_count: 8

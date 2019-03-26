@@ -1,17 +1,17 @@
 - franchise: 44
   id: 14288
   name: Batman
-  popularity: 3.934647163229084
+  popularity: 4.163234438627109
   rating: 93.4655836770637
   total_rating: 93.4655836770637
   total_rating_count: 12
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 4614
   name: Galaxian
   popularity: 1.0
@@ -45,7 +45,7 @@
   total_rating_count: 21
 - id: 6790
   name: 'Double Dragon 2: The Revenge'
-  popularity: 2.586418005956044
+  popularity: 2.807562536358348
   rating: 83.62284450156571
   total_rating: 83.62284450156571
   total_rating_count: 30
@@ -63,13 +63,13 @@
   total_rating_count: 9
 - id: 6684
   name: Fantasy Zone
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   rating: 81.32672175011339
   total_rating: 81.32672175011339
   total_rating_count: 5
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -81,7 +81,7 @@
   total_rating_count: 11
 - id: 2051
   name: OutRun
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 79.695088860288
   total_rating: 79.695088860288
   total_rating_count: 22
@@ -118,7 +118,7 @@
   total_rating_count: 8
 - id: 6840
   name: R-Type
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 77.5727077907682
   total_rating: 77.5727077907682
   total_rating_count: 18
@@ -198,7 +198,7 @@
 - franchise: 845
   id: 1086
   name: Donkey Kong
-  popularity: 3.483162984270763
+  popularity: 3.259453170447935
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -381,7 +381,7 @@
   total_rating_count: 8
 - id: 6787
   name: Double Dragon
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61

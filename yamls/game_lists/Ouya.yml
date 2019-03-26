@@ -1,13 +1,13 @@
 - franchise: 5
   id: 500
   name: 'Batman: Arkham Asylum'
-  popularity: 13.42699243746364
+  popularity: 13.62452646456383
   rating: 87.5671254139691
   total_rating: 88.48356270698454
   total_rating_count: 998
 - id: 13171
   name: Read Only Memories
-  popularity: 6.664177683310399
+  popularity: 6.635949314537424
   rating: 93.4034151751711
   total_rating: 87.98742187329985
   total_rating_count: 21
@@ -19,13 +19,13 @@
   total_rating_count: 39
 - id: 9806
   name: Hyper Light Drifter
-  popularity: 24.33641205523885
+  popularity: 23.82047702152414
   rating: 83.0567340880115
   total_rating: 85.9829124985512
   total_rating_count: 87
 - id: 11247
   name: Duck Game
-  popularity: 6.437610575977983
+  popularity: 6.410511341955926
   rating: 86.7772834654609
   total_rating: 85.55530839939709
   total_rating_count: 25
@@ -44,7 +44,7 @@
 - franchise: 39
   id: 3097
   name: 'The Walking Dead: Season Two'
-  popularity: 7.797013219972479
+  popularity: 7.326468877254218
   rating: 81.1615622206898
   total_rating: 81.15022555478936
   total_rating_count: 383
@@ -80,7 +80,7 @@
   total_rating_count: 22
 - id: 9418
   name: Back to Bed
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 71.6272188025625
   total_rating: 71.81360940128124
   total_rating_count: 10
@@ -104,7 +104,7 @@
   total_rating_count: 6
 - id: 9369
   name: Whispering Willows
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 60.0870646766169
   total_rating: 64.3768656716418
   total_rating_count: 8

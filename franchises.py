@@ -4,12 +4,12 @@ import games
 import processor
 
 class Franchises():
-    
+
     def __init__(self, platform_id):
         self.platform_id = platform_id
         return
-    
-    
+
+
     def get_largest_franchise_ids(self):
         """ Uses the list of games to find the highest occuring franchise IDs"""
         franchise_ids_list = []
@@ -37,10 +37,10 @@ class Franchises():
             franchise_list.append(api_data.ApiData("franchises", payload).get_api_data())
             ids = ids[10:]
         return franchise_list
-        
+
     #def get_franchise_list(self):
     #    """ Loads the entire franchise list as a yaml file """
     #    with open("./yamls/franchise_list.yml", 'r') as data:
     #        y = yaml.load(data)
     #    return y
-        
+

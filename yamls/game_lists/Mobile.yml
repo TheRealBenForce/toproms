@@ -1,25 +1,25 @@
 - id: 12198
   name: 'Umineko: When They Cry'
-  popularity: 9.609550078631807
+  popularity: 8.908086096567772
   rating: 99.79777285109171
   total_rating: 89.89888642554585
   total_rating_count: 15
 - id: 1459
   name: LocoRoco
-  popularity: 3.483162984270763
+  popularity: 3.033507853403142
   rating: 87.08409498062069
   total_rating: 89.04204749031035
   total_rating_count: 18
 - franchise: 38
   id: 1722
   name: Mega Man 9
-  popularity: 2.813640446396712
+  popularity: 2.355671902268761
   rating: 89.6662948372823
   total_rating: 88.61886170435545
   total_rating_count: 23
 - id: 4348
   name: Another World
-  popularity: 4.39850660998624
+  popularity: 3.937289121582316
   rating: 87.8701831338687
   total_rating: 87.8701831338687
   total_rating_count: 53
@@ -39,7 +39,7 @@
   total_rating_count: 36
 - id: 1397
   name: Professor Layton and the Curious Village
-  popularity: 2.782913903273674
+  popularity: 2.581617219313554
   rating: 81.58213277887681
   total_rating: 84.54106638943841
   total_rating_count: 62
@@ -58,7 +58,7 @@
 - franchise: 1163
   id: 1426
   name: 'Phoenix Wright: Ace Attorney'
-  popularity: 5.984476361313151
+  popularity: 5.51890634089587
   rating: 86.0087994918595
   total_rating: 83.00439974592976
   total_rating_count: 101
@@ -77,13 +77,13 @@
   total_rating_count: 8
 - id: 15455
   name: 'Ys: The Oath in Felghana'
-  popularity: 2.354452536874962
+  popularity: 3.033507853403142
   rating: 80.00476929633831
   total_rating: 81.50238464816915
   total_rating_count: 12
 - id: 4648
   name: Pro Evolution Soccer 2009
-  popularity: 2.114321189546046
+  popularity: 1.451890634089587
   rating: 72.9983449109708
   total_rating: 81.4991724554854
   total_rating_count: 23
@@ -95,14 +95,14 @@
   total_rating_count: 37
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
 - franchise: 495
   id: 2437
   name: 'Prince of Persia: The Two Thrones'
-  popularity: 6.437610575977983
+  popularity: 6.19674229203025
   rating: 80.3974863322395
   total_rating: 80.19874316611975
   total_rating_count: 158
@@ -211,21 +211,21 @@
 - franchise: 38
   id: 1717
   name: Mega Man 4
-  popularity: 2.337185427455256
+  popularity: 2.581617219313554
   rating: 71.6633895838491
   total_rating: 71.6633895838491
   total_rating_count: 38
 - franchise: 994
   id: 1966
   name: 'Rayman 3: Hoodlum Havoc'
-  popularity: 3.039103965991744
+  popularity: 3.259453170447935
   rating: 76.8156217493631
   total_rating: 70.90781087468156
   total_rating_count: 49
 - franchise: 4
   id: 385
   name: Final Fantasy
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 70.1234910897716
   total_rating: 70.06174554488581
   total_rating_count: 87
@@ -250,7 +250,7 @@
   total_rating_count: 15
 - id: 3753
   name: Zuma
-  popularity: 1.897949944634434
+  popularity: 1.677835951134381
   rating: 68.9009683032564
   total_rating: 68.4504841516282
   total_rating_count: 22
@@ -271,14 +271,14 @@
 - franchise: 133
   id: 4906
   name: Harry Potter and the Half-Blood Prince
-  popularity: 2.586418005956044
+  popularity: 3.259453170447935
   rating: 68.9155993476289
   total_rating: 67.24351395952874
   total_rating_count: 32
 - franchise: 769
   id: 26841
   name: Fire Emblem Heroes
-  popularity: 11.92779368759186
+  popularity: 11.6194299011053
   rating: 56.8427825099947
   total_rating: 65.85889125499735
   total_rating_count: 32
@@ -292,7 +292,7 @@
 - franchise: 814
   id: 5169
   name: Sonic Unleashed
-  popularity: 2.560049665364465
+  popularity: 2.807562536358348
   rating: 65.4683930633198
   total_rating: 65.65086319832655
   total_rating_count: 47
@@ -424,7 +424,7 @@
 - franchise: 320
   id: 4935
   name: Iron Man
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 59.0211708850881
   total_rating: 44.51058544254405
   total_rating_count: 16

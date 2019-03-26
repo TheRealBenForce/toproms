@@ -18,10 +18,10 @@
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 4929
   name: Impossible Mission
   popularity: 1.0
@@ -92,13 +92,13 @@
   total_rating_count: 7
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
 - id: 2906
   name: Leisure Suit Larry in the Land of the Lounge Lizards
-  popularity: 1.891456951636837
+  popularity: 1.677835951134381
   rating: 80.19099373784141
   total_rating: 80.19099373784141
   total_rating_count: 13
@@ -172,7 +172,7 @@
   total_rating_count: 40
 - id: 2727
   name: Castle Wolfenstein
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   rating: 75.7568447903171
   total_rating: 75.7568447903171
   total_rating_count: 5
@@ -184,7 +184,7 @@
   total_rating_count: 7
 - id: 892
   name: 'King''s Quest: Quest for the Crown'
-  popularity: 2.805936715833282
+  popularity: 2.581617219313554
   rating: 75.7007783052241
   total_rating: 75.7007783052241
   total_rating_count: 11
@@ -251,7 +251,7 @@
 - franchise: 845
   id: 1086
   name: Donkey Kong
-  popularity: 3.483162984270763
+  popularity: 3.259453170447935
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -343,7 +343,7 @@
 - franchise: 184
   id: 251
   name: Where in the World Is Carmen Sandiego?
-  popularity: 1.453262287416012
+  popularity: 1.677835951134381
   rating: 66.3371644012929
   total_rating: 68.16858220064645
   total_rating_count: 12
@@ -361,7 +361,7 @@
   total_rating_count: 7
 - id: 11762
   name: Paperboy
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29

@@ -41,7 +41,7 @@
   total_rating_count: 9
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -109,13 +109,13 @@
 - franchise: 24
   id: 3105
   name: Mario Bros.
-  popularity: 4.611873431666565
+  popularity: 4.841070389761489
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
 - id: 2727
   name: Castle Wolfenstein
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   rating: 75.7568447903171
   total_rating: 75.7568447903171
   total_rating_count: 5
@@ -164,7 +164,7 @@
 - franchise: 845
   id: 1086
   name: Donkey Kong
-  popularity: 3.483162984270763
+  popularity: 3.259453170447935
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -182,7 +182,7 @@
   total_rating_count: 8
 - id: 2872
   name: Rogue
-  popularity: 2.128710447395802
+  popularity: 1.677835951134381
   rating: 70.8038771014285
   total_rating: 70.8038771014285
   total_rating_count: 7
@@ -218,7 +218,7 @@
   total_rating_count: 6
 - id: 5691
   name: Pole Position
-  popularity: 1.902968357916641
+  popularity: 1.677835951134381
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15

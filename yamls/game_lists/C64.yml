@@ -12,7 +12,7 @@
 - franchise: 44
   id: 14288
   name: Batman
-  popularity: 3.934647163229084
+  popularity: 4.163234438627109
   rating: 93.4655836770637
   total_rating: 93.4655836770637
   total_rating_count: 12
@@ -37,10 +37,10 @@
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 4929
   name: Impossible Mission
   popularity: 1.0
@@ -118,13 +118,13 @@
 - franchise: 792
   id: 3186
   name: Street Fighter II
-  popularity: 7.100523560209425
+  popularity: 7.326468877254218
   rating: 84.0702813240752
   total_rating: 84.0702813240752
   total_rating_count: 145
 - id: 6790
   name: 'Double Dragon 2: The Revenge'
-  popularity: 2.586418005956044
+  popularity: 2.807562536358348
   rating: 83.62284450156571
   total_rating: 83.62284450156571
   total_rating_count: 30
@@ -155,7 +155,7 @@
   total_rating_count: 12
 - id: 1655
   name: Final Fight
-  popularity: 3.898700229442497
+  popularity: 3.711343804537522
   rating: 82.107187683158
   total_rating: 82.107187683158
   total_rating_count: 43
@@ -167,7 +167,7 @@
   total_rating_count: 9
 - id: 7628
   name: The NewZealand Story
-  popularity: 2.339613659251121
+  popularity: 1.451890634089587
   rating: 81.67716889527901
   total_rating: 81.67716889527901
   total_rating_count: 9
@@ -179,13 +179,13 @@
   total_rating_count: 7
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
 - id: 6807
   name: Ghosts 'n Goblins
-  popularity: 1.447836762546534
+  popularity: 1.0
   rating: 70.2181936544159
   total_rating: 80.10909682720795
   total_rating_count: 29
@@ -258,7 +258,7 @@
   total_rating_count: 5
 - id: 2051
   name: OutRun
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 79.695088860288
   total_rating: 79.695088860288
   total_rating_count: 22
@@ -270,7 +270,7 @@
   total_rating_count: 11
 - id: 6145
   name: Super Hang-On
-  popularity: 1.891456951636837
+  popularity: 1.677835951134381
   rating: 79.3372764694773
   total_rating: 79.3372764694773
   total_rating_count: 15
@@ -313,7 +313,7 @@
   total_rating_count: 8
 - id: 6840
   name: R-Type
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 77.5727077907682
   total_rating: 77.5727077907682
   total_rating_count: 18
@@ -338,7 +338,7 @@
 - franchise: 24
   id: 3105
   name: Mario Bros.
-  popularity: 4.611873431666565
+  popularity: 4.841070389761489
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
@@ -356,7 +356,7 @@
   total_rating_count: 6
 - id: 2727
   name: Castle Wolfenstein
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   rating: 75.7568447903171
   total_rating: 75.7568447903171
   total_rating_count: 5
@@ -475,7 +475,7 @@
 - franchise: 845
   id: 1086
   name: Donkey Kong
-  popularity: 3.483162984270763
+  popularity: 3.259453170447935
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -553,7 +553,7 @@
   total_rating_count: 17
 - id: 2872
   name: Rogue
-  popularity: 2.128710447395802
+  popularity: 1.677835951134381
   rating: 70.8038771014285
   total_rating: 70.8038771014285
   total_rating_count: 7
@@ -578,7 +578,7 @@
 - franchise: 792
   id: 6930
   name: Street Fighter
-  popularity: 2.355671902268761
+  popularity: 2.129726585223968
   rating: 70.2531525406327
   total_rating: 70.2531525406327
   total_rating_count: 28
@@ -596,7 +596,7 @@
   total_rating_count: 11
 - id: 11675
   name: Ski or Die
-  popularity: 1.680115167398767
+  popularity: 1.451890634089587
   rating: 70.0967329483772
   total_rating: 70.0967329483772
   total_rating_count: 6
@@ -638,7 +638,7 @@
   total_rating_count: 6
 - id: 12857
   name: Space Harrier
-  popularity: 1.668592713727628
+  popularity: 1.451890634089587
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6
@@ -697,7 +697,7 @@
 - franchise: 184
   id: 251
   name: Where in the World Is Carmen Sandiego?
-  popularity: 1.453262287416012
+  popularity: 1.677835951134381
   rating: 66.3371644012929
   total_rating: 68.16858220064645
   total_rating_count: 12
@@ -715,7 +715,7 @@
   total_rating_count: 7
 - id: 4598
   name: Contra
-  popularity: 8.703281649302141
+  popularity: 8.908086096567772
   rating: 85.43287506412429
   total_rating: 67.71643753206214
   total_rating_count: 111
@@ -728,7 +728,7 @@
   total_rating_count: 23
 - id: 5691
   name: Pole Position
-  popularity: 1.902968357916641
+  popularity: 1.677835951134381
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15
@@ -746,7 +746,7 @@
   total_rating_count: 7
 - id: 11762
   name: Paperboy
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29
@@ -857,7 +857,7 @@
   total_rating_count: 8
 - id: 6787
   name: Double Dragon
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61

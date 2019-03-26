@@ -13,20 +13,20 @@
 - franchise: 895
   id: 1139
   name: 'Castlevania: Rondo of Blood'
-  popularity: 4.163234438627109
+  popularity: 5.067015706806283
   rating: 86.1385964421867
   total_rating: 86.1385964421867
   total_rating_count: 27
 - id: 6790
   name: 'Double Dragon 2: The Revenge'
-  popularity: 2.586418005956044
+  popularity: 2.807562536358348
   rating: 83.62284450156571
   total_rating: 83.62284450156571
   total_rating_count: 30
 - franchise: 447
   id: 7558
   name: Ninja Gaiden
-  popularity: 4.625073717318656
+  popularity: 4.389179755671902
   rating: 82.90804518404829
   total_rating: 82.90804518404829
   total_rating_count: 35
@@ -38,19 +38,19 @@
   total_rating_count: 7
 - id: 7628
   name: The NewZealand Story
-  popularity: 2.339613659251121
+  popularity: 1.451890634089587
   rating: 81.67716889527901
   total_rating: 81.67716889527901
   total_rating_count: 9
 - id: 5451
   name: Snatcher
-  popularity: 1.680115167398767
+  popularity: 1.903781268179174
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
 - id: 6684
   name: Fantasy Zone
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   rating: 81.32672175011339
   total_rating: 81.32672175011339
   total_rating_count: 5
@@ -87,25 +87,25 @@
   total_rating_count: 9
 - id: 2051
   name: OutRun
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 79.695088860288
   total_rating: 79.695088860288
   total_rating_count: 22
 - id: 9540
   name: Wonder Boy in Monster World
-  popularity: 2.346924916951652
+  popularity: 2.129726585223968
   rating: 78.6844373852263
   total_rating: 78.6844373852263
   total_rating_count: 5
 - id: 6840
   name: R-Type
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 77.5727077907682
   total_rating: 77.5727077907682
   total_rating_count: 18
 - id: 248
   name: Populous
-  popularity: 2.580194626354122
+  popularity: 2.355671902268761
   rating: 77.0266918949967
   total_rating: 77.0266918949967
   total_rating_count: 13
@@ -136,7 +136,7 @@
 - franchise: 792
   id: 6930
   name: Street Fighter
-  popularity: 2.355671902268761
+  popularity: 2.129726585223968
   rating: 70.2531525406327
   total_rating: 70.2531525406327
   total_rating_count: 28
@@ -154,7 +154,7 @@
   total_rating_count: 6
 - id: 12857
   name: Space Harrier
-  popularity: 1.668592713727628
+  popularity: 1.451890634089587
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6

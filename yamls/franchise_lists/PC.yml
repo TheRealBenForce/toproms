@@ -2,8 +2,6 @@
     name: Dungeons & Dragons
   - id: 5
     name: Batman
-  - id: 1241
-    name: The Banner Saga
   - id: 135
     name: Warcraft
   - id: 1
@@ -12,6 +10,8 @@
     name: starcraft
   - id: 1043
     name: Forza
+  - id: 571
+    name: Assassin's Creed
   - id: 452
     name: The Witcher
   - id: 458
@@ -24,6 +24,8 @@
     name: Dying Light
   - id: 16
     name: NBA
+  - id: 1241
+    name: The Banner Saga
   - id: 4
     name: Final Fantasy
   - id: 29
@@ -36,8 +38,6 @@
     name: Half-Life
   - id: 493
     name: Grand theft Auto
-  - id: 824
-    name: Monster Hunter
 - - id: 509
     name: Warhammer
   - id: 100
@@ -50,7 +50,7 @@
     name: Valkyria
   - id: 875
     name: Fate
-  - id: 571
-    name: Assassin's Creed
   - id: 465
     name: La-Mulana
+  - id: 824
+    name: Monster Hunter

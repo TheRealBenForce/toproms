@@ -6,7 +6,7 @@
   total_rating_count: 85
 - id: 13257
   name: 'Sensible Soccer: European Champions'
-  popularity: 1.6717551438198
+  popularity: 1.451890634089587
   rating: 89.97136419797951
   total_rating: 89.97136419797951
   total_rating_count: 5
@@ -24,7 +24,7 @@
   total_rating_count: 10
 - id: 1089
   name: Donkey Kong
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 86.44902811463129
   total_rating: 88.22451405731564
   total_rating_count: 21
@@ -43,7 +43,7 @@
   total_rating_count: 6
 - id: 705
   name: 'FIFA: Road to World Cup 98'
-  popularity: 3.257420894791603
+  popularity: 3.033507853403142
   rating: 87.2738293389834
   total_rating: 87.2738293389834
   total_rating_count: 32
@@ -69,13 +69,13 @@
   total_rating_count: 7
 - id: 20461
   name: Tennis
-  popularity: 1.447279947377397
+  popularity: 1.677835951134381
   rating: 86.2371829272662
   total_rating: 86.2371829272662
   total_rating_count: 11
 - id: 1028
   name: 'The Legend of Zelda: Link''s Awakening'
-  popularity: 3.257420894791603
+  popularity: 3.485398487492728
   rating: 86.0920515414572
   total_rating: 86.0920515414572
   total_rating_count: 88
@@ -94,14 +94,14 @@
 - franchise: 26
   id: 6487
   name: DuckTales
-  popularity: 1.906820223198356
+  popularity: 2.355671902268761
   rating: 83.75556727464429
   total_rating: 84.87778363732215
   total_rating_count: 63
 - franchise: 792
   id: 3186
   name: Street Fighter II
-  popularity: 7.100523560209425
+  popularity: 7.326468877254218
   rating: 84.0702813240752
   total_rating: 84.0702813240752
   total_rating_count: 145
@@ -114,7 +114,7 @@
 - franchise: 502
   id: 8449
   name: Felix the Cat
-  popularity: 1.445728475818419
+  popularity: 1.677835951134381
   rating: 83.2717374234413
   total_rating: 83.2717374234413
   total_rating_count: 8
@@ -127,14 +127,14 @@
 - franchise: 495
   id: 2472
   name: Prince of Persia
-  popularity: 3.257420894791603
+  popularity: 2.807562536358348
   rating: 82.2966579378346
   total_rating: 82.2966579378346
   total_rating_count: 109
 - franchise: 60
   id: 1512
   name: "Pok\xE9mon Yellow"
-  popularity: 7.570446112640063
+  popularity: 8.004304828388598
   rating: 84.0860554695173
   total_rating: 82.04302773475865
   total_rating_count: 168
@@ -148,13 +148,13 @@
 - franchise: 26
   id: 8118
   name: Disney's Aladdin
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 83.0967673362056
   total_rating: 81.5483836681028
   total_rating_count: 58
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -174,7 +174,7 @@
 - franchise: 60
   id: 1561
   name: "Pok\xE9mon Red"
-  popularity: 10.51581850796147
+  popularity: 10.03781268179174
   rating: 85.58626056764959
   total_rating: 80.2931302838248
   total_rating_count: 202
@@ -186,7 +186,7 @@
   total_rating_count: 23
 - id: 3718
   name: Kirby's Dream Land 2
-  popularity: 1.680115167398767
+  popularity: 1.903781268179174
   rating: 80.04390010479611
   total_rating: 80.04390010479611
   total_rating_count: 14
@@ -288,13 +288,13 @@
 - franchise: 24
   id: 1072
   name: 'Wario Land: Super Mario Land 3'
-  popularity: 1.668592713727628
+  popularity: 1.903781268179174
   rating: 78.4825771753671
   total_rating: 78.4825771753671
   total_rating_count: 42
 - id: 3166
   name: The Lion King
-  popularity: 3.708905073749924
+  popularity: 3.485398487492728
   rating: 76.9508017674631
   total_rating: 78.47540088373155
   total_rating_count: 69
@@ -307,10 +307,10 @@
 - franchise: 789
   id: 1063
   name: Kirby's Dream Land
-  popularity: 1.0
-  rating: 78.184244705762
-  total_rating: 78.184244705762
-  total_rating_count: 34
+  popularity: 1.451890634089587
+  rating: 78.1823284264092
+  total_rating: 78.1823284264092
+  total_rating_count: 35
 - franchise: 416
   id: 6480
   name: The Jungle Book
@@ -334,13 +334,13 @@
 - franchise: 24
   id: 1697
   name: Wario Land II
-  popularity: 1.668592713727628
+  popularity: 1.903781268179174
   rating: 77.6293446473616
   total_rating: 77.6293446473616
   total_rating_count: 9
 - id: 6840
   name: R-Type
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 77.5727077907682
   total_rating: 77.5727077907682
   total_rating_count: 18
@@ -421,7 +421,7 @@
   total_rating_count: 5
 - id: 2907
   name: Killer Instinct
-  popularity: 2.114321189546046
+  popularity: 1.903781268179174
   rating: 76.66629023009621
   total_rating: 73.3331451150481
   total_rating_count: 36
@@ -441,7 +441,7 @@
 - franchise: 1056
   id: 10510
   name: 'Batman: The Video Game'
-  popularity: 3.257420894791603
+  popularity: 3.485398487492728
   rating: 72.2159567772939
   total_rating: 72.2159567772939
   total_rating_count: 26
@@ -465,7 +465,7 @@
   total_rating_count: 5
 - id: 86490
   name: Tetris
-  popularity: 3.267050557995891
+  popularity: 3.033507853403142
   rating: 71.4707254584969
   total_rating: 71.4707254584969
   total_rating_count: 12
@@ -523,7 +523,7 @@
   total_rating_count: 6
 - id: 3249
   name: Road Rash
-  popularity: 1.906820223198356
+  popularity: 2.129726585223968
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
@@ -588,7 +588,7 @@
   total_rating_count: 11
 - id: 11762
   name: Paperboy
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29
@@ -652,7 +652,7 @@
   total_rating_count: 14
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
@@ -729,7 +729,7 @@
   total_rating_count: 10
 - id: 6787
   name: Double Dragon
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61
@@ -781,7 +781,7 @@
 - franchise: 5
   id: 7769
   name: Batman Forever
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 48.0952347405453
   total_rating: 49.04761737027265
   total_rating_count: 11

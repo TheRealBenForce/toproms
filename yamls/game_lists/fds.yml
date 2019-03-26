@@ -1,7 +1,7 @@
 - franchise: 38
   id: 1715
   name: Mega Man 2
-  popularity: 8.703281649302141
+  popularity: 8.230250145433391
   rating: 89.0543731034422
   total_rating: 89.0543731034422
   total_rating_count: 150
@@ -13,20 +13,20 @@
   total_rating_count: 19
 - id: 20461
   name: Tennis
-  popularity: 1.447279947377397
+  popularity: 1.677835951134381
   rating: 86.2371829272662
   total_rating: 86.2371829272662
   total_rating_count: 11
 - franchise: 24
   id: 358
   name: Super Mario Bros.
-  popularity: 15.50029486927462
+  popularity: 15.0086096567772
   rating: 84.70097986138329
   total_rating: 84.70097986138329
   total_rating_count: 530
 - id: 1022
   name: The Legend of Zelda
-  popularity: 14.82059354727737
+  popularity: 15.0086096567772
   rating: 84.66352977589709
   total_rating: 84.66352977589709
   total_rating_count: 317
@@ -40,20 +40,20 @@
 - franchise: 447
   id: 7558
   name: Ninja Gaiden
-  popularity: 4.625073717318656
+  popularity: 4.389179755671902
   rating: 82.90804518404829
   total_rating: 82.90804518404829
   total_rating_count: 35
 - franchise: 38
   id: 1716
   name: Mega Man 3
-  popularity: 2.119591906366334
+  popularity: 2.355671902268761
   rating: 81.5949102081203
   total_rating: 81.5949102081203
   total_rating_count: 62
 - id: 6558
   name: River City Ransom
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 91.1684041322506
   total_rating: 81.0842020661253
   total_rating_count: 12
@@ -78,7 +78,7 @@
 - franchise: 38
   id: 1714
   name: Mega Man
-  popularity: 3.947165725394658
+  popularity: 4.163234438627109
   rating: 79.3859092940213
   total_rating: 79.3859092940213
   total_rating_count: 89
@@ -108,14 +108,14 @@
   total_rating_count: 31
 - id: 1025
   name: 'Zelda II: The Adventure of Link'
-  popularity: 4.160389252708244
+  popularity: 4.389179755671902
   rating: 73.6594648723418
   total_rating: 73.6594648723418
   total_rating_count: 99
 - franchise: 845
   id: 1086
   name: Donkey Kong
-  popularity: 3.483162984270763
+  popularity: 3.259453170447935
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -143,7 +143,7 @@
 - franchise: 895
   id: 1116
   name: 'Castlevania II: Simon''s Quest'
-  popularity: 4.39850660998624
+  popularity: 4.841070389761489
   rating: 68.5401224237404
   total_rating: 68.5401224237404
   total_rating_count: 35
@@ -155,7 +155,7 @@
   total_rating_count: 6
 - id: 4598
   name: Contra
-  popularity: 8.703281649302141
+  popularity: 8.908086096567772
   rating: 85.43287506412429
   total_rating: 67.71643753206214
   total_rating_count: 111

@@ -38,13 +38,13 @@ class Processor():
             best_list = []
             logging.info(u'PROCESSING: {}'.format(g.get_console_name()))
             for t in top_list:
-                game = self.convert_to_romans(t['name'])
+                game = self.santize_string(t['name'])
                 try:
                     highest = process.extractOne(game, clean_file_list)
                     score = str(highest[1])
                     idx = clean_file_list.index(highest[0])
                     filename = file_list[idx]
-                    if int(score) > 85:
+                    if int(score) >= 90:
                         logging.info(u'MATCHED: {} | {} | high score {}'.format(t['name'], filename, score))
                         best_list.append(filename)
                         total += 1
@@ -65,15 +65,18 @@ class Processor():
         return string.strip()
 
 
-    #def remove_common_words(self, string):
-    #    """ Removes most commond words from a string"""
-    #    common = [
-    #        "the", "be", "to", "of", "and", 
-    #        "a", "in", "that", "have", "I", 
-    #        "it", "for", "not", "on", "with", 
-    #        "he", "as", "you", "do", "at"
-    #        ]
-    #    return string
+    def remove_common_words(self, string):
+        """ 
+        Removes known words that is occasionally ommitted from a title to 
+        improve score.  
+        """
+        common = [
+            "the"
+            ]
+        arr = re.split('\W+', string.lower())
+        arr = [word for word in arr if word not in common]
+        string = ' '.join(arr)
+        return string
 
 
     def convert_to_romans(self, string):
@@ -107,4 +110,5 @@ class Processor():
         """Runs all sanitation methods against string"""
         string = self.trim_filename(string)
         string = self.convert_to_romans(string)
+        string = self.remove_common_words(string)
         return string

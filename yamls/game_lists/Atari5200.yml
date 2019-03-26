@@ -18,7 +18,7 @@
   total_rating_count: 9
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -44,7 +44,7 @@
 - franchise: 24
   id: 3105
   name: Mario Bros.
-  popularity: 4.611873431666565
+  popularity: 4.841070389761489
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
@@ -104,7 +104,7 @@
   total_rating_count: 6
 - id: 5691
   name: Pole Position
-  popularity: 1.902968357916641
+  popularity: 1.677835951134381
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15

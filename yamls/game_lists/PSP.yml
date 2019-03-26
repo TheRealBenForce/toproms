@@ -1,7 +1,7 @@
 - franchise: 832
   id: 5550
   name: 'Tactics Ogre: Let Us Cling Together'
-  popularity: 51.97759914979359
+  popularity: 50.48202443280978
   rating: 99.9209932715109
   total_rating: 95.96049663575545
   total_rating_count: 16
@@ -20,7 +20,7 @@
   total_rating_count: 7
 - id: 12198
   name: 'Umineko: When They Cry'
-  popularity: 9.609550078631807
+  popularity: 8.908086096567772
   rating: 99.79777285109171
   total_rating: 89.89888642554585
   total_rating_count: 15
@@ -38,38 +38,38 @@
   total_rating_count: 8
 - id: 7194
   name: Steins;Gate
-  popularity: 11.87522115195597
+  popularity: 12.07132053519488
   rating: 98.5404273080295
   total_rating: 89.27021365401475
   total_rating_count: 32
 - id: 2054
   name: 'OutRun 2006: Coast 2 Coast'
-  popularity: 1.906524574832025
+  popularity: 1.677835951134381
   rating: 88.1654576442567
   total_rating: 89.08272882212836
   total_rating_count: 18
 - id: 1459
   name: LocoRoco
-  popularity: 3.483162984270763
+  popularity: 3.033507853403142
   rating: 87.08409498062069
   total_rating: 89.04204749031035
   total_rating_count: 18
 - franchise: 592
   id: 11416
   name: Persona 3 Portable
-  popularity: 3.451506617001302
+  popularity: 3.259453170447935
   rating: 84.6234136789025
   total_rating: 88.93670683945125
   total_rating_count: 40
 - id: 2216
   name: Vagrant Story
-  popularity: 3.934647163229084
+  popularity: 3.711343804537522
   rating: 88.749636109898
   total_rating: 88.749636109898
   total_rating_count: 14
 - id: 1058
   name: LittleBigPlanet
-  popularity: 2.119591906366334
+  popularity: 1.903781268179174
   rating: 79.8263314268538
   total_rating: 87.9131657134269
   total_rating_count: 137
@@ -103,7 +103,7 @@
 - franchise: 855
   id: 8986
   name: 'The Legend of Heroes: Trails in the Sky'
-  popularity: 6.874578243164631
+  popularity: 7.326468877254218
   rating: 88.5120456885027
   total_rating: 86.75602284425135
   total_rating_count: 20
@@ -147,7 +147,7 @@
   total_rating_count: 7
 - id: 9694
   name: 'Danganronpa 2: Goodbye Despair'
-  popularity: 6.664177683310399
+  popularity: 5.744851657940663
   rating: 87.56792630538699
   total_rating: 86.2839631526935
   total_rating_count: 55
@@ -166,7 +166,7 @@
   total_rating_count: 12
 - id: 1224
   name: Kingdom Hearts Birth by Sleep
-  popularity: 4.629927198288467
+  popularity: 4.163234438627109
   rating: 89.44906886702279
   total_rating: 86.05786776684474
   total_rating_count: 54
@@ -196,7 +196,7 @@
   total_rating_count: 7
 - id: 7842
   name: 'Danganronpa: Trigger Happy Havoc'
-  popularity: 10.06268429329664
+  popularity: 8.908086096567772
   rating: 88.8945904450417
   total_rating: 85.6139618891875
   total_rating_count: 77
@@ -224,7 +224,7 @@
 - franchise: 552
   id: 21842
   name: 'Shin Megami Tensei: Persona'
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 80.5328698414456
   total_rating: 85.2664349207228
   total_rating_count: 8
@@ -254,7 +254,7 @@
   total_rating_count: 10
 - id: 5216
   name: 'Tenchu: Shadow Assassins'
-  popularity: 1.453410111599178
+  popularity: 1.677835951134381
   rating: 89.60998324020738
   total_rating: 84.80499162010369
   total_rating_count: 7
@@ -271,7 +271,7 @@
   total_rating_count: 14
 - id: 98
   name: 'Need for Speed: Most Wanted'
-  popularity: 7.117311897975231
+  popularity: 7.326468877254218
   rating: 84.513440249161
   total_rating: 84.61386298172334
   total_rating_count: 328
@@ -302,7 +302,7 @@
   total_rating_count: 113
 - id: 4115
   name: Syphon Filter
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   rating: 77.6087214344702
   total_rating: 83.8043607172351
   total_rating_count: 38
@@ -312,21 +312,21 @@
   rating: 75.0397904552788
   total_rating: 83.76989522763941
   total_rating_count: 9
+- id: 13909
+  name: 'Lunar: Silver Star Harmony'
+  popularity: 1.891456951636837
+  total_rating: 83.75
+  total_rating_count: 5
 - id: 5099
   name: 'Pinball Hall of Fame: The Williams Collection'
   popularity: 1.451484178958321
   rating: 87.0
   total_rating: 83.75
   total_rating_count: 6
-- id: 13909
-  name: 'Lunar: Silver Star Harmony'
-  popularity: 1.891456951636837
-  total_rating: 83.75
-  total_rating_count: 5
 - franchise: 224
   id: 4042
   name: NFL Street 2
-  popularity: 1.906820223198356
+  popularity: 2.129726585223968
   rating: 89.9272940857158
   total_rating: 83.7136470428579
   total_rating_count: 9
@@ -344,7 +344,7 @@
   total_rating_count: 6
 - id: 7016
   name: 'IL-2 Sturmovik: Birds of Prey'
-  popularity: 1.903319569789175
+  popularity: 1.451890634089587
   rating: 89.84665234282559
   total_rating: 83.2983261714128
   total_rating_count: 12
@@ -367,7 +367,7 @@
   total_rating_count: 10
 - id: 7812
   name: Patapon
-  popularity: 1.895673525093067
+  popularity: 1.677835951134381
   rating: 76.8553360777767
   total_rating: 82.594334705555
   total_rating_count: 15
@@ -400,7 +400,7 @@
   total_rating_count: 13
 - id: 1655
   name: Final Fight
-  popularity: 3.898700229442497
+  popularity: 3.711343804537522
   rating: 82.107187683158
   total_rating: 82.107187683158
   total_rating_count: 43
@@ -413,7 +413,7 @@
   total_rating_count: 7
 - id: 2150
   name: Split/Second
-  popularity: 2.354452536874962
+  popularity: 2.581617219313554
   rating: 81.9278615794291
   total_rating: 81.8805974563812
   total_rating_count: 41
@@ -451,7 +451,7 @@
   total_rating_count: 8
 - id: 15455
   name: 'Ys: The Oath in Felghana'
-  popularity: 2.354452536874962
+  popularity: 3.033507853403142
   rating: 80.00476929633831
   total_rating: 81.50238464816915
   total_rating_count: 12
@@ -463,7 +463,7 @@
   total_rating_count: 26
 - id: 4648
   name: Pro Evolution Soccer 2009
-  popularity: 2.114321189546046
+  popularity: 1.451890634089587
   rating: 72.9983449109708
   total_rating: 81.4991724554854
   total_rating_count: 23
@@ -473,13 +473,6 @@
   rating: 80.31023109733
   total_rating: 81.03011554866501
   total_rating_count: 50
-- franchise: 495
-  id: 837
-  name: 'Prince of Persia: Warrior Within'
-  popularity: 7.552414194299011
-  rating: 82.22504294355319
-  total_rating: 80.91252147177659
-  total_rating_count: 203
 - id: 6201
   name: TOCA Race Driver 2
   popularity: 1.668592713727628
@@ -493,6 +486,13 @@
   rating: 78.920168347747
   total_rating: 80.8600841738735
   total_rating_count: 13
+- franchise: 495
+  id: 837
+  name: 'Prince of Persia: Warrior Within'
+  popularity: 7.312263232281914
+  rating: 82.0309996398934
+  total_rating: 80.8154998199467
+  total_rating_count: 203
 - franchise: 4
   id: 391
   name: Dissidia Final Fantasy
@@ -503,7 +503,7 @@
 - franchise: 1
   id: 142
   name: 'Star Wars: Battlefront II'
-  popularity: 5.249159500085268
+  popularity: 5.744851657940663
   rating: 85.9500620275399
   total_rating: 80.77503101376995
   total_rating_count: 323
@@ -516,10 +516,10 @@
   total_rating_count: 52
 - id: 1202
   name: Tales of Eternia
-  popularity: 1.6717551438198
-  rating: 81.1997169299668
-  total_rating: 80.5998584649834
-  total_rating_count: 12
+  popularity: 1.677835951134381
+  rating: 81.19529229669399
+  total_rating: 80.597646148347
+  total_rating_count: 13
 - id: 7371
   name: 'MLB 09: The Show'
   popularity: 1.0
@@ -528,7 +528,7 @@
 - franchise: 495
   id: 2437
   name: 'Prince of Persia: The Two Thrones'
-  popularity: 6.437610575977983
+  popularity: 6.19674229203025
   rating: 80.3974863322395
   total_rating: 80.19874316611975
   total_rating_count: 158
@@ -547,7 +547,7 @@
 - franchise: 824
   id: 20427
   name: Monster Hunter Freedom Unite
-  popularity: 1.447836762546534
+  popularity: 1.677835951134381
   rating: 80.0453464601444
   total_rating: 80.0226732300722
   total_rating_count: 12
@@ -586,7 +586,7 @@
   total_rating_count: 8
 - id: 4645
   name: Pro Evolution Soccer 5
-  popularity: 2.586935390597123
+  popularity: 2.807562536358348
   rating: 74.7080705074097
   total_rating: 79.85403525370485
   total_rating_count: 26
@@ -598,14 +598,14 @@
   total_rating_count: 24
 - id: 561
   name: 'Colin McRae: Dirt 2'
-  popularity: 3.493755613795479
+  popularity: 3.033507853403142
   rating: 80.537439903353
   total_rating: 79.7687199516765
   total_rating_count: 77
 - franchise: 871
   id: 3762
   name: Ape Escape
-  popularity: 1.902968357916641
+  popularity: 1.451890634089587
   rating: 79.7144177949027
   total_rating: 79.7144177949027
   total_rating_count: 18
@@ -617,7 +617,7 @@
   total_rating_count: 17
 - id: 2153
   name: FIFA 13
-  popularity: 3.031678805312443
+  popularity: 2.581617219313554
   rating: 74.0266517743067
   total_rating: 79.5466592204867
   total_rating_count: 93
@@ -670,7 +670,7 @@
   total_rating_count: 54
 - id: 7468
   name: Tom Clancy's EndWar
-  popularity: 2.782913903273674
+  popularity: 3.033507853403142
   rating: 80.0
   total_rating: 78.9
   total_rating_count: 9
@@ -696,7 +696,7 @@
 - franchise: 133
   id: 3149
   name: 'Lego Harry Potter: Years 1-4'
-  popularity: 3.26567107332416
+  popularity: 3.485398487492728
   rating: 76.1324467073971
   total_rating: 78.39955668703189
   total_rating_count: 69
@@ -759,7 +759,7 @@
 - franchise: 9
   id: 909
   name: 'Tom Clancy''s Rainbow Six: Vegas'
-  popularity: 4.160389252708244
+  popularity: 4.389179755671902
   rating: 70.1459715730539
   total_rating: 77.94798578652694
   total_rating_count: 50
@@ -827,7 +827,7 @@
   total_rating_count: 6
 - id: 6441
   name: 'BlazBlue: Calamity Trigger'
-  popularity: 2.337185427455256
+  popularity: 2.807562536358348
   rating: 80.5879754867894
   total_rating: 76.96065441006135
   total_rating_count: 19
@@ -872,7 +872,7 @@
   total_rating_count: 49
 - id: 1301
   name: Tom Clancy's Ghost Recon Advanced Warfighter 2
-  popularity: 3.687020575279201
+  popularity: 3.485398487492728
   rating: 69.3711287734982
   total_rating: 76.56056438674909
   total_rating_count: 26
@@ -902,13 +902,13 @@
   total_rating_count: 9
 - id: 4652
   name: Pro Evolution Soccer 2014
-  popularity: 1.668592713727628
+  popularity: 1.0
   rating: 72.94166767822931
   total_rating: 76.22083383911465
   total_rating_count: 38
 - id: 4650
   name: Pro Evolution Soccer 2011
-  popularity: 5.460323954119127
+  popularity: 5.292961023851077
   rating: 77.5921164533614
   total_rating: 76.12939156001406
   total_rating_count: 36
@@ -921,7 +921,7 @@
   total_rating_count: 12
 - id: 4649
   name: Pro Evolution Soccer 2010
-  popularity: 2.34183984213219
+  popularity: 1.903781268179174
   rating: 67.00276842593931
   total_rating: 76.00138421296965
   total_rating_count: 34
@@ -965,7 +965,7 @@
   total_rating_count: 17
 - id: 2941
   name: Pro Evolution Soccer 2013
-  popularity: 1.898681058828574
+  popularity: 1.451890634089587
   rating: 72.1684711235667
   total_rating: 75.4175688951167
   total_rating_count: 31
@@ -996,24 +996,24 @@
 - franchise: 792
   id: 6704
   name: Street Fighter Alpha 3
-  popularity: 1.451890634089587
+  popularity: 1.677835951134381
   rating: 70.4258693569609
   total_rating: 75.21293467848045
   total_rating_count: 15
+- id: 21104
+  name: 'MotorStorm: Arctic Edge'
+  popularity: 1.451659784894587
+  total_rating: 75.0
+  total_rating_count: 5
 - id: 5753
   name: 'Blitz: The League'
   popularity: 1.0
   rating: 80.0
   total_rating: 75.0
   total_rating_count: 8
-- id: 21104
-  name: 'MotorStorm: Arctic Edge'
-  popularity: 1.451659784894587
-  total_rating: 75.0
-  total_rating_count: 5
 - id: 2484
   name: Pro Evolution Soccer 6
-  popularity: 3.492942580788069
+  popularity: 3.033507853403142
   rating: 76.78024607722139
   total_rating: 74.97345637194405
   total_rating_count: 55
@@ -1026,7 +1026,7 @@
 - franchise: 554
   id: 484
   name: 'Silent Hill: Origins'
-  popularity: 2.586418005956044
+  popularity: 2.355671902268761
   rating: 69.5962271716251
   total_rating: 74.92311358581256
   total_rating_count: 40
@@ -1039,7 +1039,7 @@
 - franchise: 157
   id: 5240
   name: 'Toy Story 3: The Video Game'
-  popularity: 1.447836762546534
+  popularity: 1.677835951134381
   rating: 76.7789756597719
   total_rating: 74.63948782988595
   total_rating_count: 22
@@ -1116,14 +1116,14 @@
   total_rating_count: 22
 - id: 1247
   name: Tekken 6
-  popularity: 5.078207931983488
+  popularity: 5.292961023851077
   rating: 70.3833678245634
   total_rating: 74.13612835672615
   total_rating_count: 66
 - franchise: 495
   id: 2468
   name: 'Prince of Persia: The Forgotten Sands'
-  popularity: 4.853985948593014
+  popularity: 4.615125072716696
   rating: 67.4575262008094
   total_rating: 74.1287631004047
   total_rating_count: 99
@@ -1136,7 +1136,7 @@
   total_rating_count: 34
 - id: 20764
   name: 'Syphon Filter: Dark Mirror'
-  popularity: 1.677489677341881
+  popularity: 1.903781268179174
   total_rating: 74.0
   total_rating_count: 5
 - id: 4716
@@ -1159,7 +1159,7 @@
   total_rating_count: 5
 - id: 696
   name: FIFA 07
-  popularity: 1.903319569789175
+  popularity: 1.677835951134381
   rating: 72.1522434774831
   total_rating: 73.77612173874155
   total_rating_count: 46
@@ -1226,10 +1226,10 @@
 - franchise: 1
   id: 475
   name: 'Star Wars: The Force Unleashed'
-  popularity: 4.582694100372268
-  rating: 74.8146341958718
-  total_rating: 72.76445995507875
-  total_rating_count: 196
+  popularity: 5.283321479048442
+  rating: 74.81436777366271
+  total_rating: 72.76432674397421
+  total_rating_count: 197
 - franchise: 124
   id: 568
   name: 'Marvel: Ultimate Alliance 2'

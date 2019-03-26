@@ -1,10 +1,10 @@
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 4929
   name: Impossible Mission
   popularity: 1.0
@@ -110,13 +110,13 @@
   total_rating_count: 24
 - id: 5691
   name: Pole Position
-  popularity: 1.902968357916641
+  popularity: 1.677835951134381
   rating: 74.357290935718
   total_rating: 67.178645467859
   total_rating_count: 15
 - id: 11762
   name: Paperboy
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29

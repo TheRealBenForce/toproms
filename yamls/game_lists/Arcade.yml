@@ -1,7 +1,7 @@
 - franchise: 792
   id: 18626
   name: Street Fighter II Turbo
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 87.4583240286305
   total_rating: 93.72916201431525
   total_rating_count: 31
@@ -21,10 +21,10 @@
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 5644
   name: Guilty Gear Xrd
   popularity: 2.128710447395802
@@ -33,13 +33,13 @@
   total_rating_count: 9
 - id: 1565
   name: SoulCalibur II
-  popularity: 4.39850660998624
+  popularity: 4.615125072716696
   rating: 83.2505353219274
   total_rating: 89.1252676609637
   total_rating_count: 67
 - id: 10605
   name: 'Garou: Mark of the Wolves'
-  popularity: 3.267050557995891
+  popularity: 3.485398487492728
   rating: 97.9556557343078
   total_rating: 88.9778278671539
   total_rating_count: 14
@@ -51,7 +51,7 @@
   total_rating_count: 20
 - id: 3953
   name: Ikaruga
-  popularity: 3.483162984270763
+  popularity: 3.033507853403142
   rating: 88.4963276430755
   total_rating: 88.74816382153776
   total_rating_count: 27
@@ -88,19 +88,19 @@
   total_rating_count: 28
 - id: 1563
   name: Soul Edge
-  popularity: 3.031678805312443
+  popularity: 3.259453170447935
   rating: 90.6742978986246
   total_rating: 86.83714894931231
   total_rating_count: 28
 - id: 1244
   name: Tekken 3
-  popularity: 17.94589877835951
+  popularity: 17.26806282722513
   rating: 86.36916679316681
   total_rating: 86.36916679316681
   total_rating_count: 195
 - id: 20461
   name: Tennis
-  popularity: 1.447279947377397
+  popularity: 1.677835951134381
   rating: 86.2371829272662
   total_rating: 86.2371829272662
   total_rating_count: 11
@@ -113,7 +113,7 @@
   total_rating_count: 5
 - id: 1547
   name: Virtua Fighter 2
-  popularity: 1.451484178958321
+  popularity: 1.677835951134381
   rating: 85.89883099134241
   total_rating: 85.89883099134241
   total_rating_count: 15
@@ -133,14 +133,14 @@
 - franchise: 792
   id: 884
   name: Street Fighter IV
-  popularity: 3.033507853403142
+  popularity: 3.711343804537522
   rating: 81.65536795649359
   total_rating: 85.7165728671357
   total_rating_count: 80
 - franchise: 792
   id: 6710
   name: 'Street Fighter III: 3rd Strike'
-  popularity: 4.163234438627109
+  popularity: 4.389179755671902
   rating: 81.08276999313141
   total_rating: 85.54138499656571
   total_rating_count: 23
@@ -177,7 +177,7 @@
   total_rating_count: 7
 - id: 13095
   name: 'Rival Schools: United by Fate'
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 84.52644019326749
   total_rating: 84.52644019326749
   total_rating_count: 7
@@ -189,14 +189,14 @@
   total_rating_count: 78
 - id: 1243
   name: Tekken 2
-  popularity: 4.841070389761489
+  popularity: 4.615125072716696
   rating: 78.599235307635
   total_rating: 84.2996176538175
   total_rating_count: 63
 - franchise: 792
   id: 3186
   name: Street Fighter II
-  popularity: 7.100523560209425
+  popularity: 7.326468877254218
   rating: 84.0702813240752
   total_rating: 84.0702813240752
   total_rating_count: 145
@@ -220,7 +220,7 @@
   total_rating_count: 29
 - id: 6790
   name: 'Double Dragon 2: The Revenge'
-  popularity: 2.586418005956044
+  popularity: 2.807562536358348
   rating: 83.62284450156571
   total_rating: 83.62284450156571
   total_rating_count: 30
@@ -283,13 +283,13 @@
 - franchise: 447
   id: 7558
   name: Ninja Gaiden
-  popularity: 4.625073717318656
+  popularity: 4.389179755671902
   rating: 82.90804518404829
   total_rating: 82.90804518404829
   total_rating_count: 35
 - id: 11613
   name: 'BlazBlue: Central Fiction'
-  popularity: 1.669806829625561
+  popularity: 1.903781268179174
   rating: 80.0
   total_rating: 82.8
   total_rating_count: 9
@@ -308,13 +308,13 @@
   total_rating_count: 9
 - id: 1655
   name: Final Fight
-  popularity: 3.898700229442497
+  popularity: 3.711343804537522
   rating: 82.107187683158
   total_rating: 82.107187683158
   total_rating_count: 43
 - id: 7628
   name: The NewZealand Story
-  popularity: 2.339613659251121
+  popularity: 1.451890634089587
   rating: 81.67716889527901
   total_rating: 81.67716889527901
   total_rating_count: 9
@@ -338,13 +338,13 @@
   total_rating_count: 37
 - id: 6684
   name: Fantasy Zone
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   rating: 81.32672175011339
   total_rating: 81.32672175011339
   total_rating_count: 5
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -376,14 +376,14 @@
   total_rating_count: 5
 - id: 6807
   name: Ghosts 'n Goblins
-  popularity: 1.447836762546534
+  popularity: 1.0
   rating: 70.2181936544159
   total_rating: 80.10909682720795
   total_rating_count: 29
 - franchise: 238
   id: 8247
   name: 'Marvel vs. Capcom 2: New Age of Heroes'
-  popularity: 1.673462458475826
+  popularity: 1.451890634089587
   rating: 80.1803486761502
   total_rating: 80.0901743380751
   total_rating_count: 30
@@ -507,7 +507,7 @@
   total_rating_count: 7
 - id: 2051
   name: OutRun
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 79.695088860288
   total_rating: 79.695088860288
   total_rating_count: 22
@@ -526,7 +526,7 @@
   total_rating_count: 9
 - id: 12228
   name: Toki
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 79.6336123903357
   total_rating: 79.6336123903357
   total_rating_count: 8
@@ -557,7 +557,7 @@
   total_rating_count: 7
 - id: 6145
   name: Super Hang-On
-  popularity: 1.891456951636837
+  popularity: 1.677835951134381
   rating: 79.3372764694773
   total_rating: 79.3372764694773
   total_rating_count: 15
@@ -581,7 +581,7 @@
   total_rating_count: 7
 - id: 11445
   name: Persona 4 Arena Ultimax
-  popularity: 1.451484178958321
+  popularity: 1.677835951134381
   rating: 71.66268537872
   total_rating: 79.16467602269336
   total_rating_count: 22
@@ -643,13 +643,13 @@
   total_rating_count: 5
 - id: 1652
   name: Streets of Rage
-  popularity: 3.719573724496075
+  popularity: 3.485398487492728
   rating: 78.0817575960329
   total_rating: 78.0817575960329
   total_rating_count: 60
 - id: 1388
   name: Dead or Alive 2
-  popularity: 1.447836762546534
+  popularity: 1.677835951134381
   rating: 76.0976973797593
   total_rating: 78.04884868987965
   total_rating_count: 24
@@ -662,7 +662,7 @@
   total_rating_count: 10
 - id: 5643
   name: 'BlazBlue: Chrono Phantasma'
-  popularity: 2.133155718540031
+  popularity: 1.903781268179174
   rating: 75.73891419789659
   total_rating: 77.86945709894829
   total_rating_count: 7
@@ -692,7 +692,7 @@
   total_rating_count: 8
 - id: 6840
   name: R-Type
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 77.5727077907682
   total_rating: 77.5727077907682
   total_rating_count: 18
@@ -710,7 +710,7 @@
   total_rating_count: 24
 - id: 2159
   name: 'Race Driver: GRID'
-  popularity: 2.560049665364465
+  popularity: 2.355671902268761
   rating: 77.38336369785651
   total_rating: 77.38336369785651
   total_rating_count: 55
@@ -741,7 +741,7 @@
   total_rating_count: 28
 - id: 6441
   name: 'BlazBlue: Calamity Trigger'
-  popularity: 2.337185427455256
+  popularity: 2.807562536358348
   rating: 80.5879754867894
   total_rating: 76.96065441006135
   total_rating_count: 19
@@ -759,28 +759,28 @@
   total_rating_count: 40
 - id: 7286
   name: Dead or Alive 5 Ultimate
-  popularity: 1.445728475818419
+  popularity: 1.0
   rating: 70.5889290843249
   total_rating: 76.54446454216244
   total_rating_count: 13
 - franchise: 24
   id: 3105
   name: Mario Bros.
-  popularity: 4.611873431666565
+  popularity: 4.841070389761489
   rating: 76.2984432884316
   total_rating: 76.2984432884316
   total_rating_count: 37
 - franchise: 792
   id: 6708
   name: 'Street Fighter III: New Generation'
-  popularity: 1.677835951134381
+  popularity: 1.903781268179174
   rating: 76.23403410481549
   total_rating: 76.23403410481549
   total_rating_count: 7
 - franchise: 795
   id: 18696
   name: Ridge Racer
-  popularity: 2.128710447395802
+  popularity: 2.581617219313554
   rating: 70.04950688839669
   total_rating: 76.02475344419835
   total_rating_count: 7
@@ -817,7 +817,7 @@
 - franchise: 792
   id: 6704
   name: Street Fighter Alpha 3
-  popularity: 1.451890634089587
+  popularity: 1.677835951134381
   rating: 70.4258693569609
   total_rating: 75.21293467848045
   total_rating_count: 15
@@ -902,7 +902,7 @@
   total_rating_count: 14
 - id: 1247
   name: Tekken 6
-  popularity: 5.078207931983488
+  popularity: 5.292961023851077
   rating: 70.3833678245634
   total_rating: 74.13612835672615
   total_rating_count: 66
@@ -944,7 +944,7 @@
   total_rating_count: 7
 - id: 2907
   name: Killer Instinct
-  popularity: 2.114321189546046
+  popularity: 1.903781268179174
   rating: 76.66629023009621
   total_rating: 73.3331451150481
   total_rating_count: 36
@@ -963,7 +963,7 @@
 - franchise: 845
   id: 1086
   name: Donkey Kong
-  popularity: 3.483162984270763
+  popularity: 3.259453170447935
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
@@ -993,12 +993,12 @@
   total_rating_count: 8
 - id: 7272
   name: 'Aquapazza: Aquaplus Dream Match'
-  popularity: 1.906820223198356
+  popularity: 1.677835951134381
   total_rating: 72.5
   total_rating_count: 5
 - id: 6920
   name: 'BlazBlue: Continuum Shift Extend'
-  popularity: 1.451659784894587
+  popularity: 1.677835951134381
   rating: 58.32134373681549
   total_rating: 72.41067186840775
   total_rating_count: 9
@@ -1058,7 +1058,7 @@
   total_rating_count: 73
 - id: 1242
   name: Tekken
-  popularity: 2.805936715833282
+  popularity: 2.581617219313554
   rating: 67.4365593862518
   total_rating: 71.21827969312591
   total_rating_count: 42
@@ -1125,14 +1125,14 @@
   total_rating_count: 7
 - id: 9143
   name: 'Guilty Gear X2 #Reload'
-  popularity: 1.673462458475826
+  popularity: 1.903781268179174
   rating: 80.738255033557
   total_rating: 70.36912751677849
   total_rating_count: 7
 - franchise: 792
   id: 6930
   name: Street Fighter
-  popularity: 2.355671902268761
+  popularity: 2.129726585223968
   rating: 70.2531525406327
   total_rating: 70.2531525406327
   total_rating_count: 28
@@ -1211,7 +1211,7 @@
   total_rating_count: 5
 - id: 12857
   name: Space Harrier
-  popularity: 1.668592713727628
+  popularity: 1.451890634089587
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6

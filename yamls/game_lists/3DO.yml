@@ -6,13 +6,13 @@
   total_rating_count: 7
 - id: 924
   name: Wing Commander
-  popularity: 2.339613659251121
+  popularity: 2.129726585223968
   rating: 90.0235871480059
   total_rating: 90.0235871480059
   total_rating_count: 11
 - id: 4348
   name: Another World
-  popularity: 4.39850660998624
+  popularity: 3.937289121582316
   rating: 87.8701831338687
   total_rating: 87.8701831338687
   total_rating_count: 53
@@ -30,7 +30,7 @@
   total_rating_count: 23
 - id: 5519
   name: Cannon Fodder
-  popularity: 2.354452536874962
+  popularity: 2.581617219313554
   rating: 84.7524486141904
   total_rating: 84.7524486141904
   total_rating_count: 21
@@ -67,7 +67,7 @@
   total_rating_count: 5
 - id: 283
   name: Theme Park
-  popularity: 2.580194626354122
+  popularity: 2.807562536358348
   rating: 70.3333900644455
   total_rating: 74.66669503222275
   total_rating_count: 34
@@ -92,7 +92,7 @@
   total_rating_count: 9
 - id: 4239
   name: Lemmings
-  popularity: 2.81304914966405
+  popularity: 2.581617219313554
   rating: 77.0386174515578
   total_rating: 72.3193087257789
   total_rating_count: 62
@@ -104,7 +104,7 @@
   total_rating_count: 5
 - id: 3249
   name: Road Rash
-  popularity: 1.906820223198356
+  popularity: 2.129726585223968
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
@@ -122,7 +122,7 @@
   total_rating_count: 9
 - id: 1956
   name: Alone in the Dark
-  popularity: 3.039680293372056
+  popularity: 2.807562536358348
   rating: 72.9432382331229
   total_rating: 66.47161911656144
   total_rating_count: 22
@@ -134,13 +134,13 @@
   total_rating_count: 14
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
 - id: 4275
   name: Flashback
-  popularity: 3.934647163229084
+  popularity: 3.711343804537522
   rating: 79.9296994811576
   total_rating: 57.4648497405788
   total_rating_count: 34

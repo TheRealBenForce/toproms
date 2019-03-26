@@ -7,20 +7,20 @@
   total_rating_count: 5
 - id: 1027
   name: 'The Legend of Zelda: Link''s Awakening DX'
-  popularity: 3.267050557995891
+  popularity: 3.711343804537522
   rating: 89.7557729049127
   total_rating: 89.7557729049127
   total_rating_count: 62
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 1041
   name: 'The Legend of Zelda: Oracle of Ages'
-  popularity: 2.123351323535718
+  popularity: 2.355671902268761
   rating: 82.354053026803
   total_rating: 88.84369318006816
   total_rating_count: 46
@@ -40,28 +40,28 @@
   total_rating_count: 14
 - id: 1032
   name: 'The Legend of Zelda: Oracle of Seasons'
-  popularity: 2.337185427455256
+  popularity: 2.581617219313554
   rating: 82.04489625701599
   total_rating: 87.52244812850799
   total_rating_count: 51
 - franchise: 60
   id: 1558
   name: "Pok\xE9mon Gold"
-  popularity: 3.934647163229084
+  popularity: 4.163234438627109
   rating: 85.5091116570314
   total_rating: 86.50455582851569
   total_rating_count: 137
 - franchise: 60
   id: 1514
   name: "Pok\xE9mon Crystal"
-  popularity: 6.437610575977983
+  popularity: 7.100523560209425
   rating: 87.3573659726229
   total_rating: 86.17868298631146
   total_rating_count: 118
 - franchise: 60
   id: 1513
   name: "Pok\xE9mon Silver"
-  popularity: 6.211043468645567
+  popularity: 5.970796974985457
   rating: 87.198861946099
   total_rating: 86.0994309730495
   total_rating_count: 136
@@ -86,26 +86,26 @@
   total_rating_count: 5
 - id: 675
   name: Driver
-  popularity: 2.789119789509587
+  popularity: 3.033507853403142
   rating: 74.9249247384902
   total_rating: 84.9624623692451
   total_rating_count: 68
 - id: 843
   name: 'Rayman 2: The Great Escape'
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 79.54493481654569
   total_rating: 84.77246740827285
   total_rating_count: 77
 - id: 5519
   name: Cannon Fodder
-  popularity: 2.354452536874962
+  popularity: 2.581617219313554
   rating: 84.7524486141904
   total_rating: 84.7524486141904
   total_rating_count: 21
 - franchise: 24
   id: 358
   name: Super Mario Bros.
-  popularity: 15.50029486927462
+  popularity: 15.0086096567772
   rating: 84.70097986138329
   total_rating: 84.70097986138329
   total_rating_count: 530
@@ -136,27 +136,27 @@
   total_rating_count: 10
 - id: 1090
   name: Donkey Kong Country
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 86.06236450422759
   total_rating: 82.86451558544715
   total_rating_count: 179
 - franchise: 495
   id: 2472
   name: Prince of Persia
-  popularity: 3.257420894791603
+  popularity: 2.807562536358348
   rating: 82.2966579378346
   total_rating: 82.2966579378346
   total_rating_count: 109
 - id: 1000
   name: 'Oddworld: Abe''s Exoddus'
-  popularity: 2.122437430793043
+  popularity: 2.355671902268761
   rating: 84.4387517493797
   total_rating: 82.21937587468986
   total_rating_count: 40
 - franchise: 60
   id: 1512
   name: "Pok\xE9mon Yellow"
-  popularity: 7.570446112640063
+  popularity: 8.004304828388598
   rating: 84.0860554695173
   total_rating: 82.04302773475865
   total_rating_count: 168
@@ -181,7 +181,7 @@
 - franchise: 26
   id: 8118
   name: Disney's Aladdin
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 83.0967673362056
   total_rating: 81.5483836681028
   total_rating_count: 58
@@ -193,7 +193,7 @@
   total_rating_count: 27
 - id: 6807
   name: Ghosts 'n Goblins
-  popularity: 1.447836762546534
+  popularity: 1.0
   rating: 70.2181936544159
   total_rating: 80.10909682720795
   total_rating_count: 29
@@ -212,7 +212,7 @@
 - franchise: 994
   id: 1963
   name: Rayman
-  popularity: 3.934647163229084
+  popularity: 3.711343804537522
   rating: 81.1669782135582
   total_rating: 79.41682244011244
   total_rating_count: 81
@@ -244,26 +244,26 @@
 - franchise: 24
   id: 1698
   name: Wario Land 3
-  popularity: 1.680115167398767
+  popularity: 1.903781268179174
   rating: 78.42825120868591
   total_rating: 78.42825120868591
   total_rating_count: 11
 - franchise: 24
   id: 1697
   name: Wario Land II
-  popularity: 1.668592713727628
+  popularity: 1.903781268179174
   rating: 77.6293446473616
   total_rating: 77.6293446473616
   total_rating_count: 9
 - id: 980
   name: Grand Theft Auto
-  popularity: 8.02785672978726
+  popularity: 8.230250145433391
   rating: 75.24327788014921
   total_rating: 77.6216389400746
   total_rating_count: 198
 - id: 6692
   name: Tony Hawk's Pro Skater
-  popularity: 2.586935390597123
+  popularity: 2.355671902268761
   rating: 82.8698037204887
   total_rating: 76.43490186024435
   total_rating_count: 66
@@ -289,7 +289,7 @@
 - franchise: 1
   id: 154
   name: 'Star Wars: Episode I - Racer'
-  popularity: 3.266311437080062
+  popularity: 2.581617219313554
   rating: 74.20694496640121
   total_rating: 74.6034724832006
   total_rating_count: 68
@@ -302,7 +302,7 @@
 - franchise: 133
   id: 3941
   name: Harry Potter and the Chamber of Secrets
-  popularity: 4.851640824651071
+  popularity: 5.067015706806283
   rating: 74.09152927598751
   total_rating: 74.09152927598751
   total_rating_count: 90
@@ -352,7 +352,7 @@
   total_rating_count: 36
 - id: 956
   name: Duke Nukem II
-  popularity: 1.680115167398767
+  popularity: 1.903781268179174
   rating: 71.23880144937709
   total_rating: 71.23880144937709
   total_rating_count: 14
@@ -368,18 +368,18 @@
   rating: 70.2147259544061
   total_rating: 70.2147259544061
   total_rating_count: 18
-- id: 3056
-  name: Rampage World Tour
-  popularity: 1.668592713727628
-  rating: 70.0
-  total_rating: 70.0
-  total_rating_count: 8
 - id: 49857
   name: "Pok\xE9mon Puzzle Challenge"
   popularity: 1.0
   rating: 70.0
   total_rating: 70.0
   total_rating_count: 5
+- id: 3056
+  name: Rampage World Tour
+  popularity: 1.668592713727628
+  rating: 70.0
+  total_rating: 70.0
+  total_rating_count: 8
 - franchise: 179
   id: 3994
   name: Mat Hoffman's Pro BMX
@@ -396,7 +396,7 @@
 - franchise: 792
   id: 6702
   name: 'Street Fighter Alpha: Warrior''s Dreams'
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 69.3556657952717
   total_rating: 69.67783289763585
   total_rating_count: 13
@@ -421,14 +421,14 @@
   total_rating_count: 5
 - id: 3249
   name: Road Rash
-  popularity: 1.906820223198356
+  popularity: 2.129726585223968
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
 - franchise: 133
   id: 341
   name: Harry Potter and the Sorcerer's Stone
-  popularity: 4.160389252708244
+  popularity: 4.389179755671902
   rating: 74.6624431053567
   total_rating: 69.33122155267836
   total_rating_count: 121
@@ -461,7 +461,7 @@
   total_rating_count: 34
 - id: 11762
   name: Paperboy
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29
@@ -527,10 +527,10 @@
 - franchise: 151
   id: 3603
   name: Spider-Man
-  popularity: 2.791347050186134
-  rating: 82.46226259851059
-  total_rating: 58.7311312992553
-  total_rating_count: 76
+  popularity: 3.259453170447935
+  rating: 82.4610085609688
+  total_rating: 58.7305042804844
+  total_rating_count: 77
 - id: 3586
   name: Ready 2 Rumble Boxing
   popularity: 3.266311437080062

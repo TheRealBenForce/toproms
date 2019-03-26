@@ -17,20 +17,20 @@
   total_rating_count: 9
 - id: 2547
   name: Zool
-  popularity: 5.304775039315904
+  popularity: 5.067015706806283
   rating: 94.17842895671899
   total_rating: 94.17842895671899
   total_rating_count: 10
 - franchise: 44
   id: 14288
   name: Batman
-  popularity: 3.934647163229084
+  popularity: 4.163234438627109
   rating: 93.4655836770637
   total_rating: 93.4655836770637
   total_rating_count: 12
 - id: 191
   name: Loom
-  popularity: 5.53134214664832
+  popularity: 5.744851657940663
   rating: 91.4834250273856
   total_rating: 91.4834250273856
   total_rating_count: 26
@@ -42,7 +42,7 @@
   total_rating_count: 6
 - id: 3798
   name: Dungeon Master
-  popularity: 2.359786862248037
+  popularity: 2.581617219313554
   rating: 89.98010197736599
   total_rating: 89.98010197736599
   total_rating_count: 5
@@ -68,10 +68,10 @@
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 2200
   name: Test Drive
   popularity: 1.0
@@ -99,13 +99,13 @@
   total_rating_count: 40
 - id: 4348
   name: Another World
-  popularity: 4.39850660998624
+  popularity: 3.937289121582316
   rating: 87.8701831338687
   total_rating: 87.8701831338687
   total_rating_count: 53
 - id: 39023
   name: Dyna Blaster
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 87.6584824585302
   total_rating: 87.6584824585302
   total_rating_count: 5
@@ -142,14 +142,14 @@
   total_rating_count: 8
 - id: 5519
   name: Cannon Fodder
-  popularity: 2.354452536874962
+  popularity: 2.581617219313554
   rating: 84.7524486141904
   total_rating: 84.7524486141904
   total_rating_count: 21
 - franchise: 792
   id: 3186
   name: Street Fighter II
-  popularity: 7.100523560209425
+  popularity: 7.326468877254218
   rating: 84.0702813240752
   total_rating: 84.0702813240752
   total_rating_count: 145
@@ -161,7 +161,7 @@
   total_rating_count: 250
 - id: 6790
   name: 'Double Dragon 2: The Revenge'
-  popularity: 2.586418005956044
+  popularity: 2.807562536358348
   rating: 83.62284450156571
   total_rating: 83.62284450156571
   total_rating_count: 30
@@ -181,19 +181,19 @@
 - franchise: 495
   id: 2472
   name: Prince of Persia
-  popularity: 3.257420894791603
+  popularity: 2.807562536358348
   rating: 82.2966579378346
   total_rating: 82.2966579378346
   total_rating_count: 109
 - id: 1655
   name: Final Fight
-  popularity: 3.898700229442497
+  popularity: 3.711343804537522
   rating: 82.107187683158
   total_rating: 82.107187683158
   total_rating_count: 43
 - id: 7628
   name: The NewZealand Story
-  popularity: 2.339613659251121
+  popularity: 1.451890634089587
   rating: 81.67716889527901
   total_rating: 81.67716889527901
   total_rating_count: 9
@@ -211,7 +211,7 @@
   total_rating_count: 5
 - id: 1893
   name: 'Quest for Glory: So You Want to Be a Hero'
-  popularity: 1.669806829625561
+  popularity: 1.451890634089587
   rating: 80.44110045373611
   total_rating: 80.44110045373611
   total_rating_count: 8
@@ -223,13 +223,13 @@
   total_rating_count: 11
 - id: 2906
   name: Leisure Suit Larry in the Land of the Lounge Lizards
-  popularity: 1.891456951636837
+  popularity: 1.677835951134381
   rating: 80.19099373784141
   total_rating: 80.19099373784141
   total_rating_count: 13
 - id: 6807
   name: Ghosts 'n Goblins
-  popularity: 1.447836762546534
+  popularity: 1.0
   rating: 70.2181936544159
   total_rating: 80.10909682720795
   total_rating_count: 29
@@ -283,13 +283,13 @@
   total_rating_count: 6
 - id: 2051
   name: OutRun
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 79.695088860288
   total_rating: 79.695088860288
   total_rating_count: 22
 - id: 6145
   name: Super Hang-On
-  popularity: 1.891456951636837
+  popularity: 1.677835951134381
   rating: 79.3372764694773
   total_rating: 79.3372764694773
   total_rating_count: 15
@@ -325,13 +325,13 @@
   total_rating_count: 19
 - id: 6840
   name: R-Type
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 77.5727077907682
   total_rating: 77.5727077907682
   total_rating_count: 18
 - id: 248
   name: Populous
-  popularity: 2.580194626354122
+  popularity: 2.355671902268761
   rating: 77.0266918949967
   total_rating: 77.0266918949967
   total_rating_count: 13
@@ -355,7 +355,7 @@
   total_rating_count: 6
 - id: 892
   name: 'King''s Quest: Quest for the Crown'
-  popularity: 2.805936715833282
+  popularity: 2.581617219313554
   rating: 75.7007783052241
   total_rating: 75.7007783052241
   total_rating_count: 11
@@ -452,7 +452,7 @@
   total_rating_count: 7
 - id: 4239
   name: Lemmings
-  popularity: 2.81304914966405
+  popularity: 2.581617219313554
   rating: 77.0386174515578
   total_rating: 72.3193087257789
   total_rating_count: 62
@@ -512,7 +512,7 @@
   total_rating_count: 15
 - id: 2872
   name: Rogue
-  popularity: 2.128710447395802
+  popularity: 1.677835951134381
   rating: 70.8038771014285
   total_rating: 70.8038771014285
   total_rating_count: 7
@@ -524,7 +524,7 @@
   total_rating_count: 7
 - id: 8656
   name: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
-  popularity: 1.453262287416012
+  popularity: 1.0
   rating: 70.4215703870878
   total_rating: 70.4215703870878
   total_rating_count: 10
@@ -549,7 +549,7 @@
 - franchise: 792
   id: 6930
   name: Street Fighter
-  popularity: 2.355671902268761
+  popularity: 2.129726585223968
   rating: 70.2531525406327
   total_rating: 70.2531525406327
   total_rating_count: 28
@@ -591,7 +591,7 @@
   total_rating_count: 6
 - id: 12857
   name: Space Harrier
-  popularity: 1.668592713727628
+  popularity: 1.451890634089587
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6
@@ -671,7 +671,7 @@
 - franchise: 184
   id: 251
   name: Where in the World Is Carmen Sandiego?
-  popularity: 1.453262287416012
+  popularity: 1.677835951134381
   rating: 66.3371644012929
   total_rating: 68.16858220064645
   total_rating_count: 12
@@ -689,7 +689,7 @@
   total_rating_count: 7
 - id: 11762
   name: Paperboy
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 54.2191850744199
   total_rating: 65.4429258705433
   total_rating_count: 29
@@ -763,7 +763,7 @@
   total_rating_count: 8
 - id: 6787
   name: Double Dragon
-  popularity: 2.805936715833282
+  popularity: 3.033507853403142
   rating: 75.3010085886055
   total_rating: 57.15050429430275
   total_rating_count: 61

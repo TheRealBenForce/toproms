@@ -1,6 +1,6 @@
 - id: 924
   name: Wing Commander
-  popularity: 2.339613659251121
+  popularity: 2.129726585223968
   rating: 90.0235871480059
   total_rating: 90.0235871480059
   total_rating_count: 11
@@ -33,7 +33,7 @@
 - franchise: 495
   id: 2472
   name: Prince of Persia
-  popularity: 3.257420894791603
+  popularity: 2.807562536358348
   rating: 82.2966579378346
   total_rating: 82.2966579378346
   total_rating_count: 109
@@ -46,7 +46,7 @@
   total_rating_count: 15
 - id: 5451
   name: Snatcher
-  popularity: 1.680115167398767
+  popularity: 1.903781268179174
   rating: 81.4437760355716
   total_rating: 81.4437760355716
   total_rating_count: 6
@@ -60,7 +60,7 @@
 - franchise: 814
   id: 5452
   name: Sonic the Hedgehog CD
-  popularity: 2.133525278997945
+  popularity: 1.903781268179174
   rating: 72.8659773881769
   total_rating: 79.0996553607551
   total_rating_count: 51
@@ -91,14 +91,14 @@
   total_rating_count: 103
 - id: 283
   name: Theme Park
-  popularity: 2.580194626354122
+  popularity: 2.807562536358348
   rating: 70.3333900644455
   total_rating: 74.66669503222275
   total_rating_count: 34
 - franchise: 5
   id: 4379
   name: Batman Returns
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 74.3642857230241
   total_rating: 74.3642857230241
   total_rating_count: 23
@@ -112,7 +112,7 @@
 - franchise: 136
   id: 85
   name: Dune
-  popularity: 1.902968357916641
+  popularity: 1.451890634089587
   rating: 72.1949247928904
   total_rating: 72.1949247928904
   total_rating_count: 23
@@ -136,7 +136,7 @@
   total_rating_count: 8
 - id: 3249
   name: Road Rash
-  popularity: 1.906820223198356
+  popularity: 2.129726585223968
   rating: 73.8967451594201
   total_rating: 69.44837257971005
   total_rating_count: 22
@@ -156,7 +156,7 @@
   total_rating_count: 5
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
@@ -174,7 +174,7 @@
   total_rating_count: 7
 - id: 4275
   name: Flashback
-  popularity: 3.934647163229084
+  popularity: 3.711343804537522
   rating: 79.9296994811576
   total_rating: 57.4648497405788
   total_rating_count: 34

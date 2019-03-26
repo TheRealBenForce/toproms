@@ -1,6 +1,6 @@
 - id: 4348
   name: Another World
-  popularity: 4.39850660998624
+  popularity: 3.937289121582316
   rating: 87.8701831338687
   total_rating: 87.8701831338687
   total_rating_count: 53
@@ -12,13 +12,13 @@
   total_rating_count: 5
 - id: 8900
   name: Monument Valley
-  popularity: 8.476714541969727
+  popularity: 7.778359511343806
   rating: 78.45932429569339
   total_rating: 84.06299548118005
   total_rating_count: 80
 - id: 1334
   name: 'Brothers: A Tale of Two Sons'
-  popularity: 4.853985948593014
+  popularity: 4.615125072716696
   rating: 82.68306545663339
   total_rating: 83.91296129974523
   total_rating_count: 304
@@ -31,9 +31,9 @@
 - franchise: 950
   id: 121
   name: Minecraft
-  popularity: 30.22715684588166
-  rating: 81.1781666641377
-  total_rating: 82.76765476064031
+  popularity: 30.08149846301311
+  rating: 81.3850373317739
+  total_rating: 82.8710900944584
   total_rating_count: 566
 - franchise: 16
   id: 5059
@@ -56,7 +56,7 @@
   total_rating_count: 13
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -87,7 +87,7 @@
   total_rating_count: 15
 - id: 1879
   name: Terraria
-  popularity: 11.16753926701571
+  popularity: 10.94159394997091
   rating: 75.95064021593329
   total_rating: 77.838956471603
   total_rating_count: 224
@@ -112,19 +112,19 @@
 - franchise: 137
   id: 7849
   name: 'Halo: Spartan Strike'
-  popularity: 1.445728475818419
+  popularity: 1.0
   rating: 72.4711766926936
   total_rating: 76.2355883463468
   total_rating_count: 7
 - id: 4650
   name: Pro Evolution Soccer 2011
-  popularity: 5.460323954119127
+  popularity: 5.292961023851077
   rating: 77.5921164533614
   total_rating: 76.12939156001406
   total_rating_count: 36
 - id: 1051
   name: Mirror's Edge
-  popularity: 6.437610575977983
+  popularity: 5.970796974985457
   rating: 77.7300499653218
   total_rating: 75.1150249826609
   total_rating_count: 401
@@ -155,13 +155,13 @@
   total_rating_count: 6
 - id: 4651
   name: Pro Evolution Soccer 2012
-  popularity: 1.903319569789175
+  popularity: 1.451890634089587
   rating: 70.4313601940796
   total_rating: 71.96568009703981
   total_rating_count: 26
 - id: 9418
   name: Back to Bed
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 71.6272188025625
   total_rating: 71.81360940128124
   total_rating_count: 10
@@ -192,7 +192,7 @@
 - franchise: 4
   id: 385
   name: Final Fantasy
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 70.1234910897716
   total_rating: 70.06174554488581
   total_rating_count: 87
@@ -210,13 +210,13 @@
   total_rating_count: 17
 - id: 10225
   name: HOOK
-  popularity: 10.74238561529389
+  popularity: 11.84537521815009
   rating: 69.58769424939649
   total_rating: 69.58769424939649
   total_rating_count: 8
 - id: 6166
   name: Subway Surfers
-  popularity: 7.797013219972479
+  popularity: 7.100523560209425
   rating: 69.390276540766
   total_rating: 69.390276540766
   total_rating_count: 14
@@ -241,7 +241,7 @@
 - franchise: 1049
   id: 19902
   name: Bad Piggies
-  popularity: 8.023580327304895
+  popularity: 7.552414194299011
   rating: 60.2533733742358
   total_rating: 67.6266866871179
   total_rating_count: 7
@@ -287,7 +287,7 @@
 - franchise: 137
   id: 4839
   name: 'Halo: Spartan Assault'
-  popularity: 1.895673525093067
+  popularity: 1.677835951134381
   rating: 60.0580534603764
   total_rating: 63.0290267301882
   total_rating_count: 32
@@ -324,7 +324,7 @@
   total_rating_count: 10
 - id: 13151
   name: The Sims FreePlay
-  popularity: 3.236399736886983
+  popularity: 3.033507853403142
   rating: 36.5269891560563
   total_rating: 36.5269891560563
   total_rating_count: 10

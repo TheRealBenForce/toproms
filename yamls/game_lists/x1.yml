@@ -1,10 +1,10 @@
 - franchise: 79
   id: 8197
   name: Tetris
-  popularity: 6.648632926119838
-  rating: 89.56291107681571
-  total_rating: 89.56291107681571
-  total_rating_count: 473
+  popularity: 6.18507336937443
+  rating: 89.5633284697282
+  total_rating: 89.5633284697282
+  total_rating_count: 474
 - id: 4929
   name: Impossible Mission
   popularity: 1.0
@@ -19,19 +19,19 @@
   total_rating_count: 20
 - id: 20461
   name: Tennis
-  popularity: 1.447279947377397
+  popularity: 1.677835951134381
   rating: 86.2371829272662
   total_rating: 86.2371829272662
   total_rating_count: 11
 - id: 6558
   name: River City Ransom
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 91.1684041322506
   total_rating: 81.0842020661253
   total_rating_count: 12
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -110,7 +110,7 @@
   total_rating_count: 6
 - id: 12857
   name: Space Harrier
-  popularity: 1.668592713727628
+  popularity: 1.451890634089587
   rating: 69.8569045094507
   total_rating: 69.8569045094507
   total_rating_count: 6

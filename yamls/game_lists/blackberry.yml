@@ -26,7 +26,7 @@
   total_rating_count: 15
 - id: 7596
   name: Eufloria
-  popularity: 6.437610575977983
+  popularity: 6.648632926119838
   rating: 70.9968874296799
   total_rating: 74.33177704817331
   total_rating_count: 13
@@ -71,14 +71,14 @@
 - franchise: 1049
   id: 19902
   name: Bad Piggies
-  popularity: 8.023580327304895
+  popularity: 7.552414194299011
   rating: 60.2533733742358
   total_rating: 67.6266866871179
   total_rating_count: 7
 - franchise: 151
   id: 1376
   name: The Amazing Spider-Man
-  popularity: 2.129726585223968
+  popularity: 2.578065808070479
   rating: 66.5883311180159
   total_rating: 65.94416555900796
   total_rating_count: 44
@@ -105,13 +105,13 @@
 - franchise: 320
   id: 4936
   name: Iron Man 2
-  popularity: 2.360230334797534
+  popularity: 2.807562536358348
   rating: 70.0
   total_rating: 55.55
   total_rating_count: 14
 - id: 13151
   name: The Sims FreePlay
-  popularity: 3.236399736886983
+  popularity: 3.033507853403142
   rating: 36.5269891560563
   total_rating: 36.5269891560563
   total_rating_count: 10

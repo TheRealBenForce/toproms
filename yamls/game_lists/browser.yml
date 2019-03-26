@@ -49,7 +49,7 @@
   total_rating_count: 35
 - id: 28454
   name: Spaceplan
-  popularity: 4.39850660998624
+  popularity: 4.615125072716696
   rating: 78.0255418215311
   total_rating: 78.0255418215311
   total_rating_count: 5
@@ -88,7 +88,7 @@
 - franchise: 60
   id: 24423
   name: "Pok\xE9mon Trading Card Game Online"
-  popularity: 1.677226268437481
+  popularity: 1.0
   rating: 72.4207593049229
   total_rating: 72.4207593049229
   total_rating_count: 24
@@ -118,7 +118,7 @@
   total_rating_count: 5
 - id: 11283
   name: Agar.io
-  popularity: 5.984476361313151
+  popularity: 5.744851657940663
   rating: 69.9828957764859
   total_rating: 69.9828957764859
   total_rating_count: 17
@@ -136,25 +136,25 @@
   total_rating_count: 131
 - id: 7543
   name: Gods Will Be Watching
-  popularity: 4.625073717318656
+  popularity: 4.841070389761489
   rating: 71.31100622193111
   total_rating: 67.65550311096555
   total_rating_count: 18
 - id: 3241
   name: Cookie Clicker
-  popularity: 3.041834049037263
+  popularity: 2.807562536358348
   rating: 66.9404399732235
   total_rating: 66.9404399732235
   total_rating_count: 16
 - id: 9591
   name: AdVenture Capitalist
-  popularity: 1.453740899786058
+  popularity: 1.0
   rating: 62.459850227079
   total_rating: 66.2299251135395
   total_rating_count: 35
 - id: 18689
   name: Yume Nikki
-  popularity: 3.495574948823321
+  popularity: 3.479817698396466
   rating: 65.97016127655931
   total_rating: 65.97016127655931
   total_rating_count: 13
@@ -203,7 +203,7 @@
   total_rating_count: 48
 - id: 10238
   name: Depression Quest
-  popularity: 1.680611349679088
+  popularity: 1.451890634089587
   rating: 15.0079178521528
   total_rating: 32.5039589260764
   total_rating_count: 7

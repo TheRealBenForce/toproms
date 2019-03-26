@@ -1,20 +1,20 @@
 - franchise: 596
   id: 1026
   name: 'The Legend of Zelda: A Link to the Past'
-  popularity: 14.33077370564282
+  popularity: 13.39908849198233
   rating: 92.6933132922231
   total_rating: 96.34665664611154
   total_rating_count: 602
 - franchise: 4
   id: 426
   name: Final Fantasy VI
-  popularity: 15.0086096567772
+  popularity: 14.52627835488982
   rating: 90.8799463893366
   total_rating: 95.4399731946683
   total_rating_count: 285
 - id: 3798
   name: Dungeon Master
-  popularity: 2.359786862248037
+  popularity: 2.581617219313554
   rating: 89.98010197736599
   total_rating: 89.98010197736599
   total_rating_count: 5
@@ -59,7 +59,7 @@
 - franchise: 24
   id: 2332
   name: Super Mario Kart
-  popularity: 5.014291558707214
+  popularity: 5.51890634089587
   rating: 81.1839224927719
   total_rating: 85.59196124638595
   total_rating_count: 129
@@ -71,7 +71,7 @@
   total_rating_count: 15
 - id: 5199
   name: Super Mario All-Stars
-  popularity: 2.337185427455256
+  popularity: 2.581617219313554
   rating: 89.3504940944171
   total_rating: 84.67524704720856
   total_rating_count: 84
@@ -84,7 +84,7 @@
 - franchise: 792
   id: 3186
   name: Street Fighter II
-  popularity: 7.100523560209425
+  popularity: 7.326468877254218
   rating: 84.0702813240752
   total_rating: 84.0702813240752
   total_rating_count: 145
@@ -202,7 +202,7 @@
   total_rating_count: 23
 - id: 283
   name: Theme Park
-  popularity: 2.580194626354122
+  popularity: 2.807562536358348
   rating: 70.3333900644455
   total_rating: 74.66669503222275
   total_rating_count: 34

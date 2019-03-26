@@ -1,80 +1,80 @@
 - franchise: 832
   id: 3568
   name: 'Ogre Battle 64: Person of Lordly Caliber'
-  popularity: 12.78148958128563
+  popularity: 13.87888307155323
   rating: 99.6901310721837
   total_rating: 99.6901310721837
   total_rating_count: 5
 - franchise: 596
   id: 1026
   name: 'The Legend of Zelda: A Link to the Past'
-  popularity: 14.33077370564282
+  popularity: 13.39908849198233
   rating: 92.6933132922231
   total_rating: 96.34665664611154
   total_rating_count: 602
 - id: 1103
   name: Super Metroid
-  popularity: 11.84537521815009
+  popularity: 11.14470876616736
   rating: 91.9212012915191
   total_rating: 95.96060064575954
   total_rating_count: 331
 - franchise: 832
   id: 5550
   name: 'Tactics Ogre: Let Us Cling Together'
-  popularity: 51.97759914979359
+  popularity: 50.48202443280978
   rating: 99.9209932715109
   total_rating: 95.96049663575545
   total_rating_count: 16
 - franchise: 4
   id: 426
   name: Final Fantasy VI
-  popularity: 15.0086096567772
+  popularity: 14.52627835488982
   rating: 90.8799463893366
   total_rating: 95.4399731946683
   total_rating_count: 285
 - franchise: 24
   id: 1073
   name: 'Super Mario World 2: Yoshi''s Island'
-  popularity: 4.163234438627109
+  popularity: 3.705255670977963
   rating: 89.86075372169451
   total_rating: 94.93037686084725
   total_rating_count: 223
 - franchise: 792
   id: 18626
   name: Street Fighter II Turbo
-  popularity: 1.0
+  popularity: 1.451890634089587
   rating: 87.4583240286305
   total_rating: 93.72916201431525
   total_rating_count: 31
 - franchise: 596
   id: 1029
   name: 'The Legend of Zelda: Ocarina of Time'
-  popularity: 16.36428155904596
+  popularity: 16.78065808070479
   rating: 92.5218468892384
   total_rating: 92.5218468892384
   total_rating_count: 793
 - id: 2899
   name: EarthBound
-  popularity: 10.48970331588133
+  popularity: 10.01751890325988
   rating: 90.93092404269919
   total_rating: 92.13212868801625
   total_rating_count: 157
 - franchise: 24
   id: 1068
   name: Super Mario Bros. 3
-  popularity: 12.52321116928447
+  popularity: 12.04646065649335
   rating: 90.1994350190038
   total_rating: 90.1994350190038
   total_rating_count: 590
 - id: 1230
   name: 'Phantasy Star IV: The End of the Millennium'
-  popularity: 2.789119789509587
+  popularity: 2.581617219313554
   rating: 90.19465079080341
   total_rating: 90.19465079080341
   total_rating_count: 11
 - id: 3197
   name: Shining Force 2
-  popularity: 5.013584933074227
+  popularity: 4.615125072716696
   rating: 90.0747020926618
   total_rating: 90.0747020926618
   total_rating_count: 12
@@ -87,14 +87,14 @@
 - franchise: 596
   id: 1030
   name: 'The Legend of Zelda: Majora''s Mask'
-  popularity: 7.100523560209425
+  popularity: 6.635949314537424
   rating: 89.4508827694425
   total_rating: 89.72544138472125
   total_rating_count: 236
 - franchise: 24
   id: 1074
   name: Super Mario 64
-  popularity: 18.3977894124491
+  popularity: 17.90784794361227
   rating: 90.0102381849523
   total_rating: 89.50511909247615
   total_rating_count: 634
@@ -107,13 +107,13 @@
   total_rating_count: 14
 - id: 1233
   name: Phantasy Star
-  popularity: 3.687020575279201
+  popularity: 2.807562536358348
   rating: 89.4066048185706
   total_rating: 89.4066048185706
   total_rating_count: 11
 - id: 3340
   name: Paper Mario
-  popularity: 4.625073717318656
+  popularity: 4.841070389761489
   rating: 88.3564196896937
   total_rating: 89.17820984484685
   total_rating_count: 78
@@ -126,7 +126,7 @@
   total_rating_count: 37
 - id: 3721
   name: Kirby & the Amazing Mirror
-  popularity: 7.117311897975231
+  popularity: 7.326468877254218
   rating: 88.63489422281648
   total_rating: 88.63489422281648
   total_rating_count: 17
@@ -157,7 +157,7 @@
   total_rating_count: 7
 - id: 2591
   name: Star Fox 64
-  popularity: 2.353917090407653
+  popularity: 2.129726585223968
   rating: 87.6430015390295
   total_rating: 87.32150076951476
   total_rating_count: 84
@@ -177,27 +177,27 @@
 - franchise: 60
   id: 1558
   name: "Pok\xE9mon Gold"
-  popularity: 3.934647163229084
+  popularity: 4.163234438627109
   rating: 85.5091116570314
   total_rating: 86.50455582851569
   total_rating_count: 137
 - franchise: 895
   id: 1139
   name: 'Castlevania: Rondo of Blood'
-  popularity: 4.163234438627109
+  popularity: 5.067015706806283
   rating: 86.1385964421867
   total_rating: 86.1385964421867
   total_rating_count: 27
 - franchise: 60
   id: 1513
   name: "Pok\xE9mon Silver"
-  popularity: 6.211043468645567
+  popularity: 5.970796974985457
   rating: 87.198861946099
   total_rating: 86.0994309730495
   total_rating_count: 136
 - id: 1028
   name: 'The Legend of Zelda: Link''s Awakening'
-  popularity: 3.257420894791603
+  popularity: 3.485398487492728
   rating: 86.0920515414572
   total_rating: 86.0920515414572
   total_rating_count: 88
@@ -210,21 +210,21 @@
 - franchise: 24
   id: 2345
   name: Mario Kart DS
-  popularity: 3.483162984270763
+  popularity: 3.711343804537522
   rating: 81.6420901254692
   total_rating: 85.8210450627346
   total_rating_count: 113
 - franchise: 895
   id: 1124
   name: Super Castlevania IV
-  popularity: 4.163234438627109
+  popularity: 4.615125072716696
   rating: 71.2756203798718
   total_rating: 85.63781018993589
   total_rating_count: 51
 - franchise: 24
   id: 2332
   name: Super Mario Kart
-  popularity: 5.014291558707214
+  popularity: 5.51890634089587
   rating: 81.1839224927719
   total_rating: 85.59196124638595
   total_rating_count: 129
@@ -263,14 +263,14 @@
   total_rating_count: 10
 - id: 1407
   name: Metal Slug 2
-  popularity: 3.711343804537522
+  popularity: 3.485398487492728
   rating: 84.1362201233308
   total_rating: 84.1362201233308
   total_rating_count: 39
 - franchise: 792
   id: 3186
   name: Street Fighter II
-  popularity: 7.100523560209425
+  popularity: 7.326468877254218
   rating: 84.0702813240752
   total_rating: 84.0702813240752
   total_rating_count: 145
@@ -296,7 +296,7 @@
 - franchise: 591
   id: 1173
   name: 'Golden Sun: The Lost Age'
-  popularity: 1.0
+  popularity: 1.677835951134381
   rating: 87.73103187880639
   total_rating: 83.8655159394032
   total_rating_count: 22
@@ -316,34 +316,34 @@
   total_rating_count: 151
 - id: 1440
   name: 'Fire Emblem: The Sacred Stones'
-  popularity: 4.160389252708244
+  popularity: 4.389179755671902
   rating: 90.13013187946511
   total_rating: 83.06506593973256
   total_rating_count: 32
 - id: 1090
   name: Donkey Kong Country
-  popularity: 5.757909253980735
+  popularity: 5.51890634089587
   rating: 86.06236450422759
   total_rating: 82.86451558544715
   total_rating_count: 179
 - franchise: 24
   id: 2328
   name: Mario Party 2
-  popularity: 2.580194626354122
+  popularity: 2.807562536358348
   rating: 82.1186059734783
   total_rating: 82.1186059734783
   total_rating_count: 36
 - franchise: 60
   id: 1512
   name: "Pok\xE9mon Yellow"
-  popularity: 7.570446112640063
+  popularity: 8.004304828388598
   rating: 84.0860554695173
   total_rating: 82.04302773475865
   total_rating_count: 168
 - franchise: 814
   id: 6797
   name: Sonic the Hedgehog 3
-  popularity: 1.895673525093067
+  popularity: 1.677835951134381
   rating: 81.913175949941
   total_rating: 81.913175949941
   total_rating_count: 76
@@ -356,7 +356,7 @@
 - franchise: 24
   id: 2342
   name: Mario Kart 64
-  popularity: 4.400575836993836
+  popularity: 3.937289121582316
   rating: 81.7229529870502
   total_rating: 81.3614764935251
   total_rating_count: 208
@@ -368,26 +368,26 @@
   total_rating_count: 18
 - id: 3489
   name: F-Zero X
-  popularity: 2.586935390597123
+  popularity: 3.033507853403142
   rating: 81.2575898802592
   total_rating: 81.2575898802592
   total_rating_count: 22
 - franchise: 24
   id: 2343
   name: 'Mario Kart: Super Circuit'
-  popularity: 3.493755613795479
+  popularity: 3.711343804537522
   rating: 72.4951028825288
   total_rating: 81.24755144126439
   total_rating_count: 56
 - id: 6558
   name: River City Ransom
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 91.1684041322506
   total_rating: 81.0842020661253
   total_rating_count: 12
 - id: 2750
   name: Pac-Man
-  popularity: 4.160389252708244
+  popularity: 3.937289121582316
   rating: 83.1103600680685
   total_rating: 80.88851336736761
   total_rating_count: 86
@@ -421,14 +421,14 @@
 - franchise: 895
   id: 1119
   name: 'Castlevania III: Dracula''s Curse'
-  popularity: 5.984476361313151
+  popularity: 6.19674229203025
   rating: 80.4240227319277
   total_rating: 80.4240227319277
   total_rating_count: 39
 - franchise: 60
   id: 1561
   name: "Pok\xE9mon Red"
-  popularity: 10.51581850796147
+  popularity: 10.03781268179174
   rating: 85.58626056764959
   total_rating: 80.2931302838248
   total_rating_count: 202
@@ -453,7 +453,7 @@
   total_rating_count: 7
 - id: 3718
   name: Kirby's Dream Land 2
-  popularity: 1.680115167398767
+  popularity: 1.903781268179174
   rating: 80.04390010479611
   total_rating: 80.04390010479611
   total_rating_count: 14
@@ -569,7 +569,7 @@
 - franchise: 24
   id: 1067
   name: Super Mario Bros. 2
-  popularity: 4.851640824651071
+  popularity: 4.615125072716696
   rating: 78.03521302329129
   total_rating: 78.03521302329129
   total_rating_count: 197
@@ -676,7 +676,7 @@
   total_rating_count: 40
 - id: 1025
   name: 'Zelda II: The Adventure of Link'
-  popularity: 4.160389252708244
+  popularity: 4.389179755671902
   rating: 73.6594648723418
   total_rating: 73.6594648723418
   total_rating_count: 99
@@ -690,14 +690,14 @@
 - franchise: 845
   id: 1086
   name: Donkey Kong
-  popularity: 3.483162984270763
+  popularity: 3.259453170447935
   rating: 73.07401556523969
   total_rating: 73.07401556523969
   total_rating_count: 77
 - franchise: 24
   id: 1705
   name: 'WarioWare: Touched!'
-  popularity: 1.447836762546534
+  popularity: 1.677835951134381
   rating: 75.7602118421537
   total_rating: 72.88010592107685
   total_rating_count: 23
@@ -736,13 +736,13 @@
 - franchise: 38
   id: 1717
   name: Mega Man 4
-  popularity: 2.337185427455256
+  popularity: 2.581617219313554
   rating: 71.6633895838491
   total_rating: 71.6633895838491
   total_rating_count: 38
 - id: 6405
   name: Gunstar Heroes
-  popularity: 2.128710447395802
+  popularity: 1.677835951134381
   rating: 83.28804994504029
   total_rating: 71.64402497252014
   total_rating_count: 15
@@ -787,14 +787,14 @@
 - franchise: 792
   id: 6930
   name: Street Fighter
-  popularity: 2.355671902268761
+  popularity: 2.129726585223968
   rating: 70.2531525406327
   total_rating: 70.2531525406327
   total_rating_count: 28
 - franchise: 38
   id: 1775
   name: Mega Man Zero
-  popularity: 1.6717551438198
+  popularity: 1.903781268179174
   rating: 70.1903901918905
   total_rating: 70.1903901918905
   total_rating_count: 19
@@ -814,7 +814,7 @@
 - franchise: 789
   id: 3717
   name: Kirby's Adventure
-  popularity: 3.934647163229084
+  popularity: 4.163234438627109
   rating: 79.54139367573491
   total_rating: 69.77069683786746
   total_rating_count: 45
@@ -846,7 +846,7 @@
 - franchise: 895
   id: 1116
   name: 'Castlevania II: Simon''s Quest'
-  popularity: 4.39850660998624
+  popularity: 4.841070389761489
   rating: 68.5401224237404
   total_rating: 68.5401224237404
   total_rating_count: 35
@@ -858,7 +858,7 @@
   total_rating_count: 7
 - id: 4598
   name: Contra
-  popularity: 8.703281649302141
+  popularity: 8.908086096567772
   rating: 85.43287506412429
   total_rating: 67.71643753206214
   total_rating_count: 111
@@ -901,7 +901,7 @@
 - franchise: 771
   id: 11196
   name: Star Fox Zero
-  popularity: 1.668592713727628
+  popularity: 1.903781268179174
   rating: 64.9920478955822
   total_rating: 65.8806393324065
   total_rating_count: 29
@@ -944,7 +944,7 @@
   total_rating_count: 6
 - id: 4260
   name: Samurai Shodown
-  popularity: 1.902968357916641
+  popularity: 2.129726585223968
   rating: 81.69539159307331
   total_rating: 62.34769579653666
   total_rating_count: 16
