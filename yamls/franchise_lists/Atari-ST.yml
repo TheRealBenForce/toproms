@@ -1,40 +1,4 @@
-- - id: 184
-    name: Carmen Sandiego
-  - id: 358
-    name: The Addams Family
-  - id: 455
-    name: Zork
-  - id: 391
-    name: Spy vs. Spy
-  - id: 2
-    name: Indiana Jones
-  - id: 89
-    name: Simpsons
-  - id: 165
-    name: Rambo
-  - id: 792
-    name: Street Fighter
-  - id: 387
-    name: RoboCop
-  - id: 482
-    name: Area 88
-- - id: 495
-    name: Prince of Persia
-  - id: 724
-    name: The Blues Brothers
-  - id: 44
-    name: DC Comics
-  - id: 77
-    name: Teenage Mutant Ninja Turtles
-  - id: 79
-    name: tetris
-  - id: 1138
-    name: Kunio / Nekketsu High
-  - id: 556
-    name: The Bard's Tale
-  - id: 785
-    name: Maniac Mansion
-  - id: 1017
-    name: Sim
-  - id: 1035
-    name: Michael Jackson
+- id: 184
+  name: Carmen Sandiego
+- id: 495
+  name: Prince of Persia

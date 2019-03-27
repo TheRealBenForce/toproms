@@ -1,56 +1,6 @@
-- - id: 43
-    name: Dungeons & Dragons
-  - id: 10
-    name: Sid Meier
-  - id: 5
-    name: Batman
-  - id: 1241
-    name: The Banner Saga
-  - id: 135
-    name: Warcraft
-  - id: 1
-    name: Star Wars
-  - id: 589
-    name: starcraft
-  - id: 452
-    name: The Witcher
-  - id: 458
-    name: Might and Magic
-  - id: 977
-    name: Total War
-- - id: 11
-    name: The Lord of the Rings
-  - id: 2
-    name: Indiana Jones
-  - id: 23
-    name: Alien
-  - id: 39
-    name: The Walking Dead
-  - id: 4
-    name: Final Fantasy
-  - id: 12
-    name: Command & Conquer
-  - id: 137
-    name: Halo
-  - id: 493
-    name: Grand theft Auto
-  - id: 785
-    name: Maniac Mansion
-  - id: 1064
-    name: X-COM
-- - id: 366
-    name: Defense of the Ancients
-  - id: 52
-    name: Fables and Fiends
-  - id: 79
-    name: tetris
-  - id: 726
-    name: Call of Duty
-  - id: 556
-    name: The Bard's Tale
-  - id: 571
-    name: Assassin's Creed
-  - id: 1230
-    name: Rise of Nations
-  - id: 1017
-    name: Sim
+- id: 43
+  name: Dungeons & Dragons
+- id: 11
+  name: The Lord of the Rings
+- id: 366
+  name: Defense of the Ancients

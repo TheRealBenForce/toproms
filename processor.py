@@ -5,6 +5,7 @@ import roms
 from console_args import CONSOLE_ARGS
 from fuzzywuzzy import process
 import logging
+import franchises
 
 class Processor():
     def __init__(self):
@@ -28,12 +29,13 @@ class Processor():
         Then copies them to a new folder.
         '''
         logging.info('Beginning to create a new list of files to copy.')
-        total = 0
         for i in self.config_data:
             g = games.Games(i['platformID'])
             r = roms.Roms(i['platformID'])
+            f = franchises.Franchises(i['platformID'])
             top_list = sorted(g.get_top_game_list())
             file_list = sorted(r.get_rom_file_list())
+            franchise_list = f.get_franchise_list()
             clean_file_list = map(lambda x: self.santize_string(x), file_list)
             best_list = []
             logging.info(u'PROCESSING: {}'.format(g.get_console_name()))
@@ -47,12 +49,21 @@ class Processor():
                     if int(score) >= 90:
                         logging.info(u'MATCHED: {} | {} | high score {}'.format(t['name'], filename, score))
                         best_list.append(filename)
-                        total += 1
-                    else:
+                    else:    
                         logging.warning(u'SKIPPED DUE TO SCORE: {} | {} | high score {}'.format(t['name'], filename, score))
                 except Exception as e:
                     logging.exception(str(e))
                     pass
+            try:
+                if include_franchise == True:
+                    skipped_file_list = set(file_list) - set(best_list)
+                    skipped_file_list = map(str, skipped_file_list)
+                    for filename in skipped_file_list:
+                        if any(f.lower() in filename.lower() for f in franchise_list):
+                            logging.info(u'MATCHED FRANCHISE MEMBER: {}'.format(filename))
+                            best_list.append(filename)
+            except Exception as e:
+                logging.exception(str(e))
             r.make_new_rom_set(best_list)
         return
 

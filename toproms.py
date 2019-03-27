@@ -35,7 +35,7 @@ def refresh_all():
         games_obj = games.Games(p['id'])
         console_name = games_obj.get_console_name()
         game_list_filename  = './yamls/game_lists/' + console_name + '.yml'
-        write_file(game_list_filename, games_obj.refresh_game_list())
+        #write_file(game_list_filename, games_obj.refresh_game_list())
         franchises_obj = franchises.Franchises(p['id'])
         franchise_list = franchises_obj.refresh_franchise_list()
         franchise_list_filename  = './yamls/franchise_lists/' + console_name + '.yml'

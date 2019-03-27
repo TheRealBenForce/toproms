@@ -1,24 +1,4 @@
-- - id: 455
-    name: Zork
-  - id: 391
-    name: Spy vs. Spy
-  - id: 79
-    name: tetris
-  - id: 1138
-    name: Kunio / Nekketsu High
-  - id: 68
-    name: Ultima
-  - id: 8
-    name: Ghostbusters
-  - id: 845
-    name: Mario
-  - id: 387
-    name: RoboCop
-  - id: 556
-    name: The Bard's Tale
-  - id: 785
-    name: Maniac Mansion
-- - id: 184
-    name: Carmen Sandiego
-  - id: 1139
-    name: Gold Box Games
+- id: 455
+  name: Zork
+- id: 184
+  name: Carmen Sandiego

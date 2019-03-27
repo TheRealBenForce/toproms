@@ -1,94 +1,10 @@
-- - id: 24
-    name: Mario Bros.
-  - id: 5
-    name: Batman
-  - id: 35
-    name: Mickey Mouse
-  - id: 89
-    name: Simpsons
-  - id: 38
-    name: Mega Man
-  - id: 147
-    name: Power Rangers
-  - id: 4
-    name: Final Fantasy
-  - id: 792
-    name: Street Fighter
-  - id: 1
-    name: Star Wars
-  - id: 387
-    name: RoboCop
-- - id: 2
-    name: Indiana Jones
-  - id: 16
-    name: NBA
-  - id: 23
-    name: Alien
-  - id: 157
-    name: Toy Story
-  - id: 416
-    name: The Jungle Book
-  - id: 732
-    name: Home Alone
-  - id: 415
-    name: ActRaiser
-  - id: 630
-    name: Earthworm Jim
-  - id: 895
-    name: Castlevania
-  - id: 1017
-    name: Sim
-- - id: 43
-    name: Dungeons & Dragons
-  - id: 170
-    name: Animaniacs
-  - id: 832
-    name: Ogre Battle
-  - id: 117
-    name: Scooby-Doo
-  - id: 56
-    name: Dragon Ball
-  - id: 76
-    name: The Smurfs
-  - id: 77
-    name: Teenage Mutant Ninja Turtles
-  - id: 58
-    name: Asterix
-  - id: 942
-    name: Tales of
-  - id: 584
-    name: Seiken Densetsu
-- - id: 184
-    name: Carmen Sandiego
-  - id: 358
-    name: The Addams Family
-  - id: 280
-    name: Captain America
-  - id: 92
-    name: Looney Tunes
-  - id: 486
-    name: Jurassic Park
-  - id: 488
-    name: Aladdin
-  - id: 251
-    name: Tiny Toon Adventures
-  - id: 90
-    name: Micro Machines
-  - id: 482
-    name: Area 88
-  - id: 596
-    name: The Legend of Zelda
-- - id: 495
-    name: Prince of Persia
-  - id: 501
-    name: Donald Duck
-  - id: 633
-    name: Ghosts 'n Goblins
-  - id: 248
-    name: Terminator
-  - id: 763
-    name: Donkey Kong
-  - id: 750
-    name: Mortal Kombat
-  - id: 127
-    name: Shadowrun
+- id: 24
+  name: Mario Bros.
+- id: 2
+  name: Indiana Jones
+- id: 43
+  name: Dungeons & Dragons
+- id: 184
+  name: Carmen Sandiego
+- id: 495
+  name: Prince of Persia

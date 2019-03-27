@@ -1,58 +1,6 @@
-- - id: 43
-    name: Dungeons & Dragons
-  - id: 16
-    name: NBA
-  - id: 5
-    name: Batman
-  - id: 1241
-    name: The Banner Saga
-  - id: 4
-    name: Final Fantasy
-  - id: 1
-    name: Star Wars
-  - id: 1163
-    name: Ace Attorney
-  - id: 875
-    name: Fate
-  - id: 127
-    name: Shadowrun
-  - id: 493
-    name: Grand theft Auto
-- - id: 9
-    name: Tom Clancy
-  - id: 134
-    name: Fables (Vertigo)
-  - id: 51
-    name: LEGO
-  - id: 950
-    name: Minecraft
-  - id: 26
-    name: Disney
-  - id: 44
-    name: DC Comics
-  - id: 42
-    name: Magic The Gathering
-  - id: 135
-    name: Warcraft
-  - id: 1061
-    name: Samba de Amigo
-  - id: 1299
-    name: Skullgirls
-- - id: 510
-    name: Friday the 13th
-  - id: 810
-    name: Dismount
-  - id: 894
-    name: Plants vs Zombies
-  - id: 224
-    name: NFL
-  - id: 1378
-    name: White Day
-  - id: 748
-    name: PewDiePie
-  - id: 994
-    name: Rayman
-  - id: 458
-    name: Might and Magic
-  - id: 824
-    name: Monster Hunter
+- id: 43
+  name: Dungeons & Dragons
+- id: 9
+  name: Tom Clancy
+- id: 510
+  name: Friday the 13th

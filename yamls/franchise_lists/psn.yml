@@ -1,56 +1,6 @@
-- - id: 11
-    name: The Lord of the Rings
-  - id: 16
-    name: NBA
-  - id: 1241
-    name: The Banner Saga
-  - id: 28
-    name: South Park
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 389
-    name: The Warriors
-  - id: 792
-    name: Street Fighter
-  - id: 795
-    name: Ridge Racer
-  - id: 785
-    name: Maniac Mansion
-- - id: 950
-    name: Minecraft
-  - id: 551
-    name: Metal Gear Solid
-  - id: 817
-    name: Battle Chasers
-  - id: 325
-    name: MLB
-  - id: 29
-    name: Resident Evil
-  - id: 943
-    name: Xeno
-  - id: 554
-    name: Silent Hill
-  - id: 545
-    name: VOCALOID
-  - id: 571
-    name: Assassin's Creed
-  - id: 452
-    name: The Witcher
-- - id: 721
-    name: Star Ocean
-  - id: 39
-    name: The Walking Dead
-  - id: 499
-    name: Orcs Must Die
-  - id: 222
-    name: NCAA
-  - id: 855
-    name: The Legend of Heroes
-  - id: 492
-    name: The "Souls" series
-  - id: 592
-    name: Megami Tensei
-  - id: 895
-    name: Castlevania
+- id: 11
+  name: The Lord of the Rings
+- id: 950
+  name: Minecraft
+- id: 721
+  name: Star Ocean

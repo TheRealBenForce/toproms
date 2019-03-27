@@ -1,64 +1,8 @@
-- - id: 16
-    name: NBA
-  - id: 5
-    name: Batman
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 29
-    name: Resident Evil
-  - id: 792
-    name: Street Fighter
-  - id: 726
-    name: Call of Duty
-  - id: 492
-    name: The "Souls" series
-  - id: 592
-    name: Megami Tensei
-  - id: 463
-    name: Metal Gear
-- - id: 9
-    name: Tom Clancy
-  - id: 900
-    name: Atelier
-  - id: 7
-    name: Transformers
-  - id: 23
-    name: Alien
-  - id: 39
-    name: The Walking Dead
-  - id: 220
-    name: NHL
-  - id: 222
-    name: NCAA
-  - id: 855
-    name: The Legend of Heroes
-  - id: 1034
-    name: Fallout
-  - id: 1047
-    name: Dragon Age
-- - id: 209
-    name: Ice Age
-  - id: 51
-    name: LEGO
-  - id: 224
-    name: NFL
-  - id: 325
-    name: MLB
-  - id: 279
-    name: Tomb Raider
-  - id: 300
-    name: G-Force
-  - id: 736
-    name: Valkyria
-  - id: 571
-    name: Assassin's Creed
-  - id: 425
-    name: Half-Life
-  - id: 1064
-    name: X-COM
-- - id: 884
-    name: Red Dead
-  - id: 493
-    name: Grand theft Auto
+- id: 16
+  name: NBA
+- id: 9
+  name: Tom Clancy
+- id: 209
+  name: Ice Age
+- id: 884
+  name: Red Dead

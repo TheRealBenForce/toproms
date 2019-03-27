@@ -1,28 +1,4 @@
-- - id: 238
-    name: X-Men
-  - id: 501
-    name: Donald Duck
-  - id: 162
-    name: 101 Dalmatians
-  - id: 157
-    name: Toy Story
-  - id: 29
-    name: Resident Evil
-  - id: 792
-    name: Street Fighter
-  - id: 1
-    name: Star Wars
-  - id: 152
-    name: Jeopardy
-  - id: 801
-    name: Phantasy Star
-  - id: 814
-    name: Sonic
-- - id: 255
-    name: WWE
-  - id: 151
-    name: Spider-Man
-  - id: 153
-    name: Shadowman
-  - id: 179
-    name: BMX
+- id: 238
+  name: X-Men
+- id: 255
+  name: WWE

@@ -1,14 +1,2 @@
-- - id: 24
-    name: Mario Bros.
-  - id: 92
-    name: Looney Tunes
-  - id: 860
-    name: Super Mario
-  - id: 38
-    name: Mega Man
-  - id: 447
-    name: Ninja Gaiden
-  - id: 845
-    name: Mario
-  - id: 895
-    name: Castlevania
+- id: 24
+  name: Mario Bros.

@@ -1,14 +1,2 @@
-- - id: 9
-    name: Tom Clancy
-  - id: 238
-    name: X-Men
-  - id: 151
-    name: Spider-Man
-  - id: 726
-    name: Call of Duty
-  - id: 994
-    name: Rayman
-  - id: 814
-    name: Sonic
-  - id: 854
-    name: Dragon Slayer
+- id: 9
+  name: Tom Clancy

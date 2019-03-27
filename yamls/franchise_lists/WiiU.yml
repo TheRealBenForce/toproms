@@ -1,50 +1,6 @@
-- - id: 24
-    name: Mario Bros.
-  - id: 26
-    name: Disney
-  - id: 5
-    name: Batman
-  - id: 591
-    name: Golden Sun
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 943
-    name: Xeno
-  - id: 792
-    name: Street Fighter
-  - id: 596
-    name: The Legend of Zelda
-  - id: 895
-    name: Castlevania
-- - id: 43
-    name: Dungeons & Dragons
-  - id: 51
-    name: LEGO
-  - id: 950
-    name: Minecraft
-  - id: 49
-    name: The Avengers
-  - id: 83
-    name: Viewtiful Joe
-  - id: 79
-    name: tetris
-  - id: 29
-    name: Resident Evil
-  - id: 571
-    name: Assassin's Creed
-  - id: 814
-    name: Sonic
-  - id: 824
-    name: Monster Hunter
-- - id: 860
-    name: Super Mario
-  - id: 885
-    name: Darksiders
-  - id: 633
-    name: Ghosts 'n Goblins
-  - id: 763
-    name: Donkey Kong
-  - id: 756
-    name: Metroid
+- id: 24
+  name: Mario Bros.
+- id: 43
+  name: Dungeons & Dragons
+- id: 860
+  name: Super Mario

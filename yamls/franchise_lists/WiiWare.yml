@@ -1,16 +1,2 @@
-- - id: 60
-    name: "Pok\xE9mon"
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 1163
-    name: Ace Attorney
-  - id: 571
-    name: Assassin's Creed
-  - id: 814
-    name: Sonic
-  - id: 465
-    name: La-Mulana
-  - id: 895
-    name: Castlevania
+- id: 60
+  name: "Pok\xE9mon"

@@ -1,60 +1,6 @@
-- - id: 43
-    name: Dungeons & Dragons
-  - id: 10
-    name: Sid Meier
-  - id: 24
-    name: Mario Bros.
-  - id: 1241
-    name: The Banner Saga
-  - id: 79
-    name: tetris
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 29
-    name: Resident Evil
-  - id: 1163
-    name: Ace Attorney
-  - id: 814
-    name: Sonic
-- - id: 950
-    name: Minecraft
-  - id: 817
-    name: Battle Chasers
-  - id: 16
-    name: NBA
-  - id: 28
-    name: South Park
-  - id: 39
-    name: The Walking Dead
-  - id: 943
-    name: Xeno
-  - id: 789
-    name: Kirby
-  - id: 1299
-    name: Skullgirls
-  - id: 798
-    name: Doom
-  - id: 824
-    name: Monster Hunter
-- - id: 510
-    name: Friday the 13th
-  - id: 56
-    name: Dragon Ball
-  - id: 67
-    name: Ys
-  - id: 885
-    name: Darksiders
-  - id: 845
-    name: Mario
-  - id: 736
-    name: Valkyria
-  - id: 492
-    name: The "Souls" series
-  - id: 596
-    name: The Legend of Zelda
-  - id: 1247
-    name: Under Night In-Birth
-  - id: 1351
-    name: Crash Bandicoot
+- id: 43
+  name: Dungeons & Dragons
+- id: 950
+  name: Minecraft
+- id: 510
+  name: Friday the 13th

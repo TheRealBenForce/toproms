@@ -1,62 +1,8 @@
-- - id: 24
-    name: Mario Bros.
-  - id: 16
-    name: NBA
-  - id: 224
-    name: NFL
-  - id: 38
-    name: Mega Man
-  - id: 29
-    name: Resident Evil
-  - id: 792
-    name: Street Fighter
-  - id: 726
-    name: Call of Duty
-  - id: 814
-    name: Sonic
-  - id: 596
-    name: The Legend of Zelda
-  - id: 895
-    name: Castlevania
-- - id: 10
-    name: Sid Meier
-  - id: 51
-    name: LEGO
-  - id: 495
-    name: Prince of Persia
-  - id: 7
-    name: Transformers
-  - id: 4
-    name: Final Fantasy
-  - id: 37
-    name: James Bond
-  - id: 300
-    name: G-Force
-  - id: 943
-    name: Xeno
-  - id: 415
-    name: ActRaiser
-  - id: 824
-    name: Monster Hunter
-- - id: 209
-    name: Ice Age
-  - id: 60
-    name: "Pok\xE9mon"
-  - id: 832
-    name: Ogre Battle
-  - id: 833
-    name: Streets of Rage
-  - id: 447
-    name: Ninja Gaiden
-  - id: 222
-    name: NCAA
-  - id: 630
-    name: Earthworm Jim
-  - id: 886
-    name: Xanadu
-  - id: 465
-    name: La-Mulana
-  - id: 1005
-    name: Capcom
-- - id: 763
-    name: Donkey Kong
+- id: 24
+  name: Mario Bros.
+- id: 10
+  name: Sid Meier
+- id: 209
+  name: Ice Age
+- id: 763
+  name: Donkey Kong

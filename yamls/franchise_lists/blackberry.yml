@@ -1,18 +1,2 @@
-- - id: 7
-    name: Transformers
-  - id: 224
-    name: NFL
-  - id: 151
-    name: Spider-Man
-  - id: 320
-    name: Iron Man
-  - id: 1
-    name: Star Wars
-  - id: 1049
-    name: Angry Birds
-  - id: 1061
-    name: Samba de Amigo
-  - id: 556
-    name: The Bard's Tale
-  - id: 814
-    name: Sonic
+- id: 7
+  name: Transformers

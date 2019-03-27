@@ -1,90 +1,10 @@
-- - id: 9
-    name: Tom Clancy
-  - id: 11
-    name: The Lord of the Rings
-  - id: 133
-    name: Harry Potter
-  - id: 495
-    name: Prince of Persia
-  - id: 24
-    name: Mario Bros.
-  - id: 16
-    name: NBA
-  - id: 151
-    name: Spider-Man
-  - id: 29
-    name: Resident Evil
-  - id: 1
-    name: Star Wars
-  - id: 596
-    name: The Legend of Zelda
-- - id: 238
-    name: X-Men
-  - id: 5
-    name: Batman
-  - id: 56
-    name: Dragon Ball
-  - id: 100
-    name: Spongebob Squarepants
-  - id: 210
-    name: Hulk
-  - id: 224
-    name: NFL
-  - id: 38
-    name: Mega Man
-  - id: 726
-    name: Call of Duty
-  - id: 814
-    name: Sonic
-  - id: 463
-    name: Metal Gear
-- - id: 43
-    name: Dungeons & Dragons
-  - id: 174
-    name: Barnyard
-  - id: 26
-    name: Disney
-  - id: 89
-    name: Simpsons
-  - id: 164
-    name: Madagascar
-  - id: 4
-    name: Final Fantasy
-  - id: 37
-    name: James Bond
-  - id: 1110
-    name: FIFA
-  - id: 771
-    name: Star Fox
-  - id: 801
-    name: Phantasy Star
-- - id: 47
-    name: XIII
-  - id: 51
-    name: LEGO
-  - id: 979
-    name: The Sims
-  - id: 225
-    name: One Piece
-  - id: 176
-    name: Lego Bionicle
-  - id: 191
-    name: Digimon
-  - id: 222
-    name: NCAA
-  - id: 228
-    name: King Kong
-  - id: 457
-    name: Sonic The Hedgehog
-  - id: 977
-    name: Total War
-- - id: 209
-    name: Ice Age
-  - id: 244
-    name: Starsky & Hutch
-  - id: 501
-    name: Donald Duck
-  - id: 229
-    name: Ratatouille
-  - id: 994
-    name: Rayman
+- id: 9
+  name: Tom Clancy
+- id: 238
+  name: X-Men
+- id: 43
+  name: Dungeons & Dragons
+- id: 47
+  name: XIII
+- id: 209
+  name: Ice Age

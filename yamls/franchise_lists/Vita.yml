@@ -1,54 +1,6 @@
-- - id: 11
-    name: The Lord of the Rings
-  - id: 133
-    name: Harry Potter
-  - id: 900
-    name: Atelier
-  - id: 325
-    name: MLB
-  - id: 4
-    name: Final Fantasy
-  - id: 1299
-    name: Skullgirls
-  - id: 1304
-    name: Neptunia
-  - id: 855
-    name: The Legend of Heroes
-  - id: 592
-    name: Megami Tensei
-  - id: 463
-    name: Metal Gear
-- - id: 51
-    name: LEGO
-  - id: 950
-    name: Minecraft
-  - id: 44
-    name: DC Comics
-  - id: 5
-    name: Batman
-  - id: 49
-    name: The Avengers
-  - id: 544
-    name: Hatsune Miku
-  - id: 792
-    name: Street Fighter
-  - id: 191
-    name: Digimon
-  - id: 543
-    name: Sword Art Online
-  - id: 814
-    name: Sonic
-- - id: 225
-    name: One Piece
-  - id: 67
-    name: Ys
-  - id: 79
-    name: tetris
-  - id: 907
-    name: Dynasty Warriors
-  - id: 852
-    name: Attack on Titan
-  - id: 800
-    name: LittleBigPlanet
-  - id: 875
-    name: Fate
+- id: 11
+  name: The Lord of the Rings
+- id: 51
+  name: LEGO
+- id: 225
+  name: One Piece

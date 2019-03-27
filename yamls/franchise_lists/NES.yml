@@ -1,86 +1,10 @@
-- - id: 24
-    name: Mario Bros.
-  - id: 26
-    name: Disney
-  - id: 2
-    name: Indiana Jones
-  - id: 5
-    name: Batman
-  - id: 89
-    name: Simpsons
-  - id: 77
-    name: Teenage Mutant Ninja Turtles
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 387
-    name: RoboCop
-  - id: 895
-    name: Castlevania
-- - id: 791
-    name: Space Invaders
-  - id: 391
-    name: Spy vs. Spy
-  - id: 860
-    name: Super Mario
-  - id: 265
-    name: The Goonies
-  - id: 266
-    name: Popeye
-  - id: 416
-    name: The Jungle Book
-  - id: 535
-    name: Top Gun
-  - id: 8
-    name: Ghostbusters
-  - id: 789
-    name: Kirby
-  - id: 785
-    name: Maniac Mansion
-- - id: 23
-    name: Alien
-  - id: 76
-    name: The Smurfs
-  - id: 79
-    name: tetris
-  - id: 58
-    name: Asterix
-  - id: 447
-    name: Ninja Gaiden
-  - id: 502
-    name: Felix the Cat
-  - id: 845
-    name: Mario
-  - id: 556
-    name: The Bard's Tale
-  - id: 1056
-    name: DC
-  - id: 433
-    name: Willow
-- - id: 495
-    name: Prince of Persia
-  - id: 724
-    name: The Blues Brothers
-  - id: 280
-    name: Captain America
-  - id: 92
-    name: Looney Tunes
-  - id: 264
-    name: Hogan's Alley
-  - id: 90
-    name: Micro Machines
-  - id: 484
-    name: TaleSpin
-  - id: 1139
-    name: Gold Box Games
-  - id: 463
-    name: Metal Gear
-  - id: 886
-    name: Xanadu
-- - id: 510
-    name: Friday the 13th
-  - id: 251
-    name: Tiny Toon Adventures
-  - id: 504
-    name: Darkwing Duck
+- id: 24
+  name: Mario Bros.
+- id: 791
+  name: Space Invaders
+- id: 23
+  name: Alien
+- id: 495
+  name: Prince of Persia
+- id: 510
+  name: Friday the 13th

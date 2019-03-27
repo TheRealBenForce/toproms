@@ -1,28 +1,4 @@
-- - id: 133
-    name: Harry Potter
-  - id: 10
-    name: Sid Meier
-  - id: 817
-    name: Battle Chasers
-  - id: 464
-    name: Predator
-  - id: 22
-    name: Worms
-  - id: 6
-    name: Warhammer 40,000
-  - id: 1299
-    name: Skullgirls
-  - id: 814
-    name: Sonic
-  - id: 457
-    name: Sonic The Hedgehog
-  - id: 977
-    name: Total War
-- - id: 462
-    name: Numenera
-  - id: 26
-    name: Disney
-  - id: 55
-    name: Deathspank
-  - id: 438
-    name: The Dark Eye
+- id: 133
+  name: Harry Potter
+- id: 462
+  name: Numenera

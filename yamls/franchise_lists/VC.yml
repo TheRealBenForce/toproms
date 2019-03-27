@@ -1,42 +1,6 @@
-- - id: 24
-    name: Mario Bros.
-  - id: 60
-    name: "Pok\xE9mon"
-  - id: 832
-    name: Ogre Battle
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 792
-    name: Street Fighter
-  - id: 1
-    name: Star Wars
-  - id: 814
-    name: Sonic
-  - id: 596
-    name: The Legend of Zelda
-  - id: 895
-    name: Castlevania
-- - id: 2
-    name: Indiana Jones
-  - id: 591
-    name: Golden Sun
-  - id: 1138
-    name: Kunio / Nekketsu High
-  - id: 845
-    name: Mario
-  - id: 763
-    name: Donkey Kong
-  - id: 789
-    name: Kirby
-  - id: 771
-    name: Star Fox
-  - id: 630
-    name: Earthworm Jim
-  - id: 463
-    name: Metal Gear
-  - id: 1017
-    name: Sim
-- - id: 415
-    name: ActRaiser
+- id: 24
+  name: Mario Bros.
+- id: 2
+  name: Indiana Jones
+- id: 415
+  name: ActRaiser

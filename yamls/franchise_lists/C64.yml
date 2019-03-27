@@ -1,50 +1,6 @@
-- - id: 455
-    name: Zork
-  - id: 391
-    name: Spy vs. Spy
-  - id: 2
-    name: Indiana Jones
-  - id: 44
-    name: DC Comics
-  - id: 89
-    name: Simpsons
-  - id: 266
-    name: Popeye
-  - id: 792
-    name: Street Fighter
-  - id: 8
-    name: Ghostbusters
-  - id: 785
-    name: Maniac Mansion
-  - id: 1035
-    name: Michael Jackson
-- - id: 184
-    name: Carmen Sandiego
-  - id: 24
-    name: Mario Bros.
-  - id: 724
-    name: The Blues Brothers
-  - id: 23
-    name: Alien
-  - id: 77
-    name: Teenage Mutant Ninja Turtles
-  - id: 165
-    name: Rambo
-  - id: 79
-    name: tetris
-  - id: 845
-    name: Mario
-  - id: 556
-    name: The Bard's Tale
-  - id: 463
-    name: Metal Gear
-- - id: 1138
-    name: Kunio / Nekketsu High
-  - id: 1139
-    name: Gold Box Games
-  - id: 895
-    name: Castlevania
-  - id: 1017
-    name: Sim
-  - id: 1123
-    name: Fist of the North Star
+- id: 455
+  name: Zork
+- id: 184
+  name: Carmen Sandiego
+- id: 1138
+  name: Kunio / Nekketsu High

@@ -1,78 +1,8 @@
-- - id: 133
-    name: Harry Potter
-  - id: 495
-    name: Prince of Persia
-  - id: 16
-    name: NBA
-  - id: 56
-    name: Dragon Ball
-  - id: 224
-    name: NFL
-  - id: 38
-    name: Mega Man
-  - id: 4
-    name: Final Fantasy
-  - id: 1
-    name: Star Wars
-  - id: 592
-    name: Megami Tensei
-  - id: 463
-    name: Metal Gear
-- - id: 9
-    name: Tom Clancy
-  - id: 10
-    name: Sid Meier
-  - id: 255
-    name: WWE
-  - id: 7
-    name: Transformers
-  - id: 151
-    name: Spider-Man
-  - id: 389
-    name: The Warriors
-  - id: 792
-    name: Street Fighter
-  - id: 222
-    name: NCAA
-  - id: 124
-    name: Marvel
-  - id: 855
-    name: The Legend of Heroes
-- - id: 552
-    name: Persona
-  - id: 281
-    name: Cars 2
-  - id: 5
-    name: Batman
-  - id: 544
-    name: Hatsune Miku
-  - id: 157
-    name: Toy Story
-  - id: 431
-    name: Dante's Inferno
-  - id: 300
-    name: G-Force
-  - id: 554
-    name: Silent Hill
-  - id: 191
-    name: Digimon
-  - id: 824
-    name: Monster Hunter
-- - id: 238
-    name: X-Men
-  - id: 832
-    name: Ogre Battle
-  - id: 336
-    name: Pirates of the Caribbean
-  - id: 249
-    name: UFC
-  - id: 871
-    name: Ape Escape
-  - id: 220
-    name: NHL
-  - id: 1110
-    name: FIFA
-  - id: 228
-    name: King Kong
-  - id: 895
-    name: Castlevania
+- id: 133
+  name: Harry Potter
+- id: 9
+  name: Tom Clancy
+- id: 552
+  name: Persona
+- id: 238
+  name: X-Men

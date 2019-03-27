@@ -22,6 +22,12 @@ def _parse_arguments():
                         type=str,
                         dest='apikey',
                         help='An optional api key for IGDB. Can be used to refresh platform and game lists.')
+    parser.add_argument('-f --franchise',
+                        dest='include_franchise',
+                        action='store_true',
+                        help="""If flag as set, will attempt to match all games within a franchise when at least
+                        'one game is in the top ranked games."""
+                        )
     return parser.parse_args()
 
 CONSOLE_ARGS =  _parse_arguments()
