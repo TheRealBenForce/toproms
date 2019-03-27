@@ -12,8 +12,11 @@ because I get to experiment with fuzzy searching.
     * pip install pyyaml requests fuzzywuzzy
     * Optionally python-Levenshtein to make things go a lot quicker. You will also need [Microsoft Visual C++ Compiler for Python 2.7](http://aka.ms/vcpython27).
 3. Edit config.csv to point to your rom folders. If you have an unreferenced platform, you can look it up in yamls\platform_list.yml
-4. run 'python \_\_main__.py'. The program will take a best guess to make a subset of your highest rated roms and copy to toproms folder.
-    * To refresh the platform and top rates game list, optionally, run 'python \_\_main__.py -a IGDB', where IGDB is an IGDB api key.
+4. run 'python toproms.py'. The program will take a best guess to make a subset of your highest rated roms and copy to toproms folder.
+    * To refresh the platform and top rates game list, optionally, run 'python toproms.py -a $IGDB', where IGDB is an IGDB api key.
+    * To include all games that have a highly represented franchise name within the rom file name 'python toproms.py -f'
+    * To change the config path 'python toproms.py c:\users\therealbenforce\my-config.py'
+
 5. Logging will be reported to 'info.log' and 'errors.log'. Please report any bugs and I will try to fix.
 
 ## About how matching works
@@ -28,14 +31,13 @@ This may need tuning overtime, but this is how it work. Open to suggestions:
 
 ## project goals
 ### short term
-- Searches a director for rom folders and makes a new folder of the 50 most popular roms
+- Searches a directory for rom folders and makes a new folder of the 50 most popular roms
 
 
 ### long term
 - Support for japanese roms
 - Different dimensions such as rating
 - More than 150 games
-- Best guess at all roms in a series
 - publish to pypi
 
 
@@ -49,7 +51,6 @@ This may need tuning overtime, but this is how it work. Open to suggestions:
 - Argparse to pass a paid api key and get more than 200 results back
 - Parameterize how many roms you want either by count or size on disk
 - Parameterize score threshold to match a game
-- Move get_console_name to the platforms module 
 - Fix Dragon Quest / Dragon Warrior type problems
 - Remove common words to improve search scoring (ie, Legend of Zelda vs The Legend of Zelda)
 - rework objects
